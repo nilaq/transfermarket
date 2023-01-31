@@ -56,7 +56,6 @@ df_raw <- player_valuations_clean %>%
 
 ## Restrict Scope of data set
 df <- df_raw %>%
-  filter(year(date) >= 2010) %>%
   filter(domestic_competition_id %in% (competitions %>%
            filter(sub_type == 'first_tier') %>%
            filter(country_name %in% c('Germany', 'Spain', 'France', 'England', 'Italy')))$competition_id)
@@ -71,6 +70,7 @@ ggplot(top_transfers, aes(x=factor(year), y=market_value_in_eur)) +
 ggplot(df, aes(x=goals_prev_season, y=market_value_in_eur)) + 
   geom_point() + 
   facet_wrap(~position) +
-  geom_smooth(method='lm')
+  geom_smooth(method='lm') +
+  ggtitle('Market Value vs. Goals Scored in previous season by position')
   
 
