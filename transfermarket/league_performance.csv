@@ -1,491 +1,491 @@
 ﻿Year,Team,League,League Rank,Matches Played,Wins,Draws,Losses,Goals For,Goals Against,Goal Difference,Points,Points per match,Exp. Goals,Exp. Goals Against,Exp. Goal Difference,Exp. Goal Difference/90 min,Attendance,Top Team Scorer,Goalkeeper
-2018,Manchester City,eng ENG,1,38,32,4,2,106,27,79,100,2.63,78.6,23.8,54.8,1.44,54070,Sergio Agüero - 21,Ederson
-2018,Juventus,it ITA,1,38,30,5,3,86,24,62,95,2.5,55.3,27.4,27.9,0.73,39316,Paulo Dybala - 22,Gianluigi Buffon
-2018,Bayern Munich,de GER,1,34,27,3,4,92,28,64,84,2.47,75.8,31.7,44.1,1.3,75000,Robert Lewandowski - 29,Sven Ulreich
-2018,Paris S-G,fr FRA,1,38,29,6,3,108,29,79,93,2.45,86.1,34.3,51.7,1.36,46930,Edinson Cavani - 28,Alphonse Areola
-2018,Barcelona,es ESP,1,38,28,9,1,99,29,70,93,2.45,83.5,41.9,41.6,1.09,67142,Lionel Messi - 34,Marc-André ter Stegen
-2018,Napoli,it ITA,2,38,28,7,3,77,29,48,91,2.39,67.1,27.1,40.1,1.05,43050,Dries Mertens - 18,Pepe Reina
-2018,Manchester Utd,eng ENG,2,38,25,6,7,68,28,40,81,2.13,55.7,40.7,15,0.4,74976,Romelu Lukaku - 16,David de Gea
-2018,Monaco,fr FRA,2,38,24,8,6,85,45,40,80,2.11,62.3,48.5,13.8,0.36,9243,Radamel Falcao - 18,Danijel Subašić
-2018,Atlético Madrid,es ESP,2,38,23,10,5,58,22,36,79,2.08,50.2,35.8,14.4,0.38,52707,Antoine Griezmann - 19,Jan Oblak
-2018,Lyon,fr FRA,3,38,23,9,6,87,43,44,78,2.05,63.4,40.1,23.3,0.61,44047,Memphis - 19,Anthony Lopes
-2018,Tottenham,eng ENG,3,38,23,8,7,74,36,38,77,2.03,64.7,33.9,30.8,0.81,67953,Harry Kane - 30,Hugo Lloris
-2018,Marseille,fr FRA,4,38,22,11,5,80,47,33,77,2.03,78.1,41.8,36.3,0.96,46616,Florian Thauvin - 22,Steve Mandanda
-2018,Roma,it ITA,3,38,23,8,7,61,28,33,77,2.03,63.4,37.2,26.2,0.69,37450,Edin Džeko - 16,Alisson
-2018,Real Madrid,es ESP,3,38,22,10,6,94,44,50,76,2,85.4,43.2,42.2,1.11,66863,Cristiano Ronaldo - 26,Keylor Navas
-2018,Liverpool,eng ENG,4,38,21,12,5,84,38,46,75,1.97,72.9,33.8,39.1,1.03,53049,Mohamed Salah - 32,Loris Karius Simon Mignolet
-2018,Valencia,es ESP,4,38,22,7,9,65,38,27,73,1.92,56,48.3,7.7,0.2,38607,Rodrigo - 16,Neto
-2018,Lazio,it ITA,5,38,21,9,8,89,49,40,72,1.89,63.7,43.9,19.9,0.52,30990,Ciro Immobile - 29,Thomas Strakosha
-2018,Inter,it ITA,4,38,20,12,6,66,30,36,72,1.89,56.7,37.2,19.6,0.52,57529,Mauro Icardi - 29,Samir Handanović
-2018,Schalke 04,de GER,2,34,18,9,7,53,37,16,63,1.85,46.7,40.2,6.6,0.19,61197,Guido Burgstaller - 11,Ralf Fährmann
-2018,Chelsea,eng ENG,5,38,21,7,10,62,38,24,70,1.84,54.4,33.8,20.6,0.54,41282,Eden Hazard - 12,Thibaut Courtois
-2018,Milan,it ITA,6,38,18,10,10,56,42,14,64,1.68,51.2,36.9,14.3,0.38,52690,Patrick Cutrone - 10,Gianluigi Donnarumma
-2018,Arsenal,eng ENG,6,38,19,6,13,74,51,23,63,1.66,68.3,47.8,20.5,0.54,59323,Alexandre Lacazette - 14,Petr Čech
-2018,Hoffenheim,de GER,3,34,15,10,9,66,48,18,55,1.62,50.5,47.2,3.3,0.1,28716,Mark Uth - 14,Oliver Baumann
-2018,Dortmund,de GER,4,34,15,10,9,64,47,17,55,1.62,66,42.2,23.8,0.7,79496,Pierre-Emerick Aubameyang - 13,Roman Bürki
-2018,Leverkusen,de GER,5,34,15,10,9,58,44,14,55,1.62,57.5,38.9,18.6,0.55,28415,Kevin Volland - 14,Bernd Leno
-2018,Villarreal,es ESP,5,38,18,7,13,57,50,7,61,1.61,53.2,53.4,-0.2,0,16779,Carlos Bacca - 15,Sergio Asenjo
-2018,Atalanta,it ITA,7,38,16,12,10,57,39,18,60,1.58,64.1,36.6,27.5,0.72,17921,Josip Iličić - 11,Etrit Berisha
-2018,Betis,es ESP,6,38,18,6,14,60,61,-1,60,1.58,46,49,-3.1,-0.08,46781,Sergio León - 11,Antonio Adán
-2018,RB Leipzig,de GER,6,34,15,8,11,57,53,4,53,1.56,51.9,46.7,5.2,0.15,39397,Timo Werner - 13,Péter Gulácsi
-2018,Rennes,fr FRA,5,38,16,10,12,50,44,6,58,1.53,49.8,49.3,0.5,0.01,23111,Benjamin Bourigeaud - 10,Tomáš Koubek
-2018,Sevilla,es ESP,7,38,17,7,14,49,58,-9,58,1.53,59.5,54.4,5.2,0.14,33006,Wissam Ben Yedder - 9,Sergio Rico
-2018,Fiorentina,it ITA,8,38,16,9,13,54,46,8,57,1.5,54.5,40.8,13.7,0.36,26092,Giovanni Simeone - 14,Marco Sportiello
-2018,Stuttgart,de GER,7,34,15,6,13,36,36,0,51,1.5,40.3,43.5,-3.1,-0.09,56045,Mario Gómez - 8,Ron-Robert Zieler
-2018,Getafe,es ESP,8,38,15,10,13,42,33,9,55,1.45,48.2,39.7,8.5,0.22,10428,Ángel Rodríguez - 13,Vicente Guaita
-2018,Bordeaux,fr FRA,6,38,16,7,15,53,48,5,55,1.45,51,43.6,7.5,0.2,26048,Malcom - 12,Benoît Costil
-2018,Saint-Étienne,fr FRA,7,38,15,10,13,47,50,-3,55,1.45,51,54.1,-3.1,-0.08,27563,Jonathan Bamba Robert Berić... - 7,Stéphane Ruffier
-2018,Eint Frankfurt,de GER,8,34,14,7,13,45,45,0,49,1.44,42.2,41.7,0.5,0.01,49159,Sébastien Haller - 9,Lukáš Hrádecký
-2018,Torino,it ITA,9,38,13,15,10,54,46,8,54,1.42,46,47,-1,-0.03,18596,Iago Falque - 12,Salvatore Sirigu
-2018,Nice,fr FRA,8,38,15,9,14,53,52,1,54,1.42,49.2,49.5,-0.3,-0.01,22876,Mario Balotelli - 18,Walter Benítez
-2018,Burnley,eng ENG,7,38,14,12,12,36,39,-3,54,1.42,32.3,51.2,-18.9,-0.5,20688,Chris Wood - 10,Nick Pope
-2018,Sampdoria,it ITA,10,38,16,6,16,56,60,-4,54,1.42,53.5,60.3,-6.8,-0.18,20156,Fabio Quagliarella - 19,Emiliano Viviano
-2018,M'Gladbach,de GER,9,34,13,8,13,47,52,-5,47,1.38,51.1,51.9,-0.8,-0.02,50986,Thorgan Hazard - 10,Yann Sommer
-2018,Nantes,fr FRA,9,38,14,10,14,36,41,-5,52,1.37,41.8,38.1,3.7,0.1,24559,Emiliano Sala - 12,Ciprian Tătărușanu
-2018,Montpellier,fr FRA,10,38,11,18,9,36,33,3,51,1.34,42.6,39,3.6,0.1,13458,Giovanni Sio - 10,Benjamin Lecomte
-2018,Eibar,es ESP,9,38,14,9,15,44,50,-6,51,1.34,40.9,44.4,-3.5,-0.09,5338,Charles Kike - 8,Marko Dmitrović
-2018,Girona,es ESP,10,38,14,9,15,50,59,-9,51,1.34,50.6,50.4,0.2,0.01,10424,Cristhian Stuani - 21,Yassine Bounou
-2018,Real Sociedad,es ESP,12,38,14,7,17,66,59,7,49,1.29,53.7,50.5,3.1,0.08,19793,Willian José - 15,Gerónimo Rulli
-2018,Celta Vigo,es ESP,13,38,13,10,15,59,60,-1,49,1.29,55,55.3,-0.3,-0.01,16195,Iago Aspas - 22,Rubén Blanco
-2018,Espanyol,es ESP,11,38,12,13,13,36,42,-6,49,1.29,41.1,52.3,-11.2,-0.29,17882,Gerard Moreno - 16,Pau López
-2018,Everton,eng ENG,8,38,13,10,15,44,58,-14,49,1.29,40.5,52.4,-11.9,-0.31,38797,Wayne Rooney - 10,Jordan Pickford
-2018,Hertha BSC,de GER,10,34,10,13,11,43,46,-3,43,1.26,39.2,44.3,-5.1,-0.15,45319,Salomon Kalou - 12,Rune Jarstein
-2018,Dijon,fr FRA,11,38,13,9,16,55,73,-18,48,1.26,41.6,63.8,-22.2,-0.58,12228,Júlio Tavares - 12,Baptiste Reynet
-2018,Werder Bremen,de GER,11,34,10,12,12,37,40,-3,42,1.24,38.9,45.1,-6.2,-0.18,38726,Max Kruse - 6,Jiří Pavlenka
-2018,Leicester City,eng ENG,9,38,12,11,15,56,60,-4,47,1.24,50,48.1,1.9,0.05,31583,Jamie Vardy - 20,Kasper Schmeichel
-2018,Alavés,es ESP,14,38,15,2,21,40,50,-10,47,1.24,38.5,55.9,-17.4,-0.46,18845,Munir El Haddadi - 10,Fernando Pacheco
-2018,Guingamp,fr FRA,12,38,12,11,15,48,59,-11,47,1.24,45.5,49,-3.5,-0.09,14502,Jimmy Briand - 11,Karl-Johan Johnsson
-2018,Augsburg,de GER,12,34,10,11,13,43,46,-3,41,1.21,44.7,41.4,3.3,0.1,28238,Michael Gregoritsch - 13,Marwin Hitz
-2018,Levante,es ESP,15,38,11,13,14,44,58,-14,46,1.21,44.7,63.6,-18.8,-0.5,18534,José Luis Morales - 10,Oier Olazábal
-2018,Amiens,fr FRA,13,38,12,9,17,37,42,-5,45,1.18,32.8,54.9,-22.1,-0.58,9521,Moussa Konaté - 13,Régis Gurtner
-2018,Newcastle Utd,eng ENG,10,38,12,8,18,39,47,-8,44,1.16,41.6,52.4,-10.8,-0.28,51992,Ayoze Pérez - 8,Rob Elliot
-2018,Crystal Palace,eng ENG,11,38,11,11,16,45,55,-10,44,1.16,53.5,48.2,5.2,0.14,25063,Luka Milivojević - 10,Wayne Hennessey
-2018,Bournemouth,eng ENG,12,38,11,11,16,45,61,-16,44,1.16,38.8,59.2,-20.4,-0.54,10641,Joshua King Callum Wilson - 8,Asmir Begović
-2018,Hannover 96,de GER,13,34,10,9,15,44,54,-10,39,1.15,44.6,55.6,-11,-0.32,42706,Niclas Füllkrug - 14,Philipp Tschauner
-2018,Athletic Club,es ESP,16,38,10,13,15,41,49,-8,43,1.13,49.7,50.3,-0.6,-0.02,37246,Raúl García - 10,Kepa Arrizabalaga
-2018,Leganés,es ESP,17,38,12,7,19,34,51,-17,43,1.13,39.9,47.6,-7.6,-0.2,9969,Gabriel - 5,Iván Cuéllar
-2018,Sassuolo,it ITA,11,38,11,10,17,29,59,-30,43,1.13,46.3,48.9,-2.6,-0.07,11237,Matteo Politano - 10,Andrea Consigli
-2018,West Ham,eng ENG,13,38,10,12,16,48,68,-20,42,1.11,36.7,55.1,-18.4,-0.48,56885,Marko Arnautović - 11,Joe Hart Adrián
-2018,Angers,fr FRA,14,38,9,14,15,42,52,-10,41,1.08,47.6,45.8,1.8,0.05,11065,Karl Toko Ekambi - 17,Ludovic Butelle
-2018,Genoa,it ITA,12,38,11,8,19,33,43,-10,41,1.08,43.5,42.6,0.9,0.02,20941,Gianluca Lapadula - 6,Mattia Perin
-2018,Watford,eng ENG,14,38,11,8,19,44,64,-20,41,1.08,45,51.8,-6.8,-0.18,20231,Abdoulaye Doucouré - 7,Heurelho Gomes
-2018,Mainz 05,de GER,14,34,9,9,16,38,52,-14,36,1.06,35.4,47.9,-12.5,-0.37,28766,Yoshinori Mutō - 8,Robin Zentner
-2018,Freiburg,de GER,15,34,8,12,14,32,56,-24,36,1.06,39.6,46.1,-6.6,-0.19,23894,Nils Petersen - 15,Alexander Schwolow
-2018,Udinese,it ITA,14,38,12,4,22,48,63,-15,40,1.05,43.2,49.3,-6.1,-0.16,17906,Kevin Lasagna - 12,Albano Bizzarri
-2018,Brighton,eng ENG,15,38,9,13,16,34,54,-20,40,1.05,37,50.8,-13.8,-0.36,30403,Glenn Murray - 12,Mathew Ryan
-2018,Chievo,it ITA,13,38,10,10,18,36,59,-23,40,1.05,34.1,55.2,-21.2,-0.56,12540,Roberto Inglese - 12,Stefano Sorrentino
-2018,Bologna,it ITA,15,38,11,6,21,40,52,-12,39,1.03,36.6,51.4,-14.8,-0.39,20903,Simone Verdi - 10,Antonio Mirante
-2018,Cagliari,it ITA,16,38,11,6,21,33,61,-28,39,1.03,39.7,59.2,-19.5,-0.51,14685,Leonardo Pavoletti - 11,Alessio Cragno
-2018,SPAL,it ITA,17,38,8,14,16,39,59,-20,38,1,35.8,57.7,-21.9,-0.58,12067,Mirco Antenucci - 11,Alfred Gomis
-2018,Strasbourg,fr FRA,15,38,9,11,18,44,67,-23,38,1,45.5,58.4,-12.9,-0.34,24064,Stéphane Bahoken - 7,Bingourou Kamara
-2018,Caen,fr FRA,16,38,10,8,20,27,52,-25,38,1,42.8,48,-5.2,-0.14,17187,Ivan Santini - 11,Rémy Vercoutre
-2018,Lille,fr FRA,17,38,10,8,20,41,67,-26,38,1,36.4,57.9,-21.5,-0.57,31453,Nicolas Pépé - 13,Mike Maignan
-2018,Wolfsburg,de GER,16,34,6,15,13,36,48,-12,33,0.97,34.2,52,-17.8,-0.52,25712,Daniel Didavi - 9,Koen Casteels
-2018,Toulouse,fr FRA,18,38,9,10,19,38,54,-16,37,0.97,45.5,52.1,-6.6,-0.17,16929,Max Gradel - 8,Alban Lafont
-2018,Huddersfield,eng ENG,16,38,9,10,19,28,58,-30,37,0.97,31.3,48.5,-17.2,-0.45,24040,Steve Mounié - 7,Jonas Lössl
-2018,Southampton,eng ENG,17,38,7,15,16,37,56,-19,36,0.95,39.9,45.2,-5.3,-0.14,30794,Charlie Austin - 7,Fraser Forster
-2018,Crotone,it ITA,18,38,9,8,21,40,66,-26,35,0.92,34.6,58.6,-24,-0.63,10581,Marcello Trotta Simeon Nwankwo - 7,Alex Cordaz
-2018,Hamburger SV,de GER,17,34,8,7,19,29,53,-24,31,0.91,37.7,55.9,-18.2,-0.54,50656,Lewis Holtby - 6,Christian Mathenia
-2018,Troyes,fr FRA,19,38,9,6,23,32,59,-27,33,0.87,38,52,-14,-0.37,11723,Adama Niane - 8,Mamadou Samassa
-2018,Swansea City,eng ENG,18,38,8,9,21,28,56,-28,33,0.87,31.6,58.6,-27,-0.71,20623,Jordan Ayew - 7,Łukasz Fabiański
-2018,Stoke City,eng ENG,19,38,7,12,19,35,68,-33,33,0.87,36.5,62.5,-26,-0.69,29280,Xherdan Shaqiri - 8,Jack Butland
-2018,West Brom,eng ENG,20,38,6,13,19,31,56,-25,31,0.82,36.5,47.9,-11.4,-0.3,24520,Jay Rodriguez Salomón Rondón - 7,Ben Foster
-2018,La Coruña,es ESP,18,38,6,11,21,38,76,-38,29,0.76,51.6,58.7,-7.1,-0.19,20542,Adrián López - 9,Rubén
-2018,Metz,fr FRA,20,38,6,8,24,34,76,-42,26,0.68,40.3,71.3,-31,-0.81,14844,Nolan Roux - 15,Eiji Kawashima
-2018,Hellas Verona,it ITA,19,38,7,4,27,30,78,-48,25,0.66,33,70.2,-37.1,-0.98,17333,Moise Kean Giampaolo Pazzini - 4,Nícolas Andrade
-2018,Köln,de GER,18,34,5,7,22,35,70,-35,22,0.65,43.2,67.4,-24.1,-0.71,48776,Leonardo Bittencourt Simon Terodde - 5,Timo Horn
-2018,Las Palmas,es ESP,19,38,5,7,26,24,74,-50,22,0.58,38.5,70.5,-32,-0.84,16183,Jonathan Calleri - 9,Leandro Chichizola
-2018,Benevento,it ITA,20,38,6,3,29,33,84,-51,21,0.55,38.3,73.2,-34.9,-0.92,12132,Cheick Diabaté - 8,Christian Puggioni
-2018,Málaga,es ESP,20,38,5,5,28,24,61,-37,20,0.53,38.4,59.4,-21,-0.55,20333,Diego Rolán - 5,Roberto
-2019,Manchester City,eng ENG,1,38,32,2,4,95,23,72,98,2.58,84.3,24.7,59.6,1.57,54130,Sergio Agüero - 21,Ederson
-2019,Liverpool,eng ENG,2,38,30,7,1,89,22,67,97,2.55,73.7,28.8,44.9,1.18,52983,Sadio Mané Mohamed Salah - 22,Alisson
-2019,Paris S-G,fr FRA,1,38,29,4,5,105,35,70,91,2.39,88.9,37.6,51.3,1.35,46911,Kylian Mbappé - 33,Alphonse Areola
-2019,Juventus,it ITA,1,38,28,6,4,70,30,40,90,2.37,60.7,35.8,25,0.66,37799,Cristiano Ronaldo - 21,Wojciech Szczęsny
-2019,Bayern Munich,de GER,1,34,24,6,4,88,32,56,78,2.29,85.6,27.2,58.4,1.72,75000,Robert Lewandowski - 22,Manuel Neuer
-2019,Barcelona,es ESP,1,38,26,9,3,90,36,54,87,2.29,75.8,45.3,30.5,0.8,76104,Lionel Messi - 36,Marc-André ter Stegen
-2019,Dortmund,de GER,2,34,23,7,4,81,44,37,76,2.24,61.5,39.9,21.5,0.63,80841,Paco Alcácer - 18,Roman Bürki
-2019,Napoli,it ITA,2,38,24,7,7,74,36,38,79,2.08,61.8,38.2,23.5,0.62,29003,Arkadiusz Milik - 17,David Ospina
-2019,Atlético Madrid,es ESP,2,38,22,10,6,55,29,26,76,2,47.3,41.9,5.4,0.14,56216,Antoine Griezmann - 15,Jan Oblak
-2019,Lille,fr FRA,2,38,22,9,7,68,33,35,75,1.97,59.5,42.1,17.4,0.46,34079,Nicolas Pépé - 22,Mike Maignan
-2019,RB Leipzig,de GER,3,34,19,9,6,63,29,34,66,1.94,65.7,40.5,25.2,0.74,38380,Timo Werner - 16,Péter Gulácsi
-2019,Chelsea,eng ENG,3,38,21,9,8,63,39,24,72,1.89,58.6,36.4,22.2,0.58,40437,Eden Hazard - 16,Kepa Arrizabalaga
-2019,Lyon,fr FRA,3,38,21,9,8,70,47,23,72,1.89,73.7,43.9,29.8,0.78,49079,Moussa Dembélé - 15,Anthony Lopes
-2019,Tottenham,eng ENG,4,38,23,2,13,67,39,28,71,1.87,54.9,47.1,7.8,0.2,54216,Harry Kane - 17,Hugo Lloris
-2019,Arsenal,eng ENG,5,38,21,7,10,73,51,22,70,1.84,60.1,54.2,5.9,0.15,59899,Pierre-Emerick Aubameyang - 22,Bernd Leno
-2019,Atalanta,it ITA,3,38,20,9,9,77,46,31,69,1.82,72.2,41.1,31.1,0.82,18301,Duván Zapata - 23,Pierluigi Gollini
-2019,Inter,it ITA,4,38,20,9,9,57,33,24,69,1.82,63.8,38.3,25.6,0.67,57405,Mauro Icardi - 11,Samir Handanović
-2019,Milan,it ITA,5,38,19,11,8,55,36,19,68,1.79,48.8,41.2,7.6,0.2,54651,Krzysztof Piątek - 9,Gianluigi Donnarumma
-2019,Real Madrid,es ESP,3,38,21,5,12,63,46,17,68,1.79,66.7,47.1,19.6,0.52,61040,Karim Benzema - 21,Thibaut Courtois
-2019,Saint-Étienne,fr FRA,4,38,19,9,10,59,41,18,66,1.74,56.7,50.4,6.3,0.16,28400,Wahbi Khazri - 13,Stéphane Ruffier
-2019,Roma,it ITA,6,38,18,12,8,66,48,18,66,1.74,64.4,52.1,12.2,0.32,38622,Stephan El Shaarawy - 11,Robin Olsen
-2019,Manchester Utd,eng ENG,6,38,19,9,10,65,54,11,66,1.74,61.4,50.6,10.8,0.29,74498,Paul Pogba - 13,David de Gea
-2019,Leverkusen,de GER,4,34,18,4,12,69,52,17,58,1.71,58.3,44,14.3,0.42,27990,Kai Havertz - 17,Lukáš Hrádecký
-2019,Torino,it ITA,7,38,16,15,7,52,37,15,63,1.66,46.6,47.7,-1.1,-0.03,21323,Andrea Belotti - 15,Salvatore Sirigu
-2019,M'Gladbach,de GER,5,34,16,7,11,55,42,13,55,1.62,52.2,52.3,0,0,49668,Alassane Pléa - 12,Yann Sommer
-2019,Wolfsburg,de GER,6,34,16,7,11,62,50,12,55,1.62,47.6,48.3,-0.7,-0.02,24479,Wout Weghorst - 17,Koen Casteels
-2019,Valencia,es ESP,4,38,15,16,7,51,35,16,61,1.61,60.7,42.9,17.8,0.47,39504,Daniel Parejo - 9,Neto
-2019,Marseille,fr FRA,5,38,18,7,13,60,52,8,61,1.61,52.7,45.6,7.1,0.19,50140,Florian Thauvin - 16,Steve Mandanda
-2019,Eint Frankfurt,de GER,7,34,15,9,10,60,48,12,54,1.59,57.2,50.7,6.6,0.19,49794,Luka Jović - 17,Kevin Trapp
-2019,Werder Bremen,de GER,8,34,14,11,9,58,49,9,53,1.56,49.8,56.1,-6.4,-0.19,41403,Max Kruse - 11,Jiří Pavlenka
-2019,Sevilla,es ESP,6,38,17,8,13,62,47,15,59,1.55,66.6,45.4,21.3,0.56,35993,Wissam Ben Yedder - 18,Tomáš Vaclík
-2019,Getafe,es ESP,5,38,15,14,9,48,35,13,59,1.55,46.2,43.6,2.6,0.07,11000,Jorge Molina Jaime Mata - 14,David Soria
-2019,Montpellier,fr FRA,6,38,15,14,9,53,42,11,59,1.55,50.1,41.8,8.2,0.22,13829,Andy Delort - 14,Benjamin Lecomte
-2019,Lazio,it ITA,8,38,17,8,13,56,46,10,59,1.55,60.4,47,13.4,0.35,33997,Ciro Immobile - 15,Thomas Strakosha
-2019,Hoffenheim,de GER,9,34,13,12,9,70,52,18,51,1.5,75.9,52.5,23.4,0.69,28456,Andrej Kramarić - 17,Oliver Baumann
-2019,Wolves,eng ENG,7,38,16,9,13,47,46,1,57,1.5,52.1,42.1,10.1,0.26,31030,Raúl Jiménez - 13,Rui Patrício
-2019,Nice,fr FRA,7,38,15,11,12,30,35,-5,56,1.47,46.3,50,-3.7,-0.1,19126,Allan Saint-Maximin Youcef Atal - 6,Walter Benítez
-2019,Reims,fr FRA,8,38,13,16,9,39,42,-3,55,1.45,38.1,45,-6.9,-0.18,14342,Remi Oudin - 10,Edouard Mendy
-2019,Everton,eng ENG,8,38,15,9,14,54,46,8,54,1.42,49.7,45.7,4,0.1,39043,Gylfi Sigurðsson Richarlison - 13,Jordan Pickford
-2019,Sampdoria,it ITA,9,38,15,8,15,60,51,9,53,1.39,50.5,55,-4.5,-0.12,20263,Fabio Quagliarella - 26,Emil Audero
-2019,Nîmes,fr FRA,9,38,15,8,15,57,58,-1,53,1.39,50,56.5,-6.5,-0.17,13994,Denis Bouanga Renaud Ripart - 8,Paul Bernardoni
-2019,Espanyol,es ESP,7,38,14,11,13,48,50,-2,53,1.39,48.9,53.8,-4.9,-0.13,19388,Borja Iglesias - 17,Diego López
-2019,Athletic Club,es ESP,8,38,13,14,11,41,45,-4,53,1.39,43.4,45.7,-2.3,-0.06,40664,Iñaki Williams - 13,Iago Herrerín
-2019,Rennes,fr FRA,10,38,13,13,12,55,52,3,52,1.37,55.6,47.6,8,0.21,23675,M'Baye Niang - 11,Tomáš Koubek
-2019,Leicester City,eng ENG,9,38,15,7,16,51,48,3,52,1.37,52.4,43.7,8.7,0.23,31851,Jamie Vardy - 18,Kasper Schmeichel
-2019,West Ham,eng ENG,10,38,15,7,16,52,55,-3,52,1.37,47.6,61.9,-14.3,-0.38,58336,Marko Arnautović - 10,Łukasz Fabiański
-2019,Real Sociedad,es ESP,9,38,13,11,14,45,46,-1,50,1.32,49.7,48.6,1.1,0.03,22310,Mikel Oyarzabal - 13,Gerónimo Rulli
-2019,Watford,eng ENG,11,38,14,8,16,52,59,-7,50,1.32,48.2,59.2,-11,-0.29,20016,Gerard Deulofeu - 10,Ben Foster
-2019,Betis,es ESP,10,38,14,8,16,44,52,-8,50,1.32,47.1,49.4,-2.4,-0.06,44525,Giovani Lo Celso - 9,Pau López
-2019,Alavés,es ESP,11,38,13,11,14,39,50,-11,50,1.32,41.1,53.2,-12.1,-0.32,17295,Jonathan Calleri - 9,Fernando Pacheco
-2019,Strasbourg,fr FRA,11,38,11,16,11,58,48,10,49,1.29,41.3,51.2,-9.9,-0.26,25216,Ludovic Ajorque Lebo Mothiba - 9,Matz Sels
-2019,Crystal Palace,eng ENG,12,38,14,7,17,51,53,-2,49,1.29,47.6,50.1,-2.5,-0.07,25455,Luka Milivojević - 12,Vicente Guaita
-2019,Düsseldorf,de GER,10,34,13,5,16,49,65,-16,44,1.29,47.1,62.4,-15.3,-0.45,43869,Dodi Lukebakio Benito Raman - 10,Michael Rensing
-2019,Nantes,fr FRA,12,38,13,9,16,48,48,0,48,1.26,49.1,47,2.1,0.05,25185,Emiliano Sala - 12,Ciprian Tătărușanu
-2019,Hertha BSC,de GER,11,34,11,10,13,49,57,-8,43,1.26,51,61.4,-10.5,-0.31,49258,Ondrej Duda - 11,Rune Jarstein
-2019,Mainz 05,de GER,12,34,12,7,15,46,57,-11,43,1.26,51.2,59.2,-8,-0.24,26246,Jean-Philippe Mateta - 14,Florian Müller
-2019,Eibar,es ESP,12,38,11,14,13,46,50,-4,47,1.24,54.8,45.9,9,0.24,4896,Charles - 14,Marko Dmitrović
-2019,Angers,fr FRA,13,38,10,16,12,44,49,-5,46,1.21,50.7,47.9,2.8,0.07,11189,Stéphane Bahoken - 11,Ludovic Butelle
-2019,Newcastle Utd,eng ENG,13,38,12,9,17,42,48,-6,45,1.18,39.1,53.6,-14.5,-0.38,51121,Ayoze Pérez - 12,Martin Dúbravka
-2019,Leganés,es ESP,13,38,11,12,15,37,43,-6,45,1.18,40.6,41.2,-0.6,-0.02,10416,Youssef En-Nesyri - 9,Iván Cuéllar
-2019,Bournemouth,eng ENG,14,38,13,6,19,56,70,-14,45,1.18,53.3,57.2,-3.9,-0.1,10532,Callum Wilson - 14,Asmir Begović
-2019,Villarreal,es ESP,14,38,10,14,14,49,52,-3,44,1.16,53.9,55,-1.1,-0.03,16732,Karl Toko Ekambi - 10,Sergio Asenjo
-2019,Levante,es ESP,15,38,11,11,16,59,66,-7,44,1.16,53.9,76.2,-22.3,-0.59,20216,Roger Martí - 13,Oier Olazábal
-2019,Bologna,it ITA,10,38,11,11,16,48,56,-8,44,1.16,46.8,49,-2.2,-0.06,21237,Federico Santander Riccardo Orsolini - 8,Łukasz Skorupski
-2019,Sassuolo,it ITA,11,38,9,16,13,53,60,-7,43,1.13,48.5,57.4,-8.9,-0.23,12369,Domenico Berardi - 8,Andrea Consigli
-2019,Udinese,it ITA,12,38,11,10,17,39,53,-14,43,1.13,42.5,59.7,-17.2,-0.45,20414,Rodrigo De Paul - 9,Juan Musso
-2019,SPAL,it ITA,13,38,11,9,18,44,56,-12,42,1.11,43.9,51.3,-7.3,-0.19,14745,Andrea Petagna - 16,Alfred Gomis
-2019,Fiorentina,it ITA,16,38,8,17,13,47,45,2,41,1.08,54,41,13,0.34,31178,Marco Benassi - 7,Alban Lafont
-2019,Bordeaux,fr FRA,14,38,10,11,17,34,42,-8,41,1.08,39.7,53.5,-13.7,-0.36,20838,François Kamano - 10,Benoît Costil
-2019,Celta Vigo,es ESP,17,38,10,11,17,53,62,-9,41,1.08,46.5,60.9,-14.4,-0.38,17603,Iago Aspas - 20,Rubén Blanco
-2019,Cagliari,it ITA,15,38,10,11,17,36,54,-18,41,1.08,42.1,62.1,-20,-0.53,15396,Leonardo Pavoletti - 16,Alessio Cragno
-2019,Valladolid,es ESP,16,38,10,11,17,32,51,-19,41,1.08,41.1,58.5,-17.5,-0.46,18992,Enes Ünal - 6,Jordi Masip
-2019,Parma,it ITA,14,38,10,11,17,41,61,-20,41,1.08,40.2,65.3,-25.1,-0.66,16522,Gervinho - 11,Luigi Sepe
-2019,Freiburg,de GER,13,34,8,12,14,46,61,-15,36,1.06,40.9,61.1,-20.2,-0.6,23894,Nils Petersen - 10,Alexander Schwolow
-2019,Burnley,eng ENG,15,38,11,7,20,45,68,-23,40,1.05,44.4,62.1,-17.7,-0.47,20534,Ashley Barnes - 12,Tom Heaton Joe Hart
-2019,Southampton,eng ENG,16,38,9,12,17,45,65,-20,39,1.03,46.9,55.1,-8.2,-0.22,30139,Danny Ings James Ward-Prowse - 7,Alex McCarthy
-2019,Genoa,it ITA,17,38,8,14,16,39,57,-18,38,1,46.9,53.3,-6.4,-0.17,20950,Krzysztof Piątek - 13,Ionuț Radu
-2019,Empoli,it ITA,18,38,10,8,20,51,70,-19,38,1,52.4,63.6,-11.3,-0.3,9620,Francesco Caputo - 16,Ivan Provedel
-2019,Amiens,fr FRA,15,38,9,11,18,31,52,-21,38,1,35.4,49.8,-14.4,-0.38,11043,Moussa Konaté - 7,Régis Gurtner
-2019,Toulouse,fr FRA,16,38,8,14,16,35,57,-22,38,1,45.7,56.4,-10.7,-0.28,16224,Max Gradel - 11,Baptiste Reynet
-2019,Girona,es ESP,18,38,9,10,19,37,53,-16,37,0.97,43.5,52.7,-9.2,-0.24,10948,Cristhian Stuani - 19,Yassine Bounou
-2019,Schalke 04,de GER,14,34,8,9,17,37,55,-18,33,0.97,45.6,50.1,-4.5,-0.13,60941,Daniel Caligiuri - 7,Alexander Nübel
-2019,Monaco,fr FRA,17,38,8,12,18,38,57,-19,36,0.95,47.4,50.2,-2.8,-0.07,8447,Radamel Falcao - 15,Diego Benaglio
-2019,Brighton,eng ENG,17,38,9,9,20,35,60,-25,36,0.95,35.3,59.1,-23.8,-0.63,30426,Glenn Murray - 13,Mathew Ryan
-2019,Augsburg,de GER,15,34,8,8,18,51,71,-20,32,0.94,45.3,61.1,-15.8,-0.46,28623,Alfreð Finnbogason - 10,Gregor Kobel
-2019,Dijon,fr FRA,18,38,9,7,22,31,60,-29,34,0.89,39.8,58.2,-18.5,-0.49,13044,Júlio Tavares - 5,Rúnar Alex Rúnarsson
-2019,Cardiff City,eng ENG,18,38,10,4,24,34,69,-35,34,0.89,42.4,61.5,-19.1,-0.5,31408,Bobby Reid Víctor Camarasa - 5,Neil Etheridge
-2019,Huesca,es ESP,19,38,7,12,19,43,65,-22,33,0.87,50.8,60.2,-9.4,-0.25,6605,Ezequiel Ávila - 10,Roberto Santamaría
-2019,Caen,fr FRA,19,38,7,12,19,29,54,-25,33,0.87,31,63.8,-32.8,-0.86,16654,Enzo Crivelli Casimir Ninga - 6,Brice Samba
-2019,Rayo Vallecano,es ESP,20,38,8,8,22,41,70,-29,32,0.84,48.7,60,-11.3,-0.3,11928,Raúl de Tomás - 14,Stole Dimitrievski
-2019,Stuttgart,de GER,16,34,7,7,20,32,70,-38,28,0.82,38,58.2,-20.1,-0.59,54577,Mario Gómez - 7,Ron-Robert Zieler
-2019,Guingamp,fr FRA,20,38,5,12,21,28,68,-40,27,0.71,40.4,53.4,-12.9,-0.34,14731,Marcus Thuram - 9,Marc-Aurèle Caillard
-2019,Fulham,eng ENG,19,38,7,5,26,34,81,-47,26,0.68,41.3,68.2,-26.8,-0.71,24371,Aleksandar Mitrović - 11,Sergio Rico
-2019,Frosinone,it ITA,19,38,5,10,23,29,69,-40,25,0.66,38.9,62,-23.1,-0.61,12656,Camillo Ciano - 7,Marco Sportiello
-2019,Hannover 96,de GER,17,34,5,6,23,31,71,-40,21,0.62,37.2,67.8,-30.5,-0.9,38365,Hendrik Weydandt - 6,Michael Esser
-2019,Nürnberg,de GER,18,34,3,10,21,26,68,-42,19,0.56,35.7,52.9,-17.2,-0.51,40372,Mikael Ishak Hanno Behrens - 4,Christian Mathenia
-2019,Chievo,it ITA,20,38,2,14,22,25,75,-50,17,0.45,36,60.3,-24.3,-0.64,12142,Mariusz Stępiński - 6,Stefano Sorrentino
-2019,Huddersfield,eng ENG,20,38,3,7,28,22,76,-54,16,0.42,28.8,60.9,-32.2,-0.85,23203,Karlan Grant - 4,Jonas Lössl
-2020,Liverpool,eng ENG,1,38,32,3,3,85,33,52,99,2.61,68.9,37.7,31.2,0.82,41955,Mohamed Salah - 19,Alisson
-2020,Paris S-G,fr FRA,1,27,22,2,3,75,24,51,68,2.52,74.2,23.1,51.1,1.89,47517,Kylian Mbappé - 18,Keylor Navas
-2020,Bayern Munich,de GER,1,34,26,4,4,100,32,68,82,2.41,89.5,37.9,51.6,1.52,57353,Robert Lewandowski - 34,Manuel Neuer
-2020,Real Madrid,es ESP,1,38,26,9,3,70,25,45,87,2.29,67.9,33.3,34.6,0.91,45833,Karim Benzema - 21,Thibaut Courtois
-2020,Juventus,it ITA,1,38,26,5,7,76,43,33,83,2.18,71.1,44.9,26.1,0.69,25102,Cristiano Ronaldo - 31,Wojciech Szczęsny
-2020,Barcelona,es ESP,2,38,25,7,6,86,38,48,82,2.16,66.3,38.3,28,0.74,54223,Lionel Messi - 25,Marc-André ter Stegen
-2020,Inter,it ITA,2,38,24,10,4,81,36,45,82,2.16,69.4,40.7,28.7,0.76,41558,Romelu Lukaku - 23,Samir Handanović
-2020,Manchester City,eng ENG,2,38,26,3,9,102,35,67,81,2.13,92,36.2,55.7,1.47,37097,Raheem Sterling - 20,Ederson
-2020,Atalanta,it ITA,3,38,23,9,6,98,48,50,78,2.05,83.5,41.3,42.2,1.11,11167,Luis Muriel Duván Zapata - 18,Pierluigi Gollini
-2020,Lazio,it ITA,4,38,24,6,8,79,42,37,78,2.05,68,51.1,16.9,0.44,26363,Ciro Immobile - 36,Thomas Strakosha
-2020,Dortmund,de GER,2,34,21,6,7,84,41,43,69,2.03,61,40.9,20.1,0.59,57297,Jadon Sancho - 17,Roman Bürki
-2020,Marseille,fr FRA,2,28,16,8,4,41,29,12,56,2,36.2,31.8,4.4,0.16,52805,Darío Benedetto - 11,Steve Mandanda
-2020,RB Leipzig,de GER,3,34,18,12,4,81,37,44,66,1.94,71.3,38.8,32.6,0.96,28819,Timo Werner - 28,Péter Gulácsi
-2020,M'Gladbach,de GER,4,34,20,5,9,66,40,26,65,1.91,72,45.9,26.1,0.77,36078,Alassane Pléa Marcus Thuram - 10,Yann Sommer
-2020,Leverkusen,de GER,5,34,19,6,9,61,44,17,63,1.85,59.1,51.2,7.9,0.23,21236,Kai Havertz - 12,Lukáš Hrádecký
-2020,Roma,it ITA,5,38,21,7,10,77,51,26,70,1.84,73.2,49.4,23.9,0.63,26956,Edin Džeko - 16,Pau López
-2020,Atlético Madrid,es ESP,3,38,18,16,4,51,27,24,70,1.84,56.8,32.5,24.4,0.64,42236,Álvaro Morata - 12,Jan Oblak
-2020,Sevilla,es ESP,4,38,19,13,6,54,34,20,70,1.84,53.2,36.1,17.1,0.45,25016,Lucas Ocampos - 14,Tomáš Vaclík
-2020,Rennes,fr FRA,3,28,15,5,8,38,24,14,50,1.79,37.1,30.2,6.9,0.25,25893,M'Baye Niang - 10,Edouard Mendy
-2020,Lille,fr FRA,4,28,15,4,9,35,27,8,49,1.75,40.3,31.4,8.8,0.32,36404,Victor Osimhen - 13,Mike Maignan
-2020,Manchester Utd,eng ENG,3,38,18,12,8,66,36,30,66,1.74,62.2,37.7,24.5,0.64,57415,Anthony Martial Marcus Rashford - 17,David de Gea
-2020,Milan,it ITA,6,38,19,9,10,63,46,17,66,1.74,62.8,45.1,17.7,0.46,34078,Ante Rebić - 11,Gianluigi Donnarumma
-2020,Chelsea,eng ENG,4,38,20,6,12,69,54,15,66,1.74,69.2,38.6,30.6,0.81,32023,Tammy Abraham - 15,Kepa Arrizabalaga
-2020,Leicester City,eng ENG,5,38,18,8,12,67,41,26,62,1.63,62.2,45.5,16.7,0.44,25312,Jamie Vardy - 23,Kasper Schmeichel
-2020,Napoli,it ITA,7,38,18,8,12,61,50,11,62,1.63,61.7,44.7,16.9,0.45,21622,Arkadiusz Milik - 11,Alex Meret
-2020,Villarreal,es ESP,5,38,18,6,14,63,49,14,60,1.58,63.6,46.3,17.3,0.45,11321,Gerard Moreno - 18,Sergio Asenjo
-2020,Tottenham,eng ENG,6,38,16,11,11,61,47,14,59,1.55,47.9,54.2,-6.3,-0.17,43757,Harry Kane - 18,Hugo Lloris
-2020,Wolves,eng ENG,7,38,15,14,9,51,40,11,59,1.55,54.1,38,16.1,0.42,24758,Raúl Jiménez - 17,Rui Patrício
-2020,Hoffenheim,de GER,6,34,15,7,12,53,53,0,52,1.53,56.1,59.6,-3.4,-0.1,20449,Andrej Kramarić - 12,Oliver Baumann
-2020,Arsenal,eng ENG,8,38,14,14,10,56,48,8,56,1.47,47,55.3,-8.3,-0.22,47589,Pierre-Emerick Aubameyang - 22,Bernd Leno
-2020,Real Sociedad,es ESP,6,38,16,8,14,56,48,8,56,1.47,48.9,43,5.8,0.15,21204,Willian José - 11,Álex Remiro
-2020,Granada,es ESP,7,38,16,8,14,52,45,7,56,1.47,44.9,42.6,2.3,0.06,11174,Carlos Fernández - 10,Rui Silva
-2020,Reims,fr FRA,6,28,10,11,7,26,21,5,41,1.46,30.6,28.5,2.1,0.08,12932,Boulaye Dia - 7,Predrag Rajković
-2020,Nice,fr FRA,5,28,11,8,9,41,38,3,41,1.46,35.7,43.9,-8.2,-0.29,19225,Kasper Dolberg - 11,Walter Benítez
-2020,Wolfsburg,de GER,7,34,13,10,11,48,46,2,49,1.44,52.8,42.9,9.9,0.29,18621,Wout Weghorst - 16,Koen Casteels
-2020,Lyon,fr FRA,7,28,11,7,10,42,27,15,40,1.43,37.6,27.1,10.6,0.38,47299,Moussa Dembélé - 16,Anthony Lopes
-2020,Montpellier,fr FRA,8,28,11,7,10,35,34,1,40,1.43,35.3,34.7,0.5,0.02,14147,Andy Delort - 9,Gerónimo Rulli
-2020,Monaco,fr FRA,9,28,11,7,10,44,44,0,40,1.43,48.8,42.7,6.1,0.22,6451,Wissam Ben Yedder - 18,Benjamin Lecomte
-2020,Getafe,es ESP,8,38,14,12,12,43,37,6,54,1.42,41.6,41.4,0.2,0,8000,Jaime Mata - 11,David Soria
-2020,Sheffield Utd,eng ENG,9,38,14,12,12,39,39,0,54,1.42,43,51,-7.9,-0.21,24370,Lys Mousset Oliver McBurnie - 6,Dean Henderson
-2020,Burnley,eng ENG,10,38,15,9,14,43,50,-7,54,1.42,47.4,49.8,-2.4,-0.06,15995,Chris Wood - 14,Nick Pope
-2020,Freiburg,de GER,8,34,13,9,12,48,47,1,48,1.41,46.7,64.6,-17.8,-0.52,16888,Nils Petersen - 11,Alexander Schwolow
-2020,Strasbourg,fr FRA,10,27,11,5,11,32,32,0,38,1.41,34.2,32.2,2,0.07,24985,Adrien Thomasson Ludovic Ajorque - 8,Matz Sels
-2020,Angers,fr FRA,11,28,11,6,11,28,33,-5,39,1.39,29.3,28.4,0.9,0.03,9825,Rachid Alioui - 6,Ludovic Butelle
-2020,Valencia,es ESP,9,38,14,11,13,46,53,-7,53,1.39,43.3,56,-12.7,-0.33,29658,Maxi Gómez - 10,Jasper Cillessen
-2020,Osasuna,es ESP,10,38,13,13,12,46,54,-8,52,1.37,49.4,49.4,0.1,0,11453,Ezequiel Ávila - 9,Sergio Herrera
-2020,Southampton,eng ENG,11,38,15,7,16,51,60,-9,52,1.37,56.1,52.8,3.3,0.09,23428,Danny Ings - 22,Alex McCarthy
-2020,Sassuolo,it ITA,8,38,14,9,15,69,63,6,51,1.34,52.9,62,-9.2,-0.24,7704,Francesco Caputo - 21,Andrea Consigli
-2020,Athletic Club,es ESP,11,38,13,12,13,41,38,3,51,1.34,41.5,48.8,-7.3,-0.19,28039,Raúl García - 15,Unai Simón
-2020,Bordeaux,fr FRA,12,28,9,10,9,40,34,6,37,1.32,30,36.9,-6.9,-0.25,23430,Jimmy Briand - 7,Benoît Costil
-2020,Eint Frankfurt,de GER,9,34,13,6,15,59,60,-1,45,1.32,59.5,49.9,9.6,0.28,35435,André Silva - 12,Kevin Trapp
-2020,Nantes,fr FRA,13,28,11,4,13,28,31,-3,37,1.32,30.2,31.5,-1.2,-0.04,24635,Moses Simon Ludovic Blas - 5,Alban Lafont
-2020,Fiorentina,it ITA,10,38,12,13,13,51,48,3,49,1.29,53.6,48.9,4.7,0.12,22486,Federico Chiesa - 10,Bartłomiej Drągowski
-2020,Parma,it ITA,11,38,14,7,17,56,57,-1,49,1.29,48.4,64.3,-15.9,-0.42,10245,Andreas Cornelius - 12,Luigi Sepe
-2020,Hellas Verona,it ITA,9,38,12,13,13,47,51,-4,49,1.29,50.5,53.7,-3.2,-0.08,11248,Samuel Di Carmine - 8,Marco Silvestri
-2020,Levante,es ESP,12,38,14,7,17,47,53,-6,49,1.29,48.1,62.9,-14.8,-0.39,13196,Roger Martí - 11,Aitor Fernández
-2020,Everton,eng ENG,12,38,13,10,15,44,56,-12,49,1.29,50.8,48.3,2.5,0.07,28848,Dominic Calvert-Lewin Richarlison - 13,Jordan Pickford
-2020,Bologna,it ITA,12,38,12,11,15,52,65,-13,47,1.24,56.9,54.8,2,0.05,15774,Musa Barrow - 9,Łukasz Skorupski
-2020,Brest,fr FRA,14,28,8,10,10,34,37,-3,34,1.21,30.7,45.5,-14.8,-0.53,13713,Irvin Cardona - 6,Gautier Larsonneur
-2020,Metz,fr FRA,15,28,8,10,10,27,35,-8,34,1.21,27.1,38.1,-11,-0.39,16583,Habib Diallo - 12,Alexandre Oukidja
-2020,Hertha BSC,de GER,10,34,11,8,15,48,59,-11,41,1.21,43.1,54.5,-11.4,-0.34,37689,Vedad Ibišević Dodi Lukebakio - 7,Rune Jarstein
-2020,Union Berlin,de GER,11,34,12,5,17,41,58,-17,41,1.21,41.4,54.3,-12.8,-0.38,15467,Sebastian Andersson - 12,Rafał Gikiewicz
-2020,Cagliari,it ITA,14,38,11,12,15,52,56,-4,45,1.18,41.8,59,-17.2,-0.45,10728,João Pedro - 18,Robin Olsen
-2020,Udinese,it ITA,13,38,12,9,17,37,51,-14,45,1.18,41.6,53.4,-11.8,-0.31,13841,Kevin Lasagna - 10,Juan Musso
-2020,Newcastle Utd,eng ENG,13,38,11,11,16,38,58,-20,44,1.16,35.5,65.6,-30.1,-0.79,35551,Jonjo Shelvey - 6,Martin Dúbravka
-2020,Schalke 04,de GER,12,34,9,12,13,38,58,-20,39,1.15,37.8,51.6,-13.8,-0.41,46681,Suat Serdar - 7,Alexander Nübel
-2020,Crystal Palace,eng ENG,14,38,11,10,17,31,50,-19,43,1.13,35.8,57,-21.2,-0.56,19784,Jordan Ayew - 9,Vicente Guaita
-2020,Valladolid,es ESP,13,38,9,15,14,32,43,-11,42,1.11,36.5,54.5,-18,-0.47,13580,Sergi Guardiola - 8,Jordi Masip
-2020,Sampdoria,it ITA,15,38,12,6,20,48,65,-17,42,1.11,50.2,54.9,-4.7,-0.12,13700,Manolo Gabbiadini Fabio Quagliarella - 11,Emil Audero
-2020,Eibar,es ESP,14,38,11,9,18,39,56,-17,42,1.11,42,53,-11,-0.29,4151,Fabián Orellana - 8,Marko Dmitrović
-2020,Mainz 05,de GER,13,34,11,4,19,44,65,-21,37,1.09,48.2,59.6,-11.5,-0.34,20694,Robin Quaison - 13,Robin Zentner
-2020,Betis,es ESP,15,38,10,11,17,48,60,-12,41,1.08,51,54.8,-3.7,-0.1,35969,Loren Morón - 10,Joel Robles
-2020,Brighton,eng ENG,15,38,9,14,15,39,54,-15,41,1.08,45.4,55,-9.5,-0.25,22369,Neal Maupay - 10,Mathew Ryan
-2020,Dijon,fr FRA,16,28,7,9,12,27,37,-10,30,1.07,30.5,38.4,-8,-0.28,12707,Mama Samba Baldé - 6,Alfred Gomis
-2020,Saint-Étienne,fr FRA,17,28,8,6,14,29,45,-16,30,1.07,31.4,38.8,-7.4,-0.26,23205,Denis Bouanga - 10,Stéphane Ruffier
-2020,Augsburg,de GER,15,34,9,9,16,45,63,-18,36,1.06,43.1,56.6,-13.5,-0.4,20265,Florian Niederlechner - 13,Tomáš Koubek
-2020,Köln,de GER,14,34,10,6,18,51,69,-18,36,1.06,48.9,53.3,-4.4,-0.13,35094,Jhon Córdoba - 13,Timo Horn
-2020,Torino,it ITA,16,38,11,7,20,46,68,-22,40,1.05,44.8,60.8,-16,-0.42,13338,Andrea Belotti - 16,Salvatore Sirigu
-2020,West Ham,eng ENG,16,38,10,9,19,49,62,-13,39,1.03,48.6,63.8,-15.3,-0.4,44155,Michail Antonio - 10,Łukasz Fabiański
-2020,Alavés,es ESP,16,38,10,9,19,34,59,-25,39,1.03,39.3,57.8,-18.5,-0.49,12177,Joselu Lucas Pérez - 11,Fernando Pacheco
-2020,Genoa,it ITA,17,38,10,9,19,47,73,-26,39,1.03,48.7,60,-11.3,-0.3,14016,Goran Pandev - 9,Mattia Perin
-2020,Celta Vigo,es ESP,17,38,7,16,15,37,49,-12,37,0.97,39.2,45.3,-6.1,-0.16,11995,Iago Aspas - 14,Rubén Blanco
-2020,Nîmes,fr FRA,18,28,7,6,15,29,44,-15,27,0.96,30.2,40.5,-10.2,-0.36,12555,Romain Philippoteaux - 5,Paul Bernardoni
-2020,Leganés,es ESP,18,38,8,12,18,30,51,-21,36,0.95,39.9,42.8,-2.9,-0.08,7539,Óscar Rodríguez Arnaiz - 9,Iván Cuéllar
-2020,Aston Villa,eng ENG,17,38,9,8,21,41,67,-26,35,0.92,44.3,67.8,-23.5,-0.62,28505,Jack Grealish - 8,Tom Heaton
-2020,Lecce,it ITA,18,38,9,8,21,52,85,-33,35,0.92,54.7,85.6,-30.8,-0.81,15939,Marco Mancosu - 14,Gabriel
-2020,Werder Bremen,de GER,16,34,8,7,19,42,69,-27,31,0.91,39.4,55.4,-16,-0.47,26413,Yuya Osako Milot Rashica - 8,Jiří Pavlenka
-2020,Bournemouth,eng ENG,18,38,9,7,22,40,65,-25,34,0.89,44.8,62.3,-17.5,-0.46,7745,Callum Wilson - 8,Aaron Ramsdale
-2020,Watford,eng ENG,19,38,8,10,20,36,64,-28,34,0.89,48.9,58.1,-9.3,-0.24,15353,Troy Deeney - 10,Ben Foster
-2020,Düsseldorf,de GER,17,34,6,12,16,36,67,-31,30,0.88,35.9,60.7,-24.8,-0.73,30581,Rouwen Hennings - 15,Zack Steffen Florian Kastenmeier
-2020,Mallorca,es ESP,19,38,9,6,23,40,65,-25,33,0.87,41.1,63.5,-22.4,-0.59,10877,Ante Budimir - 13,Manolo Reina
-2020,Amiens,fr FRA,19,28,4,11,13,31,50,-19,23,0.82,27.4,39.3,-11.9,-0.43,11616,Sehrou Guirassy - 9,Régis Gurtner
-2020,Espanyol,es ESP,20,38,5,10,23,27,58,-31,25,0.66,38.6,51,-12.4,-0.33,16260,Raúl de Tomás David López... - 4,Diego López
-2020,Brescia,it ITA,19,38,6,7,25,35,79,-44,25,0.66,43.4,74.5,-31.2,-0.82,10050,Ernesto Torregrossa Alfredo Donnarumma - 7,Jesse Joronen
-2020,Paderborn 07,de GER,18,34,4,8,22,37,74,-37,20,0.59,39.2,67.3,-28.1,-0.83,11038,Sven Michel Dennis Srbeny... - 5,Leopold Zingerle
-2020,Norwich City,eng ENG,20,38,5,6,27,26,75,-49,21,0.55,37,66.4,-29.5,-0.78,19913,Teemu Pukki - 11,Tim Krul
-2020,SPAL,it ITA,20,38,5,5,28,27,77,-50,20,0.53,40.7,68.6,-27.9,-0.73,8241,Andrea Petagna - 12,Etrit Berisha
-2020,Toulouse,fr FRA,20,28,3,4,21,22,58,-36,13,0.46,31.7,45.6,-13.9,-0.5,14200,Efthimis Koulouris - 4,Baptiste Reynet
-2021,Inter,it ITA,1,38,28,7,3,89,35,54,91,2.39,74.2,39.8,34.3,0.9,158,Romelu Lukaku - 24,Samir Handanović
-2021,Bayern Munich,de GER,1,34,24,6,4,99,44,55,78,2.29,75.9,40.2,35.8,1.05,15,Robert Lewandowski - 41,Manuel Neuer
-2021,Manchester City,eng ENG,1,38,27,5,6,83,32,51,86,2.26,68.2,30.2,38,1,526,İlkay Gündoğan - 13,Ederson
-2021,Atlético Madrid,es ESP,1,38,26,8,4,67,25,42,86,2.26,52.8,37.1,15.7,0.41,,Luis Suárez - 21,Jan Oblak
-2021,Real Madrid,es ESP,2,38,25,9,4,67,28,39,84,2.21,61.5,37.6,23.9,0.63,,Karim Benzema - 23,Thibaut Courtois
-2021,Lille,fr FRA,1,38,24,11,3,64,23,41,83,2.18,48.5,29.8,18.7,0.49,209,Burak Yılmaz - 16,Mike Maignan
-2021,Paris S-G,fr FRA,2,38,26,4,8,86,28,58,82,2.16,80.1,40.6,39.5,1.04,,Kylian Mbappé - 27,Keylor Navas
-2021,Barcelona,es ESP,3,38,24,7,7,85,38,47,79,2.08,73.5,40.8,32.7,0.86,,Lionel Messi - 30,Marc-André ter Stegen
-2021,Milan,it ITA,2,38,24,7,7,74,41,33,79,2.08,70.7,47,23.7,0.62,105,Zlatan Ibrahimović - 15,Gianluigi Donnarumma
-2021,Atalanta,it ITA,3,38,23,9,6,90,47,43,78,2.05,74.7,41,33.7,0.89,105,Luis Muriel - 22,Pierluigi Gollini
-2021,Juventus,it ITA,4,38,23,9,6,77,38,39,78,2.05,74.4,39.4,35,0.92,105,Cristiano Ronaldo - 29,Wojciech Szczęsny
-2021,Monaco,fr FRA,3,38,24,6,8,76,42,34,78,2.05,68.7,34.6,34.1,0.9,,Wissam Ben Yedder - 20,Benjamin Lecomte
-2021,Napoli,it ITA,5,38,24,5,9,86,41,45,77,2.03,67.7,42.6,25.2,0.66,105,Lorenzo Insigne - 19,Alex Meret
-2021,Sevilla,es ESP,4,38,24,5,9,53,33,20,77,2.03,54.4,34.8,19.6,0.52,,Youssef En-Nesyri - 18,Yassine Bounou
-2021,Lyon,fr FRA,4,38,22,10,6,81,43,38,76,2,81.4,41.5,39.9,1.05,231,Memphis - 20,Anthony Lopes
-2021,Manchester Utd,eng ENG,2,38,21,11,6,73,44,29,74,1.95,60.1,41.5,18.6,0.49,526,Bruno Fernandes - 18,David de Gea
-2021,RB Leipzig,de GER,2,34,19,8,7,60,32,28,65,1.91,64.4,29.4,35,1.03,1059,Marcel Sabitzer - 8,Péter Gulácsi
-2021,Dortmund,de GER,3,34,20,4,10,75,46,29,64,1.88,66.2,41.6,24.6,0.72,1241,Erling Haaland - 27,Roman Bürki
-2021,Liverpool,eng ENG,3,38,20,9,9,68,42,26,69,1.82,67.5,43,24.5,0.65,837,Mohamed Salah - 22,Alisson
-2021,Wolfsburg,de GER,4,34,17,10,7,61,37,24,61,1.79,49,42.1,6.9,0.2,538,Wout Weghorst - 20,Koen Casteels
-2021,Lazio,it ITA,6,38,21,5,12,61,55,6,68,1.79,58.2,47.3,10.9,0.29,158,Ciro Immobile - 20,Pepe Reina
-2021,Chelsea,eng ENG,4,38,19,10,9,58,36,22,67,1.76,62.4,30.3,32.2,0.85,526,Jorginho - 7,Edouard Mendy
-2021,Eint Frankfurt,de GER,5,34,16,12,6,69,53,16,60,1.76,58.5,46.9,11.6,0.34,853,André Silva - 28,Kevin Trapp
-2021,Leicester City,eng ENG,5,38,20,6,12,68,50,18,66,1.74,55.8,46,9.8,0.26,421,Jamie Vardy - 15,Kasper Schmeichel
-2021,West Ham,eng ENG,6,38,19,8,11,62,47,15,65,1.71,55.4,48.7,6.7,0.18,632,Michail Antonio Tomáš Souček - 10,Łukasz Fabiański
-2021,Tottenham,eng ENG,7,38,18,8,12,68,45,23,62,1.63,53.1,49.1,4,0.1,632,Harry Kane - 23,Hugo Lloris
-2021,Real Sociedad,es ESP,5,38,17,11,10,59,38,21,62,1.63,60.7,39.2,21.5,0.57,,Alexander Isak - 17,Álex Remiro
-2021,Roma,it ITA,7,38,18,8,12,68,58,10,62,1.63,67.2,46.2,21,0.55,105,Henrikh Mkhitaryan - 13,Pau López
-2021,Sassuolo,it ITA,8,38,17,11,10,64,56,8,62,1.63,58.4,55.4,3,0.08,134,Domenico Berardi - 17,Andrea Consigli
-2021,Arsenal,eng ENG,8,38,18,7,13,55,39,16,61,1.61,51.8,43,8.8,0.23,632,Alexandre Lacazette - 13,Bernd Leno
-2021,Betis,es ESP,6,38,17,10,11,50,50,0,61,1.61,49.1,46.8,2.2,0.06,,Borja Iglesias - 11,Claudio Bravo
-2021,Marseille,fr FRA,5,38,16,12,10,54,47,7,60,1.58,46.6,47.4,-0.8,-0.02,,Arkadiusz Milik - 9,Steve Mandanda
-2021,Leeds United,eng ENG,9,38,18,5,15,62,54,8,59,1.55,55.6,57.9,-2.2,-0.06,421,Patrick Bamford - 17,Illan Meslier
-2021,Everton,eng ENG,10,38,17,8,13,47,48,-1,59,1.55,45.7,50.1,-4.5,-0.12,368,Dominic Calvert-Lewin - 16,Jordan Pickford
-2021,Villarreal,es ESP,7,38,15,13,10,60,44,16,58,1.53,56.4,42.5,13.9,0.37,253,Gerard Moreno - 23,Sergio Asenjo
-2021,Leverkusen,de GER,6,34,14,10,10,53,39,14,52,1.53,46.3,39.2,7.1,0.21,355,Lucas Alario - 11,Lukáš Hrádecký
-2021,Rennes,fr FRA,6,38,16,10,12,52,40,12,58,1.53,47.8,38.1,9.7,0.26,,Sehrou Guirassy - 10,Alfred Gomis
-2021,Lens,fr FRA,7,38,15,12,11,55,54,1,57,1.5,56.4,46.8,9.6,0.25,,Gaël Kakuta - 11,Jean-Louis Leca
-2021,Union Berlin,de GER,7,34,12,14,8,50,43,7,50,1.47,46.9,42.8,4.1,0.12,912,Max Kruse - 11,Andreas Luthe
-2021,Aston Villa,eng ENG,11,38,16,7,15,55,46,9,55,1.45,52.5,51.1,1.4,0.04,526,Ollie Watkins - 14,Emiliano Martínez
-2021,M'Gladbach,de GER,8,34,13,10,11,64,56,8,49,1.44,54.9,45.7,9.2,0.27,628,Lars Stindl - 14,Yann Sommer
-2021,Montpellier,fr FRA,8,38,14,12,12,60,62,-2,54,1.42,51.9,66.2,-14.3,-0.38,,Gaëtan Laborde - 16,Jonas Omlin
-2021,Celta Vigo,es ESP,8,38,14,11,13,55,57,-2,53,1.39,50.4,51,-0.6,-0.02,91,Iago Aspas - 14,Iván Villar
-2021,Sampdoria,it ITA,9,38,15,7,16,52,54,-2,52,1.37,45.4,56.1,-10.7,-0.28,105,Fabio Quagliarella - 13,Emil Audero
-2021,Nice,fr FRA,9,38,15,7,16,50,53,-3,52,1.37,48,55.6,-7.7,-0.2,,Amine Gouiri - 12,Walter Benítez
-2021,Stuttgart,de GER,9,34,12,9,13,56,55,1,45,1.32,51.4,52.1,-0.8,-0.02,978,Sasa Kalajdzic - 16,Gregor Kobel
-2021,Freiburg,de GER,10,34,12,9,13,52,52,0,45,1.32,45.5,52.4,-6.9,-0.2,188,Vincenzo Grifo - 9,Florian Müller
-2021,Hoffenheim,de GER,11,34,11,10,13,52,54,-2,43,1.26,51.9,53.1,-1.2,-0.04,361,Andrej Kramarić - 20,Oliver Baumann
-2021,Metz,fr FRA,10,38,12,11,15,44,48,-4,47,1.24,44.1,49.2,-5.2,-0.14,498,Farid Boulaya Ibrahima Niane - 6,Alexandre Oukidja
-2021,Athletic Club,es ESP,10,38,11,13,14,46,42,4,46,1.21,43.1,37.7,5.4,0.14,,Álex Berenguer - 8,Unai Simón
-2021,Saint-Étienne,fr FRA,11,38,12,10,16,42,54,-12,46,1.21,48.7,50.1,-1.3,-0.04,,Wahbi Khazri Denis Bouanga - 7,Jessy Moulin
-2021,Granada,es ESP,9,38,13,7,18,47,65,-18,46,1.21,41.1,56.2,-15,-0.4,,Roberto Soldado - 9,Rui Silva
-2021,Hellas Verona,it ITA,10,38,11,12,15,46,48,-2,45,1.18,46,51.4,-5.5,-0.14,579,Antonín Barák - 7,Marco Silvestri
-2021,Bordeaux,fr FRA,12,38,13,6,19,42,56,-14,45,1.18,43.5,54.9,-11.4,-0.3,,Hwang Ui-jo - 12,Benoît Costil
-2021,Newcastle Utd,eng ENG,12,38,12,9,17,46,62,-16,45,1.18,43.4,58.3,-14.9,-0.39,526,Callum Wilson - 12,Karl Darlow
-2021,Wolves,eng ENG,13,38,12,9,17,36,52,-16,45,1.18,36.5,49.5,-13,-0.34,237,Rúben Neves Pedro Neto - 5,Rui Patrício
-2021,Osasuna,es ESP,11,38,11,11,16,37,48,-11,44,1.16,38.7,47.8,-9,-0.24,,Ante Budimir - 11,Sergio Herrera
-2021,Angers,fr FRA,13,38,12,8,18,40,58,-18,44,1.16,41.6,52.3,-10.7,-0.28,,Angelo Fulgini - 7,Paul Bernardoni
-2021,Cádiz,es ESP,12,38,11,11,16,36,58,-22,44,1.16,34.7,55.4,-20.7,-0.54,,Álvaro Negredo - 8,Jeremías Ledesma
-2021,Crystal Palace,eng ENG,14,38,12,8,18,41,66,-25,44,1.16,34.1,58.2,-24.2,-0.64,447,Wilfried Zaha - 11,Vicente Guaita
-2021,Mainz 05,de GER,12,34,10,9,15,39,56,-17,39,1.15,49.9,52.1,-2.2,-0.06,221,Jean-Philippe Mateta - 7,Robin Zentner
-2021,Valencia,es ESP,13,38,10,13,15,50,53,-3,43,1.13,42.6,52.2,-9.6,-0.25,142,Carlos Soler - 11,Jaume Doménech
-2021,Southampton,eng ENG,15,38,12,7,19,47,68,-21,43,1.13,41.2,53.1,-11.8,-0.31,526,Danny Ings - 12,Alex McCarthy
-2021,Reims,fr FRA,14,38,9,15,14,42,50,-8,42,1.11,32.7,59,-26.3,-0.69,,Boulaye Dia - 14,Predrag Rajković
-2021,Strasbourg,fr FRA,15,38,11,9,18,49,58,-9,42,1.11,52.8,50.7,2.1,0.06,,Ludovic Ajorque - 16,Eiji Kawashima
-2021,Genoa,it ITA,11,38,10,12,16,47,58,-11,42,1.11,38.8,60.5,-21.7,-0.57,53,Mattia Destro - 11,Mattia Perin
-2021,Lorient,fr FRA,16,38,11,9,18,50,68,-18,42,1.11,48.6,52.5,-4,-0.1,,Terem Moffi - 14,Paul Nardi
-2021,Brighton,eng ENG,16,38,9,14,15,40,46,-6,41,1.08,50.9,35.3,15.6,0.41,523,Neal Maupay - 8,Robert Sánchez
-2021,Levante,es ESP,14,38,9,14,15,46,57,-11,41,1.08,40.4,53.4,-13,-0.34,,José Luis Morales - 13,Aitor Fernández
-2021,Bologna,it ITA,12,38,10,11,17,51,65,-14,41,1.08,54.6,62.6,-7.9,-0.21,105,Roberto Soriano - 9,Łukasz Skorupski
-2021,Brest,fr FRA,17,38,11,8,19,50,66,-16,41,1.08,50,58.1,-8.1,-0.21,,Steve Mounié - 9,Gautier Larsonneur
-2021,Augsburg,de GER,13,34,10,6,18,36,54,-18,36,1.06,37.3,57.3,-20,-0.59,353,André Hahn - 8,Rafał Gikiewicz
-2021,Nantes,fr FRA,18,38,9,13,16,47,55,-8,40,1.05,49,53.6,-4.6,-0.12,,Ludovic Blas - 10,Alban Lafont
-2021,Fiorentina,it ITA,13,38,9,13,16,47,59,-12,40,1.05,44.9,61.5,-16.6,-0.44,105,Dušan Vlahović - 21,Bartłomiej Drągowski
-2021,Udinese,it ITA,14,38,10,10,18,42,58,-16,40,1.05,45.7,52.6,-6.9,-0.18,158,Rodrigo De Paul - 9,Juan Musso
-2021,Hertha BSC,de GER,14,34,8,11,15,41,52,-11,35,1.03,41.9,47.4,-5.6,-0.16,471,Jhon Córdoba Krzysztof Piątek... - 7,Alexander Schwolow
-2021,Spezia,it ITA,15,38,9,12,17,52,72,-20,39,1.03,46.6,65.1,-18.5,-0.49,105,M'Bala Nzola - 11,Ivan Provedel
-2021,Burnley,eng ENG,17,38,10,9,19,33,55,-22,39,1.03,39.3,54.7,-15.4,-0.4,178,Chris Wood - 12,Nick Pope
-2021,Arminia,de GER,15,34,9,8,17,26,52,-26,35,1.03,32.9,56.8,-23.9,-0.7,321,Fabian Klos Ritsu Doan - 5,Stefan Ortega
-2021,Getafe,es ESP,15,38,9,11,18,28,43,-15,38,1,34.4,40.3,-5.9,-0.16,,Ángel Rodríguez Jaime Mata - 5,David Soria
-2021,Alavés,es ESP,16,38,9,11,18,36,57,-21,38,1,42.6,49.9,-7.3,-0.19,,Joselu - 11,Fernando Pacheco
-2021,Cagliari,it ITA,16,38,9,10,19,43,59,-16,37,0.97,47.1,61.7,-14.6,-0.38,105,João Pedro - 16,Alessio Cragno
-2021,Torino,it ITA,17,38,7,16,15,50,69,-19,37,0.97,50,62,-11.9,-0.31,105,Andrea Belotti - 13,Salvatore Sirigu
-2021,Köln,de GER,16,34,8,9,17,34,60,-26,33,0.97,40.5,53.6,-13,-0.38,33,Ondrej Duda - 7,Timo Horn
-2021,Elche,es ESP,17,38,8,12,18,34,55,-21,36,0.95,29.9,60.9,-31,-0.82,185,Lucas Boyé - 7,Édgar Badía
-2021,Nîmes,fr FRA,19,38,9,8,21,40,71,-31,35,0.92,43.3,64.2,-20.9,-0.55,,Renaud Ripart - 11,Baptiste Reynet
-2021,Werder Bremen,de GER,17,34,7,10,17,36,57,-21,31,0.91,32.9,53.2,-20.3,-0.6,518,Niclas Füllkrug - 6,Jiří Pavlenka
-2021,Huesca,es ESP,18,38,7,13,18,34,53,-19,34,0.89,38.9,48.4,-9.5,-0.25,,Rafa Mir - 13,Álvaro Fernández
-2021,Benevento,it ITA,18,38,7,12,19,40,75,-35,33,0.87,40.6,64.3,-23.6,-0.62,158,Gianluca Lapadula - 8,Lorenzo Montipò
-2021,Valladolid,es ESP,19,38,5,16,17,34,57,-23,31,0.82,40.1,52.9,-12.8,-0.34,,Fabián Orellana Shon Weissman - 6,Jordi Masip
-2021,Eibar,es ESP,20,38,6,12,20,29,52,-23,30,0.79,45.2,45.7,-0.5,-0.01,,Kike - 12,Marko Dmitrović
-2021,Fulham,eng ENG,18,38,5,13,20,27,53,-26,28,0.74,40.5,52.6,-12.1,-0.32,211,Bobby Reid - 5,Alphonse Areola
-2021,West Brom,eng ENG,19,38,5,11,22,35,76,-41,26,0.68,35.8,67.9,-32,-0.84,283,Matheus Pereira - 11,Sam Johnstone
-2021,Sheffield Utd,eng ENG,20,38,7,2,29,20,63,-43,23,0.61,32.6,62.2,-29.6,-0.78,263,David McGoldrick - 8,Aaron Ramsdale
-2021,Crotone,it ITA,19,38,6,5,27,45,92,-47,23,0.61,40.4,70.8,-30.5,-0.8,53,Simeon Nwankwo - 20,Alex Cordaz
-2021,Dijon,fr FRA,20,38,4,9,25,25,73,-48,21,0.55,33.7,72.1,-38.4,-1.01,,Mama Samba Baldé - 7,Anthony Racioppi
-2021,Parma,it ITA,20,38,3,11,24,39,83,-44,20,0.53,42.5,61,-18.5,-0.49,158,Juraj Kucka Hernani - 7,Luigi Sepe
-2021,Schalke 04,de GER,18,34,3,7,24,25,86,-61,16,0.47,28.7,69.2,-40.5,-1.19,18,Matthew Hoppe - 6,Ralf Fährmann
-2022,Manchester City,eng ENG,1,38,29,6,3,99,26,73,93,2.45,96.6,26,70.5,1.86,52774,Kevin De Bruyne - 15,Ederson
-2022,Liverpool,eng ENG,2,38,28,8,2,94,26,68,92,2.42,95.1,37.3,57.8,1.52,53352,Mohamed Salah - 23,Alisson
-2022,Bayern Munich,de GER,1,34,24,5,5,97,37,60,77,2.26,95.4,39.5,56,1.65,33176,Robert Lewandowski - 35,Manuel Neuer
-2022,Paris S-G,fr FRA,1,38,26,8,4,90,36,54,86,2.26,84.5,43.2,41.3,1.09,41589,Kylian Mbappé - 28,Keylor Navas
-2022,Real Madrid,es ESP,1,38,26,8,4,80,31,49,86,2.26,78.9,48.2,30.7,0.81,41235,Karim Benzema - 27,Thibaut Courtois
-2022,Milan,it ITA,1,38,26,8,4,69,31,38,86,2.26,68.2,40.4,27.8,0.73,44015,Olivier Giroud Rafael Leão - 11,Mike Maignan
-2022,Inter,it ITA,2,38,25,9,4,84,32,52,84,2.21,88.4,44.1,44.3,1.17,44473,Lautaro Martínez - 21,Samir Handanović
-2022,Napoli,it ITA,3,38,24,7,7,74,31,43,79,2.08,66.3,36.8,29.6,0.78,28119,Victor Osimhen - 14,David Ospina
-2022,Dortmund,de GER,2,34,22,3,9,85,52,33,69,2.03,68,50.9,17.1,0.5,41800,Erling Haaland - 22,Gregor Kobel
-2022,Chelsea,eng ENG,3,38,21,11,6,76,33,43,74,1.95,70.7,38.3,32.5,0.86,36443,Mason Mount - 11,Edouard Mendy
-2022,Barcelona,es ESP,2,38,21,10,7,68,38,30,73,1.92,67.7,39.8,27.9,0.73,53982,Memphis - 12,Marc-André ter Stegen
-2022,Leverkusen,de GER,3,34,19,7,8,80,47,33,64,1.88,68.5,49.7,18.8,0.55,17356,Patrik Schick - 24,Lukáš Hrádecký
-2022,Tottenham,eng ENG,4,38,22,5,11,69,40,29,71,1.87,66.5,45.3,21.2,0.56,56523,Son Heung-min - 23,Hugo Lloris
-2022,Marseille,fr FRA,2,38,21,8,9,63,38,25,71,1.87,63.3,41.2,22,0.58,51755,Dimitri Payet - 12,Pau López
-2022,Atlético Madrid,es ESP,3,38,21,8,9,65,43,22,71,1.87,58.6,38.7,19.9,0.52,48039,Ángel Correa - 12,Jan Oblak
-2022,Sevilla,es ESP,4,38,18,16,4,53,30,23,70,1.84,48.4,43.3,5.1,0.13,29756,Rafa Mir - 10,Yassine Bounou
-2022,Juventus,it ITA,4,38,20,10,8,57,37,20,70,1.84,57.3,42.8,14.5,0.38,22621,Paulo Dybala - 10,Wojciech Szczęsny
-2022,Monaco,fr FRA,3,38,20,9,9,65,40,25,69,1.82,66.1,45,21,0.55,5877,Wissam Ben Yedder - 25,Alexander Nübel
-2022,Arsenal,eng ENG,5,38,22,3,13,61,48,13,69,1.82,67.3,51.2,16,0.42,59665,Bukayo Saka - 11,Aaron Ramsdale
-2022,Rennes,fr FRA,4,38,20,6,12,82,40,42,66,1.74,69.9,47.4,22.4,0.59,25493,Martin Terrier - 21,Alfred Gomis
-2022,Nice,fr FRA,5,38,20,7,11,52,36,16,66,1.74,60.7,48.6,12.2,0.32,16055,Andy Delort - 16,Walter Benítez
-2022,RB Leipzig,de GER,4,34,17,7,10,72,37,35,58,1.71,69.5,43.9,25.6,0.75,22124,Christopher Nkunku - 20,Péter Gulácsi
-2022,Betis,es ESP,5,38,19,8,11,62,40,22,65,1.71,59,48.8,10.2,0.27,41749,Juanmi - 16,Rui Silva
-2022,Lazio,it ITA,5,38,18,10,10,77,58,19,64,1.68,60.2,51.9,8.3,0.22,23263,Ciro Immobile - 27,Thomas Strakosha
-2022,Union Berlin,de GER,5,34,16,9,9,50,44,6,57,1.68,53.9,42.8,11.1,0.33,14046,Taiwo Awoniyi - 15,Andreas Luthe
-2022,Strasbourg,fr FRA,6,38,17,12,9,60,43,17,63,1.66,62.5,50.7,11.8,0.31,23555,Ludovic Ajorque - 12,Matz Sels
-2022,Roma,it ITA,6,38,18,9,11,59,43,16,63,1.66,70.3,41.8,28.5,0.75,41929,Tammy Abraham - 17,Rui Patrício
-2022,Lens,fr FRA,7,38,17,11,10,62,48,14,62,1.63,57.7,49,8.6,0.23,28950,Arnaud Kalimuendo - 12,Jean-Louis Leca
-2022,Fiorentina,it ITA,7,38,19,5,14,59,51,8,62,1.63,65.6,46.1,19.5,0.51,21107,Dušan Vlahović - 17,Pietro Terracciano
-2022,Real Sociedad,es ESP,6,38,17,11,10,40,37,3,62,1.63,57.9,44.1,13.8,0.36,26813,Mikel Oyarzabal - 9,Álex Remiro
-2022,Freiburg,de GER,6,34,15,10,9,58,46,12,55,1.62,55,50.8,4.2,0.12,18741,Vincenzo Grifo - 9,Mark Flekken
-2022,Lyon,fr FRA,8,38,17,11,10,66,51,15,61,1.61,76.3,59,17.2,0.45,32329,Moussa Dembélé - 21,Anthony Lopes
-2022,Villarreal,es ESP,7,38,16,11,11,63,37,26,59,1.55,67.5,50.9,16.6,0.44,14293,Arnaut Danjuma - 10,Gerónimo Rulli
-2022,Atalanta,it ITA,8,38,16,11,11,65,48,17,59,1.55,71.2,50.4,20.8,0.55,10447,Mario Pašalić - 13,Juan Musso
-2022,Köln,de GER,7,34,14,10,10,52,49,3,52,1.53,56.2,56.2,0,0,31965,Anthony Modeste - 20,Marvin Schwäbe
-2022,Manchester Utd,eng ENG,6,38,16,10,12,57,57,0,58,1.53,61.7,59.6,2.1,0.05,73150,Cristiano Ronaldo - 18,David de Gea
-2022,West Ham,eng ENG,7,38,16,8,14,60,51,9,56,1.47,58,58.1,0,0,58370,Jarrod Bowen - 12,Łukasz Fabiański
-2022,Nantes,fr FRA,9,38,15,10,13,55,48,7,55,1.45,50.9,56.5,-5.6,-0.15,20803,Randal Kolo Muani - 12,Alban Lafont
-2022,Athletic Club,es ESP,8,38,14,13,11,43,36,7,55,1.45,54.4,43.4,11,0.29,32949,Iñaki Williams - 8,Unai Simón
-2022,Lille,fr FRA,10,38,14,13,11,48,48,0,55,1.45,56.2,45.8,10.4,0.27,34346,Jonathan David - 15,Ivo Grbić
-2022,Hellas Verona,it ITA,9,38,14,11,13,65,59,6,53,1.39,57.6,53.7,3.9,0.1,13894,Giovanni Simeone - 17,Lorenzo Montipò
-2022,Leicester City,eng ENG,8,38,14,10,14,62,59,3,52,1.37,52.1,68.8,-16.7,-0.44,32493,Jamie Vardy - 15,Kasper Schmeichel
-2022,Mainz 05,de GER,8,34,13,7,14,50,45,5,46,1.35,56.4,48.2,8.2,0.24,17978,Jonathan Burkardt - 11,Robin Zentner
-2022,Hoffenheim,de GER,9,34,13,7,14,58,60,-2,46,1.35,62.9,58.1,4.9,0.14,11227,Georginio Rutter - 8,Oliver Baumann
-2022,Brighton,eng ENG,9,38,12,15,11,42,44,-2,51,1.34,53,49.8,3.2,0.08,30966,Leandro Trossard Neal Maupay - 8,Robert Sánchez
-2022,Wolves,eng ENG,10,38,15,6,17,38,43,-5,51,1.34,41.2,63.7,-22.5,-0.59,30841,Raúl Jiménez - 6,José Sá
-2022,Torino,it ITA,10,38,13,11,14,46,41,5,50,1.32,53.1,43.7,9.3,0.25,9846,Andrea Belotti - 8,Vanja Milinković-Savić
-2022,Sassuolo,it ITA,11,38,13,11,14,64,66,-2,50,1.32,62,72.4,-10.3,-0.27,8362,Gianluca Scamacca - 16,Andrea Consigli
-2022,M'Gladbach,de GER,10,34,12,9,13,54,61,-7,45,1.32,63.7,62.5,1.2,0.04,26539,Jonas Hofmann - 12,Yann Sommer
-2022,Newcastle Utd,eng ENG,11,38,13,10,15,44,62,-18,49,1.29,44.4,62.4,-18,-0.47,51487,Callum Wilson - 8,Martin Dúbravka
-2022,Crystal Palace,eng ENG,12,38,11,15,12,50,46,4,48,1.26,53.8,46,7.8,0.21,24588,Wilfried Zaha - 14,Vicente Guaita
-2022,Valencia,es ESP,9,38,11,15,12,48,53,-5,48,1.26,43.6,49,-5.4,-0.14,27349,Gonçalo Guedes Carlos Soler - 11,Giorgi Mamardashvili
-2022,Brest,fr FRA,11,38,13,9,16,49,57,-8,48,1.26,48.9,64.3,-15.4,-0.41,11804,Franck Honorat - 11,Marco Bizot
-2022,Udinese,it ITA,12,38,11,14,13,61,58,3,47,1.24,58.2,57.1,1.1,0.03,12144,Gerard Deulofeu - 13,Marco Silvestri
-2022,Eint Frankfurt,de GER,11,34,10,12,12,45,49,-4,42,1.24,48.7,52.8,-4.1,-0.12,26162,Rafael Borré - 8,Kevin Trapp
-2022,Wolfsburg,de GER,12,34,12,6,16,43,54,-11,42,1.24,51.1,52.5,-1.4,-0.04,12018,Lukas Nmecha - 8,Koen Casteels
-2022,Osasuna,es ESP,10,38,12,11,15,37,51,-14,47,1.24,40.3,48.8,-8.4,-0.22,17107,Ante Budimir - 8,Sergio Herrera
-2022,Bochum,de GER,13,34,12,6,16,38,52,-14,42,1.24,47.5,60.3,-12.7,-0.37,14236,Sebastian Polter - 10,Manuel Riemann
-2022,Celta Vigo,es ESP,11,38,12,10,16,43,43,0,46,1.21,46.7,49.6,-2.8,-0.07,10014,Iago Aspas - 18,Matías Dituro
-2022,Reims,fr FRA,12,38,11,13,14,43,44,-1,46,1.21,43.9,54.4,-10.5,-0.28,11071,Hugo Ekitike - 10,Predrag Rajković
-2022,Brentford,eng ENG,13,38,13,7,18,48,56,-8,46,1.21,51.1,54,-2.8,-0.07,16918,Ivan Toney - 12,David Raya
-2022,Bologna,it ITA,13,38,12,10,16,44,55,-11,46,1.21,48.1,59.7,-11.6,-0.31,14158,Marko Arnautović - 14,Łukasz Skorupski
-2022,Aston Villa,eng ENG,14,38,13,6,19,52,54,-2,45,1.18,47.9,54.4,-6.5,-0.17,41681,Ollie Watkins - 11,Emiliano Martínez
-2022,Montpellier,fr FRA,13,38,12,7,19,49,61,-12,43,1.13,45.7,64.1,-18.4,-0.48,10711,Sepe Elye Wahi - 10,Jonas Omlin
-2022,Augsburg,de GER,14,34,10,8,16,39,56,-17,38,1.12,40.7,64.5,-23.8,-0.7,15197,Michael Gregoritsch - 9,Rafał Gikiewicz
-2022,Rayo Vallecano,es ESP,12,38,11,9,18,39,50,-11,42,1.11,50.2,51.9,-1.7,-0.05,7866,Sergi Guardiola - 8,Stole Dimitrievski
-2022,Elche,es ESP,13,38,11,9,18,40,52,-12,42,1.11,36.3,64.8,-28.6,-0.75,15640,Pere Milla - 8,Édgar Badía
-2022,Espanyol,es ESP,14,38,10,12,16,40,53,-13,42,1.11,40.4,57,-16.6,-0.44,17362,Raúl de Tomás - 17,Diego López
-2022,Angers,fr FRA,14,38,10,11,17,44,55,-11,41,1.08,49.6,55.3,-5.7,-0.15,7758,Sofiane Boufal - 8,Danijel Petković
-2022,Empoli,it ITA,14,38,10,11,17,50,70,-20,41,1.08,49.4,76.2,-26.8,-0.71,6356,Andrea Pinamonti - 13,Guglielmo Vicario
-2022,Southampton,eng ENG,15,38,9,13,16,43,67,-24,40,1.05,49.9,63.3,-13.4,-0.35,30134,James Ward-Prowse - 10,Fraser Forster
-2022,Getafe,es ESP,15,38,8,15,15,33,41,-8,39,1.03,33.4,42.2,-8.8,-0.23,8702,Enes Ünal - 16,David Soria
-2022,Cádiz,es ESP,17,38,8,15,15,35,51,-16,39,1.03,45.1,55,-9.9,-0.26,14055,Anthony Lozano Álvaro Negredo - 7,Jeremías Ledesma
-2022,Everton,eng ENG,16,38,11,6,21,43,66,-23,39,1.03,47.5,60.9,-13.4,-0.35,38446,Richarlison - 10,Jordan Pickford
-2022,Mallorca,es ESP,16,38,10,9,19,36,63,-27,39,1.03,44,54.3,-10.2,-0.27,12712,Vedat Muriqi Salva Sevilla - 5,Manolo Reina
-2022,Troyes,fr FRA,15,38,9,11,18,37,53,-16,38,1,44,55.9,-11.9,-0.31,9491,Xavier Chavalerin Ike Ugbo - 5,Gauthier Gallon
-2022,Granada,es ESP,18,38,8,14,16,44,61,-17,38,1,45,64.5,-19.5,-0.51,13710,Jorge Molina - 10,Luís Maximiano
-2022,Leeds United,eng ENG,17,38,9,11,18,42,79,-37,38,1,50.4,73.2,-22.8,-0.6,36308,Raphinha - 11,Illan Meslier
-2022,Stuttgart,de GER,15,34,7,12,15,41,59,-18,33,0.97,49.5,61.6,-12,-0.35,27052,Sasa Kalajdzic - 6,Florian Müller
-2022,Hertha BSC,de GER,16,34,9,6,19,37,71,-34,33,0.97,37.2,58.4,-21.1,-0.62,23500,Stevan Jovetić - 6,Alexander Schwolow
-2022,Sampdoria,it ITA,15,38,10,6,22,46,63,-17,36,0.95,41.2,62.2,-21,-0.55,9417,Francesco Caputo - 11,Emil Audero
-2022,Lorient,fr FRA,16,38,8,12,18,35,63,-28,36,0.95,47.9,57.4,-9.5,-0.25,12738,Terem Moffi - 8,Paul Nardi
-2022,Spezia,it ITA,16,38,10,6,22,41,71,-30,36,0.95,42.3,72.2,-29.9,-0.79,6709,Daniele Verde - 8,Ivan Provedel
-2022,Clermont Foot,fr FRA,17,38,9,9,20,38,69,-31,36,0.95,49.3,61.3,-12,-0.32,10569,Mohamed Lamine Bayo - 14,Ouparine Djoco
-2022,Burnley,eng ENG,18,38,7,14,17,34,53,-19,35,0.92,43.8,63.8,-20,-0.53,19278,Maxwel Cornet - 9,Nick Pope
-2022,Levante,es ESP,19,38,8,11,19,51,76,-25,35,0.92,61.2,60.9,0.3,0.01,14961,José Luis Morales - 13,Cárdenas
-2022,Saint-Étienne,fr FRA,18,38,7,11,20,42,77,-35,32,0.84,44.5,63.7,-19.2,-0.5,21806,Wahbi Khazri - 10,Paul Bernardoni
-2022,Arminia,de GER,17,34,5,13,16,27,53,-26,28,0.82,32.5,70.6,-38.1,-1.12,16773,Masaya Okugawa - 8,Stefan Ortega
-2022,Metz,fr FRA,19,38,6,13,19,35,69,-34,31,0.82,34.1,69.6,-35.5,-0.93,14876,Nicolas de Préville - 5,Alexandre Oukidja
-2022,Alavés,es ESP,20,38,8,7,23,31,65,-34,31,0.82,41.1,64.6,-23.4,-0.62,10952,Joselu - 14,Fernando Pacheco
-2022,Bordeaux,fr FRA,20,38,6,13,19,52,91,-39,31,0.82,49.4,72.8,-23.4,-0.61,22141,Hwang Ui-jo - 11,Benoît Costil
-2022,Salernitana,it ITA,17,38,7,10,21,33,78,-45,31,0.82,42.2,71.2,-29,-0.76,15073,Federico Bonazzoli - 10,Vid Belec
-2022,Cagliari,it ITA,18,38,6,12,20,34,68,-34,30,0.79,42.9,64.6,-21.7,-0.57,9718,João Pedro - 13,Alessio Cragno
-2022,Genoa,it ITA,19,38,4,16,18,27,60,-33,28,0.74,41.9,58.3,-16.4,-0.43,12326,Mattia Destro - 9,Salvatore Sirigu
-2022,Venezia,it ITA,20,38,6,9,23,34,69,-35,27,0.71,40.1,80.9,-40.8,-1.07,6648,Thomas Henry - 9,Niki Mäenpää
-2022,Watford,eng ENG,19,38,6,5,27,34,77,-43,23,0.61,44.3,72.6,-28.2,-0.74,20614,Emmanuel Dennis - 10,Ben Foster
-2022,Norwich City,eng ENG,20,38,5,7,26,23,84,-61,22,0.58,35.7,82.3,-46.6,-1.23,26836,Teemu Pukki - 11,Tim Krul
-2022,Greuther Fürth,de GER,18,34,3,9,22,28,82,-54,18,0.53,33.7,67.5,-33.8,-0.99,7672,Branimir Hrgota - 9,Sascha Burchert
+2018,Manchester City,England,1,38,32,4,2,106,27,79,100,2.63,78.6,23.8,54.8,1.44,54070,Sergio Agüero - 21,Ederson
+2018,Juventus,Italy,1,38,30,5,3,86,24,62,95,2.5,55.3,27.4,27.9,0.73,39316,Paulo Dybala - 22,Gianluigi Buffon
+2018,Bayern Munich,Germany,1,34,27,3,4,92,28,64,84,2.47,75.8,31.7,44.1,1.3,75000,Robert Lewandowski - 29,Sven Ulreich
+2018,Paris S-G,France,1,38,29,6,3,108,29,79,93,2.45,86.1,34.3,51.7,1.36,46930,Edinson Cavani - 28,Alphonse Areola
+2018,Barcelona,Spain,1,38,28,9,1,99,29,70,93,2.45,83.5,41.9,41.6,1.09,67142,Lionel Messi - 34,Marc-André ter Stegen
+2018,Napoli,Italy,2,38,28,7,3,77,29,48,91,2.39,67.1,27.1,40.1,1.05,43050,Dries Mertens - 18,Pepe Reina
+2018,Manchester Utd,England,2,38,25,6,7,68,28,40,81,2.13,55.7,40.7,15,0.4,74976,Romelu Lukaku - 16,David de Gea
+2018,Monaco,France,2,38,24,8,6,85,45,40,80,2.11,62.3,48.5,13.8,0.36,9243,Radamel Falcao - 18,Danijel Subašić
+2018,Atlético Madrid,Spain,2,38,23,10,5,58,22,36,79,2.08,50.2,35.8,14.4,0.38,52707,Antoine Griezmann - 19,Jan Oblak
+2018,Lyon,France,3,38,23,9,6,87,43,44,78,2.05,63.4,40.1,23.3,0.61,44047,Memphis - 19,Anthony Lopes
+2018,Tottenham,England,3,38,23,8,7,74,36,38,77,2.03,64.7,33.9,30.8,0.81,67953,Harry Kane - 30,Hugo Lloris
+2018,Marseille,France,4,38,22,11,5,80,47,33,77,2.03,78.1,41.8,36.3,0.96,46616,Florian Thauvin - 22,Steve Mandanda
+2018,Roma,Italy,3,38,23,8,7,61,28,33,77,2.03,63.4,37.2,26.2,0.69,37450,Edin Džeko - 16,Alisson
+2018,Real Madrid,Spain,3,38,22,10,6,94,44,50,76,2,85.4,43.2,42.2,1.11,66863,Cristiano Ronaldo - 26,Keylor Navas
+2018,Liverpool,England,4,38,21,12,5,84,38,46,75,1.97,72.9,33.8,39.1,1.03,53049,Mohamed Salah - 32,Loris Karius Simon Mignolet
+2018,Valencia,Spain,4,38,22,7,9,65,38,27,73,1.92,56,48.3,7.7,0.2,38607,Rodrigo - 16,Neto
+2018,Lazio,Italy,5,38,21,9,8,89,49,40,72,1.89,63.7,43.9,19.9,0.52,30990,Ciro Immobile - 29,Thomas Strakosha
+2018,Inter,Italy,4,38,20,12,6,66,30,36,72,1.89,56.7,37.2,19.6,0.52,57529,Mauro Icardi - 29,Samir Handanović
+2018,Schalke 04,Germany,2,34,18,9,7,53,37,16,63,1.85,46.7,40.2,6.6,0.19,61197,Guido Burgstaller - 11,Ralf Fährmann
+2018,Chelsea,England,5,38,21,7,10,62,38,24,70,1.84,54.4,33.8,20.6,0.54,41282,Eden Hazard - 12,Thibaut Courtois
+2018,Milan,Italy,6,38,18,10,10,56,42,14,64,1.68,51.2,36.9,14.3,0.38,52690,Patrick Cutrone - 10,Gianluigi Donnarumma
+2018,Arsenal,England,6,38,19,6,13,74,51,23,63,1.66,68.3,47.8,20.5,0.54,59323,Alexandre Lacazette - 14,Petr Čech
+2018,Hoffenheim,Germany,3,34,15,10,9,66,48,18,55,1.62,50.5,47.2,3.3,0.1,28716,Mark Uth - 14,Oliver Baumann
+2018,Dortmund,Germany,4,34,15,10,9,64,47,17,55,1.62,66,42.2,23.8,0.7,79496,Pierre-Emerick Aubameyang - 13,Roman Bürki
+2018,Leverkusen,Germany,5,34,15,10,9,58,44,14,55,1.62,57.5,38.9,18.6,0.55,28415,Kevin Volland - 14,Bernd Leno
+2018,Villarreal,Spain,5,38,18,7,13,57,50,7,61,1.61,53.2,53.4,-0.2,0,16779,Carlos Bacca - 15,Sergio Asenjo
+2018,Atalanta,Italy,7,38,16,12,10,57,39,18,60,1.58,64.1,36.6,27.5,0.72,17921,Josip Iličić - 11,Etrit Berisha
+2018,Betis,Spain,6,38,18,6,14,60,61,-1,60,1.58,46,49,-3.1,-0.08,46781,Sergio León - 11,Antonio Adán
+2018,RB Leipzig,Germany,6,34,15,8,11,57,53,4,53,1.56,51.9,46.7,5.2,0.15,39397,Timo Werner - 13,Péter Gulácsi
+2018,Rennes,France,5,38,16,10,12,50,44,6,58,1.53,49.8,49.3,0.5,0.01,23111,Benjamin Bourigeaud - 10,Tomáš Koubek
+2018,Sevilla,Spain,7,38,17,7,14,49,58,-9,58,1.53,59.5,54.4,5.2,0.14,33006,Wissam Ben Yedder - 9,Sergio Rico
+2018,Fiorentina,Italy,8,38,16,9,13,54,46,8,57,1.5,54.5,40.8,13.7,0.36,26092,Giovanni Simeone - 14,Marco Sportiello
+2018,Stuttgart,Germany,7,34,15,6,13,36,36,0,51,1.5,40.3,43.5,-3.1,-0.09,56045,Mario Gómez - 8,Ron-Robert Zieler
+2018,Getafe,Spain,8,38,15,10,13,42,33,9,55,1.45,48.2,39.7,8.5,0.22,10428,Ángel Rodríguez - 13,Vicente Guaita
+2018,Bordeaux,France,6,38,16,7,15,53,48,5,55,1.45,51,43.6,7.5,0.2,26048,Malcom - 12,Benoît Costil
+2018,Saint-Étienne,France,7,38,15,10,13,47,50,-3,55,1.45,51,54.1,-3.1,-0.08,27563,Jonathan Bamba Robert Berić... - 7,Stéphane Ruffier
+2018,Eint Frankfurt,Germany,8,34,14,7,13,45,45,0,49,1.44,42.2,41.7,0.5,0.01,49159,Sébastien Haller - 9,Lukáš Hrádecký
+2018,Torino,Italy,9,38,13,15,10,54,46,8,54,1.42,46,47,-1,-0.03,18596,Iago Falque - 12,Salvatore Sirigu
+2018,Nice,France,8,38,15,9,14,53,52,1,54,1.42,49.2,49.5,-0.3,-0.01,22876,Mario Balotelli - 18,Walter Benítez
+2018,Burnley,England,7,38,14,12,12,36,39,-3,54,1.42,32.3,51.2,-18.9,-0.5,20688,Chris Wood - 10,Nick Pope
+2018,Sampdoria,Italy,10,38,16,6,16,56,60,-4,54,1.42,53.5,60.3,-6.8,-0.18,20156,Fabio Quagliarella - 19,Emiliano Viviano
+2018,M'Gladbach,Germany,9,34,13,8,13,47,52,-5,47,1.38,51.1,51.9,-0.8,-0.02,50986,Thorgan Hazard - 10,Yann Sommer
+2018,Nantes,France,9,38,14,10,14,36,41,-5,52,1.37,41.8,38.1,3.7,0.1,24559,Emiliano Sala - 12,Ciprian Tătărușanu
+2018,Montpellier,France,10,38,11,18,9,36,33,3,51,1.34,42.6,39,3.6,0.1,13458,Giovanni Sio - 10,Benjamin Lecomte
+2018,Eibar,Spain,9,38,14,9,15,44,50,-6,51,1.34,40.9,44.4,-3.5,-0.09,5338,Charles Kike - 8,Marko Dmitrović
+2018,Girona,Spain,10,38,14,9,15,50,59,-9,51,1.34,50.6,50.4,0.2,0.01,10424,Cristhian Stuani - 21,Yassine Bounou
+2018,Real Sociedad,Spain,12,38,14,7,17,66,59,7,49,1.29,53.7,50.5,3.1,0.08,19793,Willian José - 15,Gerónimo Rulli
+2018,Celta Vigo,Spain,13,38,13,10,15,59,60,-1,49,1.29,55,55.3,-0.3,-0.01,16195,Iago Aspas - 22,Rubén Blanco
+2018,Espanyol,Spain,11,38,12,13,13,36,42,-6,49,1.29,41.1,52.3,-11.2,-0.29,17882,Gerard Moreno - 16,Pau López
+2018,Everton,England,8,38,13,10,15,44,58,-14,49,1.29,40.5,52.4,-11.9,-0.31,38797,Wayne Rooney - 10,Jordan Pickford
+2018,Hertha BSC,Germany,10,34,10,13,11,43,46,-3,43,1.26,39.2,44.3,-5.1,-0.15,45319,Salomon Kalou - 12,Rune Jarstein
+2018,Dijon,France,11,38,13,9,16,55,73,-18,48,1.26,41.6,63.8,-22.2,-0.58,12228,Júlio Tavares - 12,Baptiste Reynet
+2018,Werder Bremen,Germany,11,34,10,12,12,37,40,-3,42,1.24,38.9,45.1,-6.2,-0.18,38726,Max Kruse - 6,Jiří Pavlenka
+2018,Leicester City,England,9,38,12,11,15,56,60,-4,47,1.24,50,48.1,1.9,0.05,31583,Jamie Vardy - 20,Kasper Schmeichel
+2018,Alavés,Spain,14,38,15,2,21,40,50,-10,47,1.24,38.5,55.9,-17.4,-0.46,18845,Munir El Haddadi - 10,Fernando Pacheco
+2018,Guingamp,France,12,38,12,11,15,48,59,-11,47,1.24,45.5,49,-3.5,-0.09,14502,Jimmy Briand - 11,Karl-Johan Johnsson
+2018,Augsburg,Germany,12,34,10,11,13,43,46,-3,41,1.21,44.7,41.4,3.3,0.1,28238,Michael Gregoritsch - 13,Marwin Hitz
+2018,Levante,Spain,15,38,11,13,14,44,58,-14,46,1.21,44.7,63.6,-18.8,-0.5,18534,José Luis Morales - 10,Oier Olazábal
+2018,Amiens,France,13,38,12,9,17,37,42,-5,45,1.18,32.8,54.9,-22.1,-0.58,9521,Moussa Konaté - 13,Régis Gurtner
+2018,Newcastle Utd,England,10,38,12,8,18,39,47,-8,44,1.16,41.6,52.4,-10.8,-0.28,51992,Ayoze Pérez - 8,Rob Elliot
+2018,Crystal Palace,England,11,38,11,11,16,45,55,-10,44,1.16,53.5,48.2,5.2,0.14,25063,Luka Milivojević - 10,Wayne Hennessey
+2018,Bournemouth,England,12,38,11,11,16,45,61,-16,44,1.16,38.8,59.2,-20.4,-0.54,10641,Joshua King Callum Wilson - 8,Asmir Begović
+2018,Hannover 96,Germany,13,34,10,9,15,44,54,-10,39,1.15,44.6,55.6,-11,-0.32,42706,Niclas Füllkrug - 14,Philipp Tschauner
+2018,Athletic Club,Spain,16,38,10,13,15,41,49,-8,43,1.13,49.7,50.3,-0.6,-0.02,37246,Raúl García - 10,Kepa Arrizabalaga
+2018,Leganés,Spain,17,38,12,7,19,34,51,-17,43,1.13,39.9,47.6,-7.6,-0.2,9969,Gabriel - 5,Iván Cuéllar
+2018,Sassuolo,Italy,11,38,11,10,17,29,59,-30,43,1.13,46.3,48.9,-2.6,-0.07,11237,Matteo Politano - 10,Andrea Consigli
+2018,West Ham,England,13,38,10,12,16,48,68,-20,42,1.11,36.7,55.1,-18.4,-0.48,56885,Marko Arnautović - 11,Joe Hart Adrián
+2018,Angers,France,14,38,9,14,15,42,52,-10,41,1.08,47.6,45.8,1.8,0.05,11065,Karl Toko Ekambi - 17,Ludovic Butelle
+2018,Genoa,Italy,12,38,11,8,19,33,43,-10,41,1.08,43.5,42.6,0.9,0.02,20941,Gianluca Lapadula - 6,Mattia Perin
+2018,Watford,England,14,38,11,8,19,44,64,-20,41,1.08,45,51.8,-6.8,-0.18,20231,Abdoulaye Doucouré - 7,Heurelho Gomes
+2018,Mainz 05,Germany,14,34,9,9,16,38,52,-14,36,1.06,35.4,47.9,-12.5,-0.37,28766,Yoshinori Mutō - 8,Robin Zentner
+2018,Freiburg,Germany,15,34,8,12,14,32,56,-24,36,1.06,39.6,46.1,-6.6,-0.19,23894,Nils Petersen - 15,Alexander Schwolow
+2018,Udinese,Italy,14,38,12,4,22,48,63,-15,40,1.05,43.2,49.3,-6.1,-0.16,17906,Kevin Lasagna - 12,Albano Bizzarri
+2018,Brighton,England,15,38,9,13,16,34,54,-20,40,1.05,37,50.8,-13.8,-0.36,30403,Glenn Murray - 12,Mathew Ryan
+2018,Chievo,Italy,13,38,10,10,18,36,59,-23,40,1.05,34.1,55.2,-21.2,-0.56,12540,Roberto Inglese - 12,Stefano Sorrentino
+2018,Bologna,Italy,15,38,11,6,21,40,52,-12,39,1.03,36.6,51.4,-14.8,-0.39,20903,Simone Verdi - 10,Antonio Mirante
+2018,Cagliari,Italy,16,38,11,6,21,33,61,-28,39,1.03,39.7,59.2,-19.5,-0.51,14685,Leonardo Pavoletti - 11,Alessio Cragno
+2018,SPAL,Italy,17,38,8,14,16,39,59,-20,38,1,35.8,57.7,-21.9,-0.58,12067,Mirco Antenucci - 11,Alfred Gomis
+2018,Strasbourg,France,15,38,9,11,18,44,67,-23,38,1,45.5,58.4,-12.9,-0.34,24064,Stéphane Bahoken - 7,Bingourou Kamara
+2018,Caen,France,16,38,10,8,20,27,52,-25,38,1,42.8,48,-5.2,-0.14,17187,Ivan Santini - 11,Rémy Vercoutre
+2018,Lille,France,17,38,10,8,20,41,67,-26,38,1,36.4,57.9,-21.5,-0.57,31453,Nicolas Pépé - 13,Mike Maignan
+2018,Wolfsburg,Germany,16,34,6,15,13,36,48,-12,33,0.97,34.2,52,-17.8,-0.52,25712,Daniel Didavi - 9,Koen Casteels
+2018,Toulouse,France,18,38,9,10,19,38,54,-16,37,0.97,45.5,52.1,-6.6,-0.17,16929,Max Gradel - 8,Alban Lafont
+2018,Huddersfield,England,16,38,9,10,19,28,58,-30,37,0.97,31.3,48.5,-17.2,-0.45,24040,Steve Mounié - 7,Jonas Lössl
+2018,Southampton,England,17,38,7,15,16,37,56,-19,36,0.95,39.9,45.2,-5.3,-0.14,30794,Charlie Austin - 7,Fraser Forster
+2018,Crotone,Italy,18,38,9,8,21,40,66,-26,35,0.92,34.6,58.6,-24,-0.63,10581,Marcello Trotta Simeon Nwankwo - 7,Alex Cordaz
+2018,Hamburger SV,Germany,17,34,8,7,19,29,53,-24,31,0.91,37.7,55.9,-18.2,-0.54,50656,Lewis Holtby - 6,Christian Mathenia
+2018,Troyes,France,19,38,9,6,23,32,59,-27,33,0.87,38,52,-14,-0.37,11723,Adama Niane - 8,Mamadou Samassa
+2018,Swansea City,England,18,38,8,9,21,28,56,-28,33,0.87,31.6,58.6,-27,-0.71,20623,Jordan Ayew - 7,Łukasz Fabiański
+2018,Stoke City,England,19,38,7,12,19,35,68,-33,33,0.87,36.5,62.5,-26,-0.69,29280,Xherdan Shaqiri - 8,Jack Butland
+2018,West Brom,England,20,38,6,13,19,31,56,-25,31,0.82,36.5,47.9,-11.4,-0.3,24520,Jay Rodriguez Salomón Rondón - 7,Ben Foster
+2018,La Coruña,Spain,18,38,6,11,21,38,76,-38,29,0.76,51.6,58.7,-7.1,-0.19,20542,Adrián López - 9,Rubén
+2018,Metz,France,20,38,6,8,24,34,76,-42,26,0.68,40.3,71.3,-31,-0.81,14844,Nolan Roux - 15,Eiji Kawashima
+2018,Hellas Verona,Italy,19,38,7,4,27,30,78,-48,25,0.66,33,70.2,-37.1,-0.98,17333,Moise Kean Giampaolo Pazzini - 4,Nícolas Andrade
+2018,Köln,Germany,18,34,5,7,22,35,70,-35,22,0.65,43.2,67.4,-24.1,-0.71,48776,Leonardo Bittencourt Simon Terodde - 5,Timo Horn
+2018,Las Palmas,Spain,19,38,5,7,26,24,74,-50,22,0.58,38.5,70.5,-32,-0.84,16183,Jonathan Calleri - 9,Leandro Chichizola
+2018,Benevento,Italy,20,38,6,3,29,33,84,-51,21,0.55,38.3,73.2,-34.9,-0.92,12132,Cheick Diabaté - 8,Christian Puggioni
+2018,Málaga,Spain,20,38,5,5,28,24,61,-37,20,0.53,38.4,59.4,-21,-0.55,20333,Diego Rolán - 5,Roberto
+2019,Manchester City,England,1,38,32,2,4,95,23,72,98,2.58,84.3,24.7,59.6,1.57,54130,Sergio Agüero - 21,Ederson
+2019,Liverpool,England,2,38,30,7,1,89,22,67,97,2.55,73.7,28.8,44.9,1.18,52983,Sadio Mané Mohamed Salah - 22,Alisson
+2019,Paris S-G,France,1,38,29,4,5,105,35,70,91,2.39,88.9,37.6,51.3,1.35,46911,Kylian Mbappé - 33,Alphonse Areola
+2019,Juventus,Italy,1,38,28,6,4,70,30,40,90,2.37,60.7,35.8,25,0.66,37799,Cristiano Ronaldo - 21,Wojciech Szczęsny
+2019,Bayern Munich,Germany,1,34,24,6,4,88,32,56,78,2.29,85.6,27.2,58.4,1.72,75000,Robert Lewandowski - 22,Manuel Neuer
+2019,Barcelona,Spain,1,38,26,9,3,90,36,54,87,2.29,75.8,45.3,30.5,0.8,76104,Lionel Messi - 36,Marc-André ter Stegen
+2019,Dortmund,Germany,2,34,23,7,4,81,44,37,76,2.24,61.5,39.9,21.5,0.63,80841,Paco Alcácer - 18,Roman Bürki
+2019,Napoli,Italy,2,38,24,7,7,74,36,38,79,2.08,61.8,38.2,23.5,0.62,29003,Arkadiusz Milik - 17,David Ospina
+2019,Atlético Madrid,Spain,2,38,22,10,6,55,29,26,76,2,47.3,41.9,5.4,0.14,56216,Antoine Griezmann - 15,Jan Oblak
+2019,Lille,France,2,38,22,9,7,68,33,35,75,1.97,59.5,42.1,17.4,0.46,34079,Nicolas Pépé - 22,Mike Maignan
+2019,RB Leipzig,Germany,3,34,19,9,6,63,29,34,66,1.94,65.7,40.5,25.2,0.74,38380,Timo Werner - 16,Péter Gulácsi
+2019,Chelsea,England,3,38,21,9,8,63,39,24,72,1.89,58.6,36.4,22.2,0.58,40437,Eden Hazard - 16,Kepa Arrizabalaga
+2019,Lyon,France,3,38,21,9,8,70,47,23,72,1.89,73.7,43.9,29.8,0.78,49079,Moussa Dembélé - 15,Anthony Lopes
+2019,Tottenham,England,4,38,23,2,13,67,39,28,71,1.87,54.9,47.1,7.8,0.2,54216,Harry Kane - 17,Hugo Lloris
+2019,Arsenal,England,5,38,21,7,10,73,51,22,70,1.84,60.1,54.2,5.9,0.15,59899,Pierre-Emerick Aubameyang - 22,Bernd Leno
+2019,Atalanta,Italy,3,38,20,9,9,77,46,31,69,1.82,72.2,41.1,31.1,0.82,18301,Duván Zapata - 23,Pierluigi Gollini
+2019,Inter,Italy,4,38,20,9,9,57,33,24,69,1.82,63.8,38.3,25.6,0.67,57405,Mauro Icardi - 11,Samir Handanović
+2019,Milan,Italy,5,38,19,11,8,55,36,19,68,1.79,48.8,41.2,7.6,0.2,54651,Krzysztof Piątek - 9,Gianluigi Donnarumma
+2019,Real Madrid,Spain,3,38,21,5,12,63,46,17,68,1.79,66.7,47.1,19.6,0.52,61040,Karim Benzema - 21,Thibaut Courtois
+2019,Saint-Étienne,France,4,38,19,9,10,59,41,18,66,1.74,56.7,50.4,6.3,0.16,28400,Wahbi Khazri - 13,Stéphane Ruffier
+2019,Roma,Italy,6,38,18,12,8,66,48,18,66,1.74,64.4,52.1,12.2,0.32,38622,Stephan El Shaarawy - 11,Robin Olsen
+2019,Manchester Utd,England,6,38,19,9,10,65,54,11,66,1.74,61.4,50.6,10.8,0.29,74498,Paul Pogba - 13,David de Gea
+2019,Leverkusen,Germany,4,34,18,4,12,69,52,17,58,1.71,58.3,44,14.3,0.42,27990,Kai Havertz - 17,Lukáš Hrádecký
+2019,Torino,Italy,7,38,16,15,7,52,37,15,63,1.66,46.6,47.7,-1.1,-0.03,21323,Andrea Belotti - 15,Salvatore Sirigu
+2019,M'Gladbach,Germany,5,34,16,7,11,55,42,13,55,1.62,52.2,52.3,0,0,49668,Alassane Pléa - 12,Yann Sommer
+2019,Wolfsburg,Germany,6,34,16,7,11,62,50,12,55,1.62,47.6,48.3,-0.7,-0.02,24479,Wout Weghorst - 17,Koen Casteels
+2019,Valencia,Spain,4,38,15,16,7,51,35,16,61,1.61,60.7,42.9,17.8,0.47,39504,Daniel Parejo - 9,Neto
+2019,Marseille,France,5,38,18,7,13,60,52,8,61,1.61,52.7,45.6,7.1,0.19,50140,Florian Thauvin - 16,Steve Mandanda
+2019,Eint Frankfurt,Germany,7,34,15,9,10,60,48,12,54,1.59,57.2,50.7,6.6,0.19,49794,Luka Jović - 17,Kevin Trapp
+2019,Werder Bremen,Germany,8,34,14,11,9,58,49,9,53,1.56,49.8,56.1,-6.4,-0.19,41403,Max Kruse - 11,Jiří Pavlenka
+2019,Sevilla,Spain,6,38,17,8,13,62,47,15,59,1.55,66.6,45.4,21.3,0.56,35993,Wissam Ben Yedder - 18,Tomáš Vaclík
+2019,Getafe,Spain,5,38,15,14,9,48,35,13,59,1.55,46.2,43.6,2.6,0.07,11000,Jorge Molina Jaime Mata - 14,David Soria
+2019,Montpellier,France,6,38,15,14,9,53,42,11,59,1.55,50.1,41.8,8.2,0.22,13829,Andy Delort - 14,Benjamin Lecomte
+2019,Lazio,Italy,8,38,17,8,13,56,46,10,59,1.55,60.4,47,13.4,0.35,33997,Ciro Immobile - 15,Thomas Strakosha
+2019,Hoffenheim,Germany,9,34,13,12,9,70,52,18,51,1.5,75.9,52.5,23.4,0.69,28456,Andrej Kramarić - 17,Oliver Baumann
+2019,Wolves,England,7,38,16,9,13,47,46,1,57,1.5,52.1,42.1,10.1,0.26,31030,Raúl Jiménez - 13,Rui Patrício
+2019,Nice,France,7,38,15,11,12,30,35,-5,56,1.47,46.3,50,-3.7,-0.1,19126,Allan Saint-Maximin Youcef Atal - 6,Walter Benítez
+2019,Reims,France,8,38,13,16,9,39,42,-3,55,1.45,38.1,45,-6.9,-0.18,14342,Remi Oudin - 10,Edouard Mendy
+2019,Everton,England,8,38,15,9,14,54,46,8,54,1.42,49.7,45.7,4,0.1,39043,Gylfi Sigurðsson Richarlison - 13,Jordan Pickford
+2019,Sampdoria,Italy,9,38,15,8,15,60,51,9,53,1.39,50.5,55,-4.5,-0.12,20263,Fabio Quagliarella - 26,Emil Audero
+2019,Nîmes,France,9,38,15,8,15,57,58,-1,53,1.39,50,56.5,-6.5,-0.17,13994,Denis Bouanga Renaud Ripart - 8,Paul Bernardoni
+2019,Espanyol,Spain,7,38,14,11,13,48,50,-2,53,1.39,48.9,53.8,-4.9,-0.13,19388,Borja Iglesias - 17,Diego López
+2019,Athletic Club,Spain,8,38,13,14,11,41,45,-4,53,1.39,43.4,45.7,-2.3,-0.06,40664,Iñaki Williams - 13,Iago Herrerín
+2019,Rennes,France,10,38,13,13,12,55,52,3,52,1.37,55.6,47.6,8,0.21,23675,M'Baye Niang - 11,Tomáš Koubek
+2019,Leicester City,England,9,38,15,7,16,51,48,3,52,1.37,52.4,43.7,8.7,0.23,31851,Jamie Vardy - 18,Kasper Schmeichel
+2019,West Ham,England,10,38,15,7,16,52,55,-3,52,1.37,47.6,61.9,-14.3,-0.38,58336,Marko Arnautović - 10,Łukasz Fabiański
+2019,Real Sociedad,Spain,9,38,13,11,14,45,46,-1,50,1.32,49.7,48.6,1.1,0.03,22310,Mikel Oyarzabal - 13,Gerónimo Rulli
+2019,Watford,England,11,38,14,8,16,52,59,-7,50,1.32,48.2,59.2,-11,-0.29,20016,Gerard Deulofeu - 10,Ben Foster
+2019,Betis,Spain,10,38,14,8,16,44,52,-8,50,1.32,47.1,49.4,-2.4,-0.06,44525,Giovani Lo Celso - 9,Pau López
+2019,Alavés,Spain,11,38,13,11,14,39,50,-11,50,1.32,41.1,53.2,-12.1,-0.32,17295,Jonathan Calleri - 9,Fernando Pacheco
+2019,Strasbourg,France,11,38,11,16,11,58,48,10,49,1.29,41.3,51.2,-9.9,-0.26,25216,Ludovic Ajorque Lebo Mothiba - 9,Matz Sels
+2019,Crystal Palace,England,12,38,14,7,17,51,53,-2,49,1.29,47.6,50.1,-2.5,-0.07,25455,Luka Milivojević - 12,Vicente Guaita
+2019,Düsseldorf,Germany,10,34,13,5,16,49,65,-16,44,1.29,47.1,62.4,-15.3,-0.45,43869,Dodi Lukebakio Benito Raman - 10,Michael Rensing
+2019,Nantes,France,12,38,13,9,16,48,48,0,48,1.26,49.1,47,2.1,0.05,25185,Emiliano Sala - 12,Ciprian Tătărușanu
+2019,Hertha BSC,Germany,11,34,11,10,13,49,57,-8,43,1.26,51,61.4,-10.5,-0.31,49258,Ondrej Duda - 11,Rune Jarstein
+2019,Mainz 05,Germany,12,34,12,7,15,46,57,-11,43,1.26,51.2,59.2,-8,-0.24,26246,Jean-Philippe Mateta - 14,Florian Müller
+2019,Eibar,Spain,12,38,11,14,13,46,50,-4,47,1.24,54.8,45.9,9,0.24,4896,Charles - 14,Marko Dmitrović
+2019,Angers,France,13,38,10,16,12,44,49,-5,46,1.21,50.7,47.9,2.8,0.07,11189,Stéphane Bahoken - 11,Ludovic Butelle
+2019,Newcastle Utd,England,13,38,12,9,17,42,48,-6,45,1.18,39.1,53.6,-14.5,-0.38,51121,Ayoze Pérez - 12,Martin Dúbravka
+2019,Leganés,Spain,13,38,11,12,15,37,43,-6,45,1.18,40.6,41.2,-0.6,-0.02,10416,Youssef En-Nesyri - 9,Iván Cuéllar
+2019,Bournemouth,England,14,38,13,6,19,56,70,-14,45,1.18,53.3,57.2,-3.9,-0.1,10532,Callum Wilson - 14,Asmir Begović
+2019,Villarreal,Spain,14,38,10,14,14,49,52,-3,44,1.16,53.9,55,-1.1,-0.03,16732,Karl Toko Ekambi - 10,Sergio Asenjo
+2019,Levante,Spain,15,38,11,11,16,59,66,-7,44,1.16,53.9,76.2,-22.3,-0.59,20216,Roger Martí - 13,Oier Olazábal
+2019,Bologna,Italy,10,38,11,11,16,48,56,-8,44,1.16,46.8,49,-2.2,-0.06,21237,Federico Santander Riccardo Orsolini - 8,Łukasz Skorupski
+2019,Sassuolo,Italy,11,38,9,16,13,53,60,-7,43,1.13,48.5,57.4,-8.9,-0.23,12369,Domenico Berardi - 8,Andrea Consigli
+2019,Udinese,Italy,12,38,11,10,17,39,53,-14,43,1.13,42.5,59.7,-17.2,-0.45,20414,Rodrigo De Paul - 9,Juan Musso
+2019,SPAL,Italy,13,38,11,9,18,44,56,-12,42,1.11,43.9,51.3,-7.3,-0.19,14745,Andrea Petagna - 16,Alfred Gomis
+2019,Fiorentina,Italy,16,38,8,17,13,47,45,2,41,1.08,54,41,13,0.34,31178,Marco Benassi - 7,Alban Lafont
+2019,Bordeaux,France,14,38,10,11,17,34,42,-8,41,1.08,39.7,53.5,-13.7,-0.36,20838,François Kamano - 10,Benoît Costil
+2019,Celta Vigo,Spain,17,38,10,11,17,53,62,-9,41,1.08,46.5,60.9,-14.4,-0.38,17603,Iago Aspas - 20,Rubén Blanco
+2019,Cagliari,Italy,15,38,10,11,17,36,54,-18,41,1.08,42.1,62.1,-20,-0.53,15396,Leonardo Pavoletti - 16,Alessio Cragno
+2019,Valladolid,Spain,16,38,10,11,17,32,51,-19,41,1.08,41.1,58.5,-17.5,-0.46,18992,Enes Ünal - 6,Jordi Masip
+2019,Parma,Italy,14,38,10,11,17,41,61,-20,41,1.08,40.2,65.3,-25.1,-0.66,16522,Gervinho - 11,Luigi Sepe
+2019,Freiburg,Germany,13,34,8,12,14,46,61,-15,36,1.06,40.9,61.1,-20.2,-0.6,23894,Nils Petersen - 10,Alexander Schwolow
+2019,Burnley,England,15,38,11,7,20,45,68,-23,40,1.05,44.4,62.1,-17.7,-0.47,20534,Ashley Barnes - 12,Tom Heaton Joe Hart
+2019,Southampton,England,16,38,9,12,17,45,65,-20,39,1.03,46.9,55.1,-8.2,-0.22,30139,Danny Ings James Ward-Prowse - 7,Alex McCarthy
+2019,Genoa,Italy,17,38,8,14,16,39,57,-18,38,1,46.9,53.3,-6.4,-0.17,20950,Krzysztof Piątek - 13,Ionuț Radu
+2019,Empoli,Italy,18,38,10,8,20,51,70,-19,38,1,52.4,63.6,-11.3,-0.3,9620,Francesco Caputo - 16,Ivan Provedel
+2019,Amiens,France,15,38,9,11,18,31,52,-21,38,1,35.4,49.8,-14.4,-0.38,11043,Moussa Konaté - 7,Régis Gurtner
+2019,Toulouse,France,16,38,8,14,16,35,57,-22,38,1,45.7,56.4,-10.7,-0.28,16224,Max Gradel - 11,Baptiste Reynet
+2019,Girona,Spain,18,38,9,10,19,37,53,-16,37,0.97,43.5,52.7,-9.2,-0.24,10948,Cristhian Stuani - 19,Yassine Bounou
+2019,Schalke 04,Germany,14,34,8,9,17,37,55,-18,33,0.97,45.6,50.1,-4.5,-0.13,60941,Daniel Caligiuri - 7,Alexander Nübel
+2019,Monaco,France,17,38,8,12,18,38,57,-19,36,0.95,47.4,50.2,-2.8,-0.07,8447,Radamel Falcao - 15,Diego Benaglio
+2019,Brighton,England,17,38,9,9,20,35,60,-25,36,0.95,35.3,59.1,-23.8,-0.63,30426,Glenn Murray - 13,Mathew Ryan
+2019,Augsburg,Germany,15,34,8,8,18,51,71,-20,32,0.94,45.3,61.1,-15.8,-0.46,28623,Alfreð Finnbogason - 10,Gregor Kobel
+2019,Dijon,France,18,38,9,7,22,31,60,-29,34,0.89,39.8,58.2,-18.5,-0.49,13044,Júlio Tavares - 5,Rúnar Alex Rúnarsson
+2019,Cardiff City,England,18,38,10,4,24,34,69,-35,34,0.89,42.4,61.5,-19.1,-0.5,31408,Bobby Reid Víctor Camarasa - 5,Neil Etheridge
+2019,Huesca,Spain,19,38,7,12,19,43,65,-22,33,0.87,50.8,60.2,-9.4,-0.25,6605,Ezequiel Ávila - 10,Roberto Santamaría
+2019,Caen,France,19,38,7,12,19,29,54,-25,33,0.87,31,63.8,-32.8,-0.86,16654,Enzo Crivelli Casimir Ninga - 6,Brice Samba
+2019,Rayo Vallecano,Spain,20,38,8,8,22,41,70,-29,32,0.84,48.7,60,-11.3,-0.3,11928,Raúl de Tomás - 14,Stole Dimitrievski
+2019,Stuttgart,Germany,16,34,7,7,20,32,70,-38,28,0.82,38,58.2,-20.1,-0.59,54577,Mario Gómez - 7,Ron-Robert Zieler
+2019,Guingamp,France,20,38,5,12,21,28,68,-40,27,0.71,40.4,53.4,-12.9,-0.34,14731,Marcus Thuram - 9,Marc-Aurèle Caillard
+2019,Fulham,England,19,38,7,5,26,34,81,-47,26,0.68,41.3,68.2,-26.8,-0.71,24371,Aleksandar Mitrović - 11,Sergio Rico
+2019,Frosinone,Italy,19,38,5,10,23,29,69,-40,25,0.66,38.9,62,-23.1,-0.61,12656,Camillo Ciano - 7,Marco Sportiello
+2019,Hannover 96,Germany,17,34,5,6,23,31,71,-40,21,0.62,37.2,67.8,-30.5,-0.9,38365,Hendrik Weydandt - 6,Michael Esser
+2019,Nürnberg,Germany,18,34,3,10,21,26,68,-42,19,0.56,35.7,52.9,-17.2,-0.51,40372,Mikael Ishak Hanno Behrens - 4,Christian Mathenia
+2019,Chievo,Italy,20,38,2,14,22,25,75,-50,17,0.45,36,60.3,-24.3,-0.64,12142,Mariusz Stępiński - 6,Stefano Sorrentino
+2019,Huddersfield,England,20,38,3,7,28,22,76,-54,16,0.42,28.8,60.9,-32.2,-0.85,23203,Karlan Grant - 4,Jonas Lössl
+2020,Liverpool,England,1,38,32,3,3,85,33,52,99,2.61,68.9,37.7,31.2,0.82,41955,Mohamed Salah - 19,Alisson
+2020,Paris S-G,France,1,27,22,2,3,75,24,51,68,2.52,74.2,23.1,51.1,1.89,47517,Kylian Mbappé - 18,Keylor Navas
+2020,Bayern Munich,Germany,1,34,26,4,4,100,32,68,82,2.41,89.5,37.9,51.6,1.52,57353,Robert Lewandowski - 34,Manuel Neuer
+2020,Real Madrid,Spain,1,38,26,9,3,70,25,45,87,2.29,67.9,33.3,34.6,0.91,45833,Karim Benzema - 21,Thibaut Courtois
+2020,Juventus,Italy,1,38,26,5,7,76,43,33,83,2.18,71.1,44.9,26.1,0.69,25102,Cristiano Ronaldo - 31,Wojciech Szczęsny
+2020,Barcelona,Spain,2,38,25,7,6,86,38,48,82,2.16,66.3,38.3,28,0.74,54223,Lionel Messi - 25,Marc-André ter Stegen
+2020,Inter,Italy,2,38,24,10,4,81,36,45,82,2.16,69.4,40.7,28.7,0.76,41558,Romelu Lukaku - 23,Samir Handanović
+2020,Manchester City,England,2,38,26,3,9,102,35,67,81,2.13,92,36.2,55.7,1.47,37097,Raheem Sterling - 20,Ederson
+2020,Atalanta,Italy,3,38,23,9,6,98,48,50,78,2.05,83.5,41.3,42.2,1.11,11167,Luis Muriel Duván Zapata - 18,Pierluigi Gollini
+2020,Lazio,Italy,4,38,24,6,8,79,42,37,78,2.05,68,51.1,16.9,0.44,26363,Ciro Immobile - 36,Thomas Strakosha
+2020,Dortmund,Germany,2,34,21,6,7,84,41,43,69,2.03,61,40.9,20.1,0.59,57297,Jadon Sancho - 17,Roman Bürki
+2020,Marseille,France,2,28,16,8,4,41,29,12,56,2,36.2,31.8,4.4,0.16,52805,Darío Benedetto - 11,Steve Mandanda
+2020,RB Leipzig,Germany,3,34,18,12,4,81,37,44,66,1.94,71.3,38.8,32.6,0.96,28819,Timo Werner - 28,Péter Gulácsi
+2020,M'Gladbach,Germany,4,34,20,5,9,66,40,26,65,1.91,72,45.9,26.1,0.77,36078,Alassane Pléa Marcus Thuram - 10,Yann Sommer
+2020,Leverkusen,Germany,5,34,19,6,9,61,44,17,63,1.85,59.1,51.2,7.9,0.23,21236,Kai Havertz - 12,Lukáš Hrádecký
+2020,Roma,Italy,5,38,21,7,10,77,51,26,70,1.84,73.2,49.4,23.9,0.63,26956,Edin Džeko - 16,Pau López
+2020,Atlético Madrid,Spain,3,38,18,16,4,51,27,24,70,1.84,56.8,32.5,24.4,0.64,42236,Álvaro Morata - 12,Jan Oblak
+2020,Sevilla,Spain,4,38,19,13,6,54,34,20,70,1.84,53.2,36.1,17.1,0.45,25016,Lucas Ocampos - 14,Tomáš Vaclík
+2020,Rennes,France,3,28,15,5,8,38,24,14,50,1.79,37.1,30.2,6.9,0.25,25893,M'Baye Niang - 10,Edouard Mendy
+2020,Lille,France,4,28,15,4,9,35,27,8,49,1.75,40.3,31.4,8.8,0.32,36404,Victor Osimhen - 13,Mike Maignan
+2020,Manchester Utd,England,3,38,18,12,8,66,36,30,66,1.74,62.2,37.7,24.5,0.64,57415,Anthony Martial Marcus Rashford - 17,David de Gea
+2020,Milan,Italy,6,38,19,9,10,63,46,17,66,1.74,62.8,45.1,17.7,0.46,34078,Ante Rebić - 11,Gianluigi Donnarumma
+2020,Chelsea,England,4,38,20,6,12,69,54,15,66,1.74,69.2,38.6,30.6,0.81,32023,Tammy Abraham - 15,Kepa Arrizabalaga
+2020,Leicester City,England,5,38,18,8,12,67,41,26,62,1.63,62.2,45.5,16.7,0.44,25312,Jamie Vardy - 23,Kasper Schmeichel
+2020,Napoli,Italy,7,38,18,8,12,61,50,11,62,1.63,61.7,44.7,16.9,0.45,21622,Arkadiusz Milik - 11,Alex Meret
+2020,Villarreal,Spain,5,38,18,6,14,63,49,14,60,1.58,63.6,46.3,17.3,0.45,11321,Gerard Moreno - 18,Sergio Asenjo
+2020,Tottenham,England,6,38,16,11,11,61,47,14,59,1.55,47.9,54.2,-6.3,-0.17,43757,Harry Kane - 18,Hugo Lloris
+2020,Wolves,England,7,38,15,14,9,51,40,11,59,1.55,54.1,38,16.1,0.42,24758,Raúl Jiménez - 17,Rui Patrício
+2020,Hoffenheim,Germany,6,34,15,7,12,53,53,0,52,1.53,56.1,59.6,-3.4,-0.1,20449,Andrej Kramarić - 12,Oliver Baumann
+2020,Arsenal,England,8,38,14,14,10,56,48,8,56,1.47,47,55.3,-8.3,-0.22,47589,Pierre-Emerick Aubameyang - 22,Bernd Leno
+2020,Real Sociedad,Spain,6,38,16,8,14,56,48,8,56,1.47,48.9,43,5.8,0.15,21204,Willian José - 11,Álex Remiro
+2020,Granada,Spain,7,38,16,8,14,52,45,7,56,1.47,44.9,42.6,2.3,0.06,11174,Carlos Fernández - 10,Rui Silva
+2020,Reims,France,6,28,10,11,7,26,21,5,41,1.46,30.6,28.5,2.1,0.08,12932,Boulaye Dia - 7,Predrag Rajković
+2020,Nice,France,5,28,11,8,9,41,38,3,41,1.46,35.7,43.9,-8.2,-0.29,19225,Kasper Dolberg - 11,Walter Benítez
+2020,Wolfsburg,Germany,7,34,13,10,11,48,46,2,49,1.44,52.8,42.9,9.9,0.29,18621,Wout Weghorst - 16,Koen Casteels
+2020,Lyon,France,7,28,11,7,10,42,27,15,40,1.43,37.6,27.1,10.6,0.38,47299,Moussa Dembélé - 16,Anthony Lopes
+2020,Montpellier,France,8,28,11,7,10,35,34,1,40,1.43,35.3,34.7,0.5,0.02,14147,Andy Delort - 9,Gerónimo Rulli
+2020,Monaco,France,9,28,11,7,10,44,44,0,40,1.43,48.8,42.7,6.1,0.22,6451,Wissam Ben Yedder - 18,Benjamin Lecomte
+2020,Getafe,Spain,8,38,14,12,12,43,37,6,54,1.42,41.6,41.4,0.2,0,8000,Jaime Mata - 11,David Soria
+2020,Sheffield Utd,England,9,38,14,12,12,39,39,0,54,1.42,43,51,-7.9,-0.21,24370,Lys Mousset Oliver McBurnie - 6,Dean Henderson
+2020,Burnley,England,10,38,15,9,14,43,50,-7,54,1.42,47.4,49.8,-2.4,-0.06,15995,Chris Wood - 14,Nick Pope
+2020,Freiburg,Germany,8,34,13,9,12,48,47,1,48,1.41,46.7,64.6,-17.8,-0.52,16888,Nils Petersen - 11,Alexander Schwolow
+2020,Strasbourg,France,10,27,11,5,11,32,32,0,38,1.41,34.2,32.2,2,0.07,24985,Adrien Thomasson Ludovic Ajorque - 8,Matz Sels
+2020,Angers,France,11,28,11,6,11,28,33,-5,39,1.39,29.3,28.4,0.9,0.03,9825,Rachid Alioui - 6,Ludovic Butelle
+2020,Valencia,Spain,9,38,14,11,13,46,53,-7,53,1.39,43.3,56,-12.7,-0.33,29658,Maxi Gómez - 10,Jasper Cillessen
+2020,Osasuna,Spain,10,38,13,13,12,46,54,-8,52,1.37,49.4,49.4,0.1,0,11453,Ezequiel Ávila - 9,Sergio Herrera
+2020,Southampton,England,11,38,15,7,16,51,60,-9,52,1.37,56.1,52.8,3.3,0.09,23428,Danny Ings - 22,Alex McCarthy
+2020,Sassuolo,Italy,8,38,14,9,15,69,63,6,51,1.34,52.9,62,-9.2,-0.24,7704,Francesco Caputo - 21,Andrea Consigli
+2020,Athletic Club,Spain,11,38,13,12,13,41,38,3,51,1.34,41.5,48.8,-7.3,-0.19,28039,Raúl García - 15,Unai Simón
+2020,Bordeaux,France,12,28,9,10,9,40,34,6,37,1.32,30,36.9,-6.9,-0.25,23430,Jimmy Briand - 7,Benoît Costil
+2020,Eint Frankfurt,Germany,9,34,13,6,15,59,60,-1,45,1.32,59.5,49.9,9.6,0.28,35435,André Silva - 12,Kevin Trapp
+2020,Nantes,France,13,28,11,4,13,28,31,-3,37,1.32,30.2,31.5,-1.2,-0.04,24635,Moses Simon Ludovic Blas - 5,Alban Lafont
+2020,Fiorentina,Italy,10,38,12,13,13,51,48,3,49,1.29,53.6,48.9,4.7,0.12,22486,Federico Chiesa - 10,Bartłomiej Drągowski
+2020,Parma,Italy,11,38,14,7,17,56,57,-1,49,1.29,48.4,64.3,-15.9,-0.42,10245,Andreas Cornelius - 12,Luigi Sepe
+2020,Hellas Verona,Italy,9,38,12,13,13,47,51,-4,49,1.29,50.5,53.7,-3.2,-0.08,11248,Samuel Di Carmine - 8,Marco Silvestri
+2020,Levante,Spain,12,38,14,7,17,47,53,-6,49,1.29,48.1,62.9,-14.8,-0.39,13196,Roger Martí - 11,Aitor Fernández
+2020,Everton,England,12,38,13,10,15,44,56,-12,49,1.29,50.8,48.3,2.5,0.07,28848,Dominic Calvert-Lewin Richarlison - 13,Jordan Pickford
+2020,Bologna,Italy,12,38,12,11,15,52,65,-13,47,1.24,56.9,54.8,2,0.05,15774,Musa Barrow - 9,Łukasz Skorupski
+2020,Brest,France,14,28,8,10,10,34,37,-3,34,1.21,30.7,45.5,-14.8,-0.53,13713,Irvin Cardona - 6,Gautier Larsonneur
+2020,Metz,France,15,28,8,10,10,27,35,-8,34,1.21,27.1,38.1,-11,-0.39,16583,Habib Diallo - 12,Alexandre Oukidja
+2020,Hertha BSC,Germany,10,34,11,8,15,48,59,-11,41,1.21,43.1,54.5,-11.4,-0.34,37689,Vedad Ibišević Dodi Lukebakio - 7,Rune Jarstein
+2020,Union Berlin,Germany,11,34,12,5,17,41,58,-17,41,1.21,41.4,54.3,-12.8,-0.38,15467,Sebastian Andersson - 12,Rafał Gikiewicz
+2020,Cagliari,Italy,14,38,11,12,15,52,56,-4,45,1.18,41.8,59,-17.2,-0.45,10728,João Pedro - 18,Robin Olsen
+2020,Udinese,Italy,13,38,12,9,17,37,51,-14,45,1.18,41.6,53.4,-11.8,-0.31,13841,Kevin Lasagna - 10,Juan Musso
+2020,Newcastle Utd,England,13,38,11,11,16,38,58,-20,44,1.16,35.5,65.6,-30.1,-0.79,35551,Jonjo Shelvey - 6,Martin Dúbravka
+2020,Schalke 04,Germany,12,34,9,12,13,38,58,-20,39,1.15,37.8,51.6,-13.8,-0.41,46681,Suat Serdar - 7,Alexander Nübel
+2020,Crystal Palace,England,14,38,11,10,17,31,50,-19,43,1.13,35.8,57,-21.2,-0.56,19784,Jordan Ayew - 9,Vicente Guaita
+2020,Valladolid,Spain,13,38,9,15,14,32,43,-11,42,1.11,36.5,54.5,-18,-0.47,13580,Sergi Guardiola - 8,Jordi Masip
+2020,Sampdoria,Italy,15,38,12,6,20,48,65,-17,42,1.11,50.2,54.9,-4.7,-0.12,13700,Manolo Gabbiadini Fabio Quagliarella - 11,Emil Audero
+2020,Eibar,Spain,14,38,11,9,18,39,56,-17,42,1.11,42,53,-11,-0.29,4151,Fabián Orellana - 8,Marko Dmitrović
+2020,Mainz 05,Germany,13,34,11,4,19,44,65,-21,37,1.09,48.2,59.6,-11.5,-0.34,20694,Robin Quaison - 13,Robin Zentner
+2020,Betis,Spain,15,38,10,11,17,48,60,-12,41,1.08,51,54.8,-3.7,-0.1,35969,Loren Morón - 10,Joel Robles
+2020,Brighton,England,15,38,9,14,15,39,54,-15,41,1.08,45.4,55,-9.5,-0.25,22369,Neal Maupay - 10,Mathew Ryan
+2020,Dijon,France,16,28,7,9,12,27,37,-10,30,1.07,30.5,38.4,-8,-0.28,12707,Mama Samba Baldé - 6,Alfred Gomis
+2020,Saint-Étienne,France,17,28,8,6,14,29,45,-16,30,1.07,31.4,38.8,-7.4,-0.26,23205,Denis Bouanga - 10,Stéphane Ruffier
+2020,Augsburg,Germany,15,34,9,9,16,45,63,-18,36,1.06,43.1,56.6,-13.5,-0.4,20265,Florian Niederlechner - 13,Tomáš Koubek
+2020,Köln,Germany,14,34,10,6,18,51,69,-18,36,1.06,48.9,53.3,-4.4,-0.13,35094,Jhon Córdoba - 13,Timo Horn
+2020,Torino,Italy,16,38,11,7,20,46,68,-22,40,1.05,44.8,60.8,-16,-0.42,13338,Andrea Belotti - 16,Salvatore Sirigu
+2020,West Ham,England,16,38,10,9,19,49,62,-13,39,1.03,48.6,63.8,-15.3,-0.4,44155,Michail Antonio - 10,Łukasz Fabiański
+2020,Alavés,Spain,16,38,10,9,19,34,59,-25,39,1.03,39.3,57.8,-18.5,-0.49,12177,Joselu Lucas Pérez - 11,Fernando Pacheco
+2020,Genoa,Italy,17,38,10,9,19,47,73,-26,39,1.03,48.7,60,-11.3,-0.3,14016,Goran Pandev - 9,Mattia Perin
+2020,Celta Vigo,Spain,17,38,7,16,15,37,49,-12,37,0.97,39.2,45.3,-6.1,-0.16,11995,Iago Aspas - 14,Rubén Blanco
+2020,Nîmes,France,18,28,7,6,15,29,44,-15,27,0.96,30.2,40.5,-10.2,-0.36,12555,Romain Philippoteaux - 5,Paul Bernardoni
+2020,Leganés,Spain,18,38,8,12,18,30,51,-21,36,0.95,39.9,42.8,-2.9,-0.08,7539,Óscar Rodríguez Arnaiz - 9,Iván Cuéllar
+2020,Aston Villa,England,17,38,9,8,21,41,67,-26,35,0.92,44.3,67.8,-23.5,-0.62,28505,Jack Grealish - 8,Tom Heaton
+2020,Lecce,Italy,18,38,9,8,21,52,85,-33,35,0.92,54.7,85.6,-30.8,-0.81,15939,Marco Mancosu - 14,Gabriel
+2020,Werder Bremen,Germany,16,34,8,7,19,42,69,-27,31,0.91,39.4,55.4,-16,-0.47,26413,Yuya Osako Milot Rashica - 8,Jiří Pavlenka
+2020,Bournemouth,England,18,38,9,7,22,40,65,-25,34,0.89,44.8,62.3,-17.5,-0.46,7745,Callum Wilson - 8,Aaron Ramsdale
+2020,Watford,England,19,38,8,10,20,36,64,-28,34,0.89,48.9,58.1,-9.3,-0.24,15353,Troy Deeney - 10,Ben Foster
+2020,Düsseldorf,Germany,17,34,6,12,16,36,67,-31,30,0.88,35.9,60.7,-24.8,-0.73,30581,Rouwen Hennings - 15,Zack Steffen Florian Kastenmeier
+2020,Mallorca,Spain,19,38,9,6,23,40,65,-25,33,0.87,41.1,63.5,-22.4,-0.59,10877,Ante Budimir - 13,Manolo Reina
+2020,Amiens,France,19,28,4,11,13,31,50,-19,23,0.82,27.4,39.3,-11.9,-0.43,11616,Sehrou Guirassy - 9,Régis Gurtner
+2020,Espanyol,Spain,20,38,5,10,23,27,58,-31,25,0.66,38.6,51,-12.4,-0.33,16260,Raúl de Tomás David López... - 4,Diego López
+2020,Brescia,Italy,19,38,6,7,25,35,79,-44,25,0.66,43.4,74.5,-31.2,-0.82,10050,Ernesto Torregrossa Alfredo Donnarumma - 7,Jesse Joronen
+2020,Paderborn 07,Germany,18,34,4,8,22,37,74,-37,20,0.59,39.2,67.3,-28.1,-0.83,11038,Sven Michel Dennis Srbeny... - 5,Leopold Zingerle
+2020,Norwich City,England,20,38,5,6,27,26,75,-49,21,0.55,37,66.4,-29.5,-0.78,19913,Teemu Pukki - 11,Tim Krul
+2020,SPAL,Italy,20,38,5,5,28,27,77,-50,20,0.53,40.7,68.6,-27.9,-0.73,8241,Andrea Petagna - 12,Etrit Berisha
+2020,Toulouse,France,20,28,3,4,21,22,58,-36,13,0.46,31.7,45.6,-13.9,-0.5,14200,Efthimis Koulouris - 4,Baptiste Reynet
+2021,Inter,Italy,1,38,28,7,3,89,35,54,91,2.39,74.2,39.8,34.3,0.9,158,Romelu Lukaku - 24,Samir Handanović
+2021,Bayern Munich,Germany,1,34,24,6,4,99,44,55,78,2.29,75.9,40.2,35.8,1.05,15,Robert Lewandowski - 41,Manuel Neuer
+2021,Manchester City,England,1,38,27,5,6,83,32,51,86,2.26,68.2,30.2,38,1,526,İlkay Gündoğan - 13,Ederson
+2021,Atlético Madrid,Spain,1,38,26,8,4,67,25,42,86,2.26,52.8,37.1,15.7,0.41,,Luis Suárez - 21,Jan Oblak
+2021,Real Madrid,Spain,2,38,25,9,4,67,28,39,84,2.21,61.5,37.6,23.9,0.63,,Karim Benzema - 23,Thibaut Courtois
+2021,Lille,France,1,38,24,11,3,64,23,41,83,2.18,48.5,29.8,18.7,0.49,209,Burak Yılmaz - 16,Mike Maignan
+2021,Paris S-G,France,2,38,26,4,8,86,28,58,82,2.16,80.1,40.6,39.5,1.04,,Kylian Mbappé - 27,Keylor Navas
+2021,Barcelona,Spain,3,38,24,7,7,85,38,47,79,2.08,73.5,40.8,32.7,0.86,,Lionel Messi - 30,Marc-André ter Stegen
+2021,Milan,Italy,2,38,24,7,7,74,41,33,79,2.08,70.7,47,23.7,0.62,105,Zlatan Ibrahimović - 15,Gianluigi Donnarumma
+2021,Atalanta,Italy,3,38,23,9,6,90,47,43,78,2.05,74.7,41,33.7,0.89,105,Luis Muriel - 22,Pierluigi Gollini
+2021,Juventus,Italy,4,38,23,9,6,77,38,39,78,2.05,74.4,39.4,35,0.92,105,Cristiano Ronaldo - 29,Wojciech Szczęsny
+2021,Monaco,France,3,38,24,6,8,76,42,34,78,2.05,68.7,34.6,34.1,0.9,,Wissam Ben Yedder - 20,Benjamin Lecomte
+2021,Napoli,Italy,5,38,24,5,9,86,41,45,77,2.03,67.7,42.6,25.2,0.66,105,Lorenzo Insigne - 19,Alex Meret
+2021,Sevilla,Spain,4,38,24,5,9,53,33,20,77,2.03,54.4,34.8,19.6,0.52,,Youssef En-Nesyri - 18,Yassine Bounou
+2021,Lyon,France,4,38,22,10,6,81,43,38,76,2,81.4,41.5,39.9,1.05,231,Memphis - 20,Anthony Lopes
+2021,Manchester Utd,England,2,38,21,11,6,73,44,29,74,1.95,60.1,41.5,18.6,0.49,526,Bruno Fernandes - 18,David de Gea
+2021,RB Leipzig,Germany,2,34,19,8,7,60,32,28,65,1.91,64.4,29.4,35,1.03,1059,Marcel Sabitzer - 8,Péter Gulácsi
+2021,Dortmund,Germany,3,34,20,4,10,75,46,29,64,1.88,66.2,41.6,24.6,0.72,1241,Erling Haaland - 27,Roman Bürki
+2021,Liverpool,England,3,38,20,9,9,68,42,26,69,1.82,67.5,43,24.5,0.65,837,Mohamed Salah - 22,Alisson
+2021,Wolfsburg,Germany,4,34,17,10,7,61,37,24,61,1.79,49,42.1,6.9,0.2,538,Wout Weghorst - 20,Koen Casteels
+2021,Lazio,Italy,6,38,21,5,12,61,55,6,68,1.79,58.2,47.3,10.9,0.29,158,Ciro Immobile - 20,Pepe Reina
+2021,Chelsea,England,4,38,19,10,9,58,36,22,67,1.76,62.4,30.3,32.2,0.85,526,Jorginho - 7,Edouard Mendy
+2021,Eint Frankfurt,Germany,5,34,16,12,6,69,53,16,60,1.76,58.5,46.9,11.6,0.34,853,André Silva - 28,Kevin Trapp
+2021,Leicester City,England,5,38,20,6,12,68,50,18,66,1.74,55.8,46,9.8,0.26,421,Jamie Vardy - 15,Kasper Schmeichel
+2021,West Ham,England,6,38,19,8,11,62,47,15,65,1.71,55.4,48.7,6.7,0.18,632,Michail Antonio Tomáš Souček - 10,Łukasz Fabiański
+2021,Tottenham,England,7,38,18,8,12,68,45,23,62,1.63,53.1,49.1,4,0.1,632,Harry Kane - 23,Hugo Lloris
+2021,Real Sociedad,Spain,5,38,17,11,10,59,38,21,62,1.63,60.7,39.2,21.5,0.57,,Alexander Isak - 17,Álex Remiro
+2021,Roma,Italy,7,38,18,8,12,68,58,10,62,1.63,67.2,46.2,21,0.55,105,Henrikh Mkhitaryan - 13,Pau López
+2021,Sassuolo,Italy,8,38,17,11,10,64,56,8,62,1.63,58.4,55.4,3,0.08,134,Domenico Berardi - 17,Andrea Consigli
+2021,Arsenal,England,8,38,18,7,13,55,39,16,61,1.61,51.8,43,8.8,0.23,632,Alexandre Lacazette - 13,Bernd Leno
+2021,Betis,Spain,6,38,17,10,11,50,50,0,61,1.61,49.1,46.8,2.2,0.06,,Borja Iglesias - 11,Claudio Bravo
+2021,Marseille,France,5,38,16,12,10,54,47,7,60,1.58,46.6,47.4,-0.8,-0.02,,Arkadiusz Milik - 9,Steve Mandanda
+2021,Leeds United,England,9,38,18,5,15,62,54,8,59,1.55,55.6,57.9,-2.2,-0.06,421,Patrick Bamford - 17,Illan Meslier
+2021,Everton,England,10,38,17,8,13,47,48,-1,59,1.55,45.7,50.1,-4.5,-0.12,368,Dominic Calvert-Lewin - 16,Jordan Pickford
+2021,Villarreal,Spain,7,38,15,13,10,60,44,16,58,1.53,56.4,42.5,13.9,0.37,253,Gerard Moreno - 23,Sergio Asenjo
+2021,Leverkusen,Germany,6,34,14,10,10,53,39,14,52,1.53,46.3,39.2,7.1,0.21,355,Lucas Alario - 11,Lukáš Hrádecký
+2021,Rennes,France,6,38,16,10,12,52,40,12,58,1.53,47.8,38.1,9.7,0.26,,Sehrou Guirassy - 10,Alfred Gomis
+2021,Lens,France,7,38,15,12,11,55,54,1,57,1.5,56.4,46.8,9.6,0.25,,Gaël Kakuta - 11,Jean-Louis Leca
+2021,Union Berlin,Germany,7,34,12,14,8,50,43,7,50,1.47,46.9,42.8,4.1,0.12,912,Max Kruse - 11,Andreas Luthe
+2021,Aston Villa,England,11,38,16,7,15,55,46,9,55,1.45,52.5,51.1,1.4,0.04,526,Ollie Watkins - 14,Emiliano Martínez
+2021,M'Gladbach,Germany,8,34,13,10,11,64,56,8,49,1.44,54.9,45.7,9.2,0.27,628,Lars Stindl - 14,Yann Sommer
+2021,Montpellier,France,8,38,14,12,12,60,62,-2,54,1.42,51.9,66.2,-14.3,-0.38,,Gaëtan Laborde - 16,Jonas Omlin
+2021,Celta Vigo,Spain,8,38,14,11,13,55,57,-2,53,1.39,50.4,51,-0.6,-0.02,91,Iago Aspas - 14,Iván Villar
+2021,Sampdoria,Italy,9,38,15,7,16,52,54,-2,52,1.37,45.4,56.1,-10.7,-0.28,105,Fabio Quagliarella - 13,Emil Audero
+2021,Nice,France,9,38,15,7,16,50,53,-3,52,1.37,48,55.6,-7.7,-0.2,,Amine Gouiri - 12,Walter Benítez
+2021,Stuttgart,Germany,9,34,12,9,13,56,55,1,45,1.32,51.4,52.1,-0.8,-0.02,978,Sasa Kalajdzic - 16,Gregor Kobel
+2021,Freiburg,Germany,10,34,12,9,13,52,52,0,45,1.32,45.5,52.4,-6.9,-0.2,188,Vincenzo Grifo - 9,Florian Müller
+2021,Hoffenheim,Germany,11,34,11,10,13,52,54,-2,43,1.26,51.9,53.1,-1.2,-0.04,361,Andrej Kramarić - 20,Oliver Baumann
+2021,Metz,France,10,38,12,11,15,44,48,-4,47,1.24,44.1,49.2,-5.2,-0.14,498,Farid Boulaya Ibrahima Niane - 6,Alexandre Oukidja
+2021,Athletic Club,Spain,10,38,11,13,14,46,42,4,46,1.21,43.1,37.7,5.4,0.14,,Álex Berenguer - 8,Unai Simón
+2021,Saint-Étienne,France,11,38,12,10,16,42,54,-12,46,1.21,48.7,50.1,-1.3,-0.04,,Wahbi Khazri Denis Bouanga - 7,Jessy Moulin
+2021,Granada,Spain,9,38,13,7,18,47,65,-18,46,1.21,41.1,56.2,-15,-0.4,,Roberto Soldado - 9,Rui Silva
+2021,Hellas Verona,Italy,10,38,11,12,15,46,48,-2,45,1.18,46,51.4,-5.5,-0.14,579,Antonín Barák - 7,Marco Silvestri
+2021,Bordeaux,France,12,38,13,6,19,42,56,-14,45,1.18,43.5,54.9,-11.4,-0.3,,Hwang Ui-jo - 12,Benoît Costil
+2021,Newcastle Utd,England,12,38,12,9,17,46,62,-16,45,1.18,43.4,58.3,-14.9,-0.39,526,Callum Wilson - 12,Karl Darlow
+2021,Wolves,England,13,38,12,9,17,36,52,-16,45,1.18,36.5,49.5,-13,-0.34,237,Rúben Neves Pedro Neto - 5,Rui Patrício
+2021,Osasuna,Spain,11,38,11,11,16,37,48,-11,44,1.16,38.7,47.8,-9,-0.24,,Ante Budimir - 11,Sergio Herrera
+2021,Angers,France,13,38,12,8,18,40,58,-18,44,1.16,41.6,52.3,-10.7,-0.28,,Angelo Fulgini - 7,Paul Bernardoni
+2021,Cádiz,Spain,12,38,11,11,16,36,58,-22,44,1.16,34.7,55.4,-20.7,-0.54,,Álvaro Negredo - 8,Jeremías Ledesma
+2021,Crystal Palace,England,14,38,12,8,18,41,66,-25,44,1.16,34.1,58.2,-24.2,-0.64,447,Wilfried Zaha - 11,Vicente Guaita
+2021,Mainz 05,Germany,12,34,10,9,15,39,56,-17,39,1.15,49.9,52.1,-2.2,-0.06,221,Jean-Philippe Mateta - 7,Robin Zentner
+2021,Valencia,Spain,13,38,10,13,15,50,53,-3,43,1.13,42.6,52.2,-9.6,-0.25,142,Carlos Soler - 11,Jaume Doménech
+2021,Southampton,England,15,38,12,7,19,47,68,-21,43,1.13,41.2,53.1,-11.8,-0.31,526,Danny Ings - 12,Alex McCarthy
+2021,Reims,France,14,38,9,15,14,42,50,-8,42,1.11,32.7,59,-26.3,-0.69,,Boulaye Dia - 14,Predrag Rajković
+2021,Strasbourg,France,15,38,11,9,18,49,58,-9,42,1.11,52.8,50.7,2.1,0.06,,Ludovic Ajorque - 16,Eiji Kawashima
+2021,Genoa,Italy,11,38,10,12,16,47,58,-11,42,1.11,38.8,60.5,-21.7,-0.57,53,Mattia Destro - 11,Mattia Perin
+2021,Lorient,France,16,38,11,9,18,50,68,-18,42,1.11,48.6,52.5,-4,-0.1,,Terem Moffi - 14,Paul Nardi
+2021,Brighton,England,16,38,9,14,15,40,46,-6,41,1.08,50.9,35.3,15.6,0.41,523,Neal Maupay - 8,Robert Sánchez
+2021,Levante,Spain,14,38,9,14,15,46,57,-11,41,1.08,40.4,53.4,-13,-0.34,,José Luis Morales - 13,Aitor Fernández
+2021,Bologna,Italy,12,38,10,11,17,51,65,-14,41,1.08,54.6,62.6,-7.9,-0.21,105,Roberto Soriano - 9,Łukasz Skorupski
+2021,Brest,France,17,38,11,8,19,50,66,-16,41,1.08,50,58.1,-8.1,-0.21,,Steve Mounié - 9,Gautier Larsonneur
+2021,Augsburg,Germany,13,34,10,6,18,36,54,-18,36,1.06,37.3,57.3,-20,-0.59,353,André Hahn - 8,Rafał Gikiewicz
+2021,Nantes,France,18,38,9,13,16,47,55,-8,40,1.05,49,53.6,-4.6,-0.12,,Ludovic Blas - 10,Alban Lafont
+2021,Fiorentina,Italy,13,38,9,13,16,47,59,-12,40,1.05,44.9,61.5,-16.6,-0.44,105,Dušan Vlahović - 21,Bartłomiej Drągowski
+2021,Udinese,Italy,14,38,10,10,18,42,58,-16,40,1.05,45.7,52.6,-6.9,-0.18,158,Rodrigo De Paul - 9,Juan Musso
+2021,Hertha BSC,Germany,14,34,8,11,15,41,52,-11,35,1.03,41.9,47.4,-5.6,-0.16,471,Jhon Córdoba Krzysztof Piątek... - 7,Alexander Schwolow
+2021,Spezia,Italy,15,38,9,12,17,52,72,-20,39,1.03,46.6,65.1,-18.5,-0.49,105,M'Bala Nzola - 11,Ivan Provedel
+2021,Burnley,England,17,38,10,9,19,33,55,-22,39,1.03,39.3,54.7,-15.4,-0.4,178,Chris Wood - 12,Nick Pope
+2021,Arminia,Germany,15,34,9,8,17,26,52,-26,35,1.03,32.9,56.8,-23.9,-0.7,321,Fabian Klos Ritsu Doan - 5,Stefan Ortega
+2021,Getafe,Spain,15,38,9,11,18,28,43,-15,38,1,34.4,40.3,-5.9,-0.16,,Ángel Rodríguez Jaime Mata - 5,David Soria
+2021,Alavés,Spain,16,38,9,11,18,36,57,-21,38,1,42.6,49.9,-7.3,-0.19,,Joselu - 11,Fernando Pacheco
+2021,Cagliari,Italy,16,38,9,10,19,43,59,-16,37,0.97,47.1,61.7,-14.6,-0.38,105,João Pedro - 16,Alessio Cragno
+2021,Torino,Italy,17,38,7,16,15,50,69,-19,37,0.97,50,62,-11.9,-0.31,105,Andrea Belotti - 13,Salvatore Sirigu
+2021,Köln,Germany,16,34,8,9,17,34,60,-26,33,0.97,40.5,53.6,-13,-0.38,33,Ondrej Duda - 7,Timo Horn
+2021,Elche,Spain,17,38,8,12,18,34,55,-21,36,0.95,29.9,60.9,-31,-0.82,185,Lucas Boyé - 7,Édgar Badía
+2021,Nîmes,France,19,38,9,8,21,40,71,-31,35,0.92,43.3,64.2,-20.9,-0.55,,Renaud Ripart - 11,Baptiste Reynet
+2021,Werder Bremen,Germany,17,34,7,10,17,36,57,-21,31,0.91,32.9,53.2,-20.3,-0.6,518,Niclas Füllkrug - 6,Jiří Pavlenka
+2021,Huesca,Spain,18,38,7,13,18,34,53,-19,34,0.89,38.9,48.4,-9.5,-0.25,,Rafa Mir - 13,Álvaro Fernández
+2021,Benevento,Italy,18,38,7,12,19,40,75,-35,33,0.87,40.6,64.3,-23.6,-0.62,158,Gianluca Lapadula - 8,Lorenzo Montipò
+2021,Valladolid,Spain,19,38,5,16,17,34,57,-23,31,0.82,40.1,52.9,-12.8,-0.34,,Fabián Orellana Shon Weissman - 6,Jordi Masip
+2021,Eibar,Spain,20,38,6,12,20,29,52,-23,30,0.79,45.2,45.7,-0.5,-0.01,,Kike - 12,Marko Dmitrović
+2021,Fulham,England,18,38,5,13,20,27,53,-26,28,0.74,40.5,52.6,-12.1,-0.32,211,Bobby Reid - 5,Alphonse Areola
+2021,West Brom,England,19,38,5,11,22,35,76,-41,26,0.68,35.8,67.9,-32,-0.84,283,Matheus Pereira - 11,Sam Johnstone
+2021,Sheffield Utd,England,20,38,7,2,29,20,63,-43,23,0.61,32.6,62.2,-29.6,-0.78,263,David McGoldrick - 8,Aaron Ramsdale
+2021,Crotone,Italy,19,38,6,5,27,45,92,-47,23,0.61,40.4,70.8,-30.5,-0.8,53,Simeon Nwankwo - 20,Alex Cordaz
+2021,Dijon,France,20,38,4,9,25,25,73,-48,21,0.55,33.7,72.1,-38.4,-1.01,,Mama Samba Baldé - 7,Anthony Racioppi
+2021,Parma,Italy,20,38,3,11,24,39,83,-44,20,0.53,42.5,61,-18.5,-0.49,158,Juraj Kucka Hernani - 7,Luigi Sepe
+2021,Schalke 04,Germany,18,34,3,7,24,25,86,-61,16,0.47,28.7,69.2,-40.5,-1.19,18,Matthew Hoppe - 6,Ralf Fährmann
+2022,Manchester City,England,1,38,29,6,3,99,26,73,93,2.45,96.6,26,70.5,1.86,52774,Kevin De Bruyne - 15,Ederson
+2022,Liverpool,England,2,38,28,8,2,94,26,68,92,2.42,95.1,37.3,57.8,1.52,53352,Mohamed Salah - 23,Alisson
+2022,Bayern Munich,Germany,1,34,24,5,5,97,37,60,77,2.26,95.4,39.5,56,1.65,33176,Robert Lewandowski - 35,Manuel Neuer
+2022,Paris S-G,France,1,38,26,8,4,90,36,54,86,2.26,84.5,43.2,41.3,1.09,41589,Kylian Mbappé - 28,Keylor Navas
+2022,Real Madrid,Spain,1,38,26,8,4,80,31,49,86,2.26,78.9,48.2,30.7,0.81,41235,Karim Benzema - 27,Thibaut Courtois
+2022,Milan,Italy,1,38,26,8,4,69,31,38,86,2.26,68.2,40.4,27.8,0.73,44015,Olivier Giroud Rafael Leão - 11,Mike Maignan
+2022,Inter,Italy,2,38,25,9,4,84,32,52,84,2.21,88.4,44.1,44.3,1.17,44473,Lautaro Martínez - 21,Samir Handanović
+2022,Napoli,Italy,3,38,24,7,7,74,31,43,79,2.08,66.3,36.8,29.6,0.78,28119,Victor Osimhen - 14,David Ospina
+2022,Dortmund,Germany,2,34,22,3,9,85,52,33,69,2.03,68,50.9,17.1,0.5,41800,Erling Haaland - 22,Gregor Kobel
+2022,Chelsea,England,3,38,21,11,6,76,33,43,74,1.95,70.7,38.3,32.5,0.86,36443,Mason Mount - 11,Edouard Mendy
+2022,Barcelona,Spain,2,38,21,10,7,68,38,30,73,1.92,67.7,39.8,27.9,0.73,53982,Memphis - 12,Marc-André ter Stegen
+2022,Leverkusen,Germany,3,34,19,7,8,80,47,33,64,1.88,68.5,49.7,18.8,0.55,17356,Patrik Schick - 24,Lukáš Hrádecký
+2022,Tottenham,England,4,38,22,5,11,69,40,29,71,1.87,66.5,45.3,21.2,0.56,56523,Son Heung-min - 23,Hugo Lloris
+2022,Marseille,France,2,38,21,8,9,63,38,25,71,1.87,63.3,41.2,22,0.58,51755,Dimitri Payet - 12,Pau López
+2022,Atlético Madrid,Spain,3,38,21,8,9,65,43,22,71,1.87,58.6,38.7,19.9,0.52,48039,Ángel Correa - 12,Jan Oblak
+2022,Sevilla,Spain,4,38,18,16,4,53,30,23,70,1.84,48.4,43.3,5.1,0.13,29756,Rafa Mir - 10,Yassine Bounou
+2022,Juventus,Italy,4,38,20,10,8,57,37,20,70,1.84,57.3,42.8,14.5,0.38,22621,Paulo Dybala - 10,Wojciech Szczęsny
+2022,Monaco,France,3,38,20,9,9,65,40,25,69,1.82,66.1,45,21,0.55,5877,Wissam Ben Yedder - 25,Alexander Nübel
+2022,Arsenal,England,5,38,22,3,13,61,48,13,69,1.82,67.3,51.2,16,0.42,59665,Bukayo Saka - 11,Aaron Ramsdale
+2022,Rennes,France,4,38,20,6,12,82,40,42,66,1.74,69.9,47.4,22.4,0.59,25493,Martin Terrier - 21,Alfred Gomis
+2022,Nice,France,5,38,20,7,11,52,36,16,66,1.74,60.7,48.6,12.2,0.32,16055,Andy Delort - 16,Walter Benítez
+2022,RB Leipzig,Germany,4,34,17,7,10,72,37,35,58,1.71,69.5,43.9,25.6,0.75,22124,Christopher Nkunku - 20,Péter Gulácsi
+2022,Betis,Spain,5,38,19,8,11,62,40,22,65,1.71,59,48.8,10.2,0.27,41749,Juanmi - 16,Rui Silva
+2022,Lazio,Italy,5,38,18,10,10,77,58,19,64,1.68,60.2,51.9,8.3,0.22,23263,Ciro Immobile - 27,Thomas Strakosha
+2022,Union Berlin,Germany,5,34,16,9,9,50,44,6,57,1.68,53.9,42.8,11.1,0.33,14046,Taiwo Awoniyi - 15,Andreas Luthe
+2022,Strasbourg,France,6,38,17,12,9,60,43,17,63,1.66,62.5,50.7,11.8,0.31,23555,Ludovic Ajorque - 12,Matz Sels
+2022,Roma,Italy,6,38,18,9,11,59,43,16,63,1.66,70.3,41.8,28.5,0.75,41929,Tammy Abraham - 17,Rui Patrício
+2022,Lens,France,7,38,17,11,10,62,48,14,62,1.63,57.7,49,8.6,0.23,28950,Arnaud Kalimuendo - 12,Jean-Louis Leca
+2022,Fiorentina,Italy,7,38,19,5,14,59,51,8,62,1.63,65.6,46.1,19.5,0.51,21107,Dušan Vlahović - 17,Pietro Terracciano
+2022,Real Sociedad,Spain,6,38,17,11,10,40,37,3,62,1.63,57.9,44.1,13.8,0.36,26813,Mikel Oyarzabal - 9,Álex Remiro
+2022,Freiburg,Germany,6,34,15,10,9,58,46,12,55,1.62,55,50.8,4.2,0.12,18741,Vincenzo Grifo - 9,Mark Flekken
+2022,Lyon,France,8,38,17,11,10,66,51,15,61,1.61,76.3,59,17.2,0.45,32329,Moussa Dembélé - 21,Anthony Lopes
+2022,Villarreal,Spain,7,38,16,11,11,63,37,26,59,1.55,67.5,50.9,16.6,0.44,14293,Arnaut Danjuma - 10,Gerónimo Rulli
+2022,Atalanta,Italy,8,38,16,11,11,65,48,17,59,1.55,71.2,50.4,20.8,0.55,10447,Mario Pašalić - 13,Juan Musso
+2022,Köln,Germany,7,34,14,10,10,52,49,3,52,1.53,56.2,56.2,0,0,31965,Anthony Modeste - 20,Marvin Schwäbe
+2022,Manchester Utd,England,6,38,16,10,12,57,57,0,58,1.53,61.7,59.6,2.1,0.05,73150,Cristiano Ronaldo - 18,David de Gea
+2022,West Ham,England,7,38,16,8,14,60,51,9,56,1.47,58,58.1,0,0,58370,Jarrod Bowen - 12,Łukasz Fabiański
+2022,Nantes,France,9,38,15,10,13,55,48,7,55,1.45,50.9,56.5,-5.6,-0.15,20803,Randal Kolo Muani - 12,Alban Lafont
+2022,Athletic Club,Spain,8,38,14,13,11,43,36,7,55,1.45,54.4,43.4,11,0.29,32949,Iñaki Williams - 8,Unai Simón
+2022,Lille,France,10,38,14,13,11,48,48,0,55,1.45,56.2,45.8,10.4,0.27,34346,Jonathan David - 15,Ivo Grbić
+2022,Hellas Verona,Italy,9,38,14,11,13,65,59,6,53,1.39,57.6,53.7,3.9,0.1,13894,Giovanni Simeone - 17,Lorenzo Montipò
+2022,Leicester City,England,8,38,14,10,14,62,59,3,52,1.37,52.1,68.8,-16.7,-0.44,32493,Jamie Vardy - 15,Kasper Schmeichel
+2022,Mainz 05,Germany,8,34,13,7,14,50,45,5,46,1.35,56.4,48.2,8.2,0.24,17978,Jonathan Burkardt - 11,Robin Zentner
+2022,Hoffenheim,Germany,9,34,13,7,14,58,60,-2,46,1.35,62.9,58.1,4.9,0.14,11227,Georginio Rutter - 8,Oliver Baumann
+2022,Brighton,England,9,38,12,15,11,42,44,-2,51,1.34,53,49.8,3.2,0.08,30966,Leandro Trossard Neal Maupay - 8,Robert Sánchez
+2022,Wolves,England,10,38,15,6,17,38,43,-5,51,1.34,41.2,63.7,-22.5,-0.59,30841,Raúl Jiménez - 6,José Sá
+2022,Torino,Italy,10,38,13,11,14,46,41,5,50,1.32,53.1,43.7,9.3,0.25,9846,Andrea Belotti - 8,Vanja Milinković-Savić
+2022,Sassuolo,Italy,11,38,13,11,14,64,66,-2,50,1.32,62,72.4,-10.3,-0.27,8362,Gianluca Scamacca - 16,Andrea Consigli
+2022,M'Gladbach,Germany,10,34,12,9,13,54,61,-7,45,1.32,63.7,62.5,1.2,0.04,26539,Jonas Hofmann - 12,Yann Sommer
+2022,Newcastle Utd,England,11,38,13,10,15,44,62,-18,49,1.29,44.4,62.4,-18,-0.47,51487,Callum Wilson - 8,Martin Dúbravka
+2022,Crystal Palace,England,12,38,11,15,12,50,46,4,48,1.26,53.8,46,7.8,0.21,24588,Wilfried Zaha - 14,Vicente Guaita
+2022,Valencia,Spain,9,38,11,15,12,48,53,-5,48,1.26,43.6,49,-5.4,-0.14,27349,Gonçalo Guedes Carlos Soler - 11,Giorgi Mamardashvili
+2022,Brest,France,11,38,13,9,16,49,57,-8,48,1.26,48.9,64.3,-15.4,-0.41,11804,Franck Honorat - 11,Marco Bizot
+2022,Udinese,Italy,12,38,11,14,13,61,58,3,47,1.24,58.2,57.1,1.1,0.03,12144,Gerard Deulofeu - 13,Marco Silvestri
+2022,Eint Frankfurt,Germany,11,34,10,12,12,45,49,-4,42,1.24,48.7,52.8,-4.1,-0.12,26162,Rafael Borré - 8,Kevin Trapp
+2022,Wolfsburg,Germany,12,34,12,6,16,43,54,-11,42,1.24,51.1,52.5,-1.4,-0.04,12018,Lukas Nmecha - 8,Koen Casteels
+2022,Osasuna,Spain,10,38,12,11,15,37,51,-14,47,1.24,40.3,48.8,-8.4,-0.22,17107,Ante Budimir - 8,Sergio Herrera
+2022,Bochum,Germany,13,34,12,6,16,38,52,-14,42,1.24,47.5,60.3,-12.7,-0.37,14236,Sebastian Polter - 10,Manuel Riemann
+2022,Celta Vigo,Spain,11,38,12,10,16,43,43,0,46,1.21,46.7,49.6,-2.8,-0.07,10014,Iago Aspas - 18,Matías Dituro
+2022,Reims,France,12,38,11,13,14,43,44,-1,46,1.21,43.9,54.4,-10.5,-0.28,11071,Hugo Ekitike - 10,Predrag Rajković
+2022,Brentford,England,13,38,13,7,18,48,56,-8,46,1.21,51.1,54,-2.8,-0.07,16918,Ivan Toney - 12,David Raya
+2022,Bologna,Italy,13,38,12,10,16,44,55,-11,46,1.21,48.1,59.7,-11.6,-0.31,14158,Marko Arnautović - 14,Łukasz Skorupski
+2022,Aston Villa,England,14,38,13,6,19,52,54,-2,45,1.18,47.9,54.4,-6.5,-0.17,41681,Ollie Watkins - 11,Emiliano Martínez
+2022,Montpellier,France,13,38,12,7,19,49,61,-12,43,1.13,45.7,64.1,-18.4,-0.48,10711,Sepe Elye Wahi - 10,Jonas Omlin
+2022,Augsburg,Germany,14,34,10,8,16,39,56,-17,38,1.12,40.7,64.5,-23.8,-0.7,15197,Michael Gregoritsch - 9,Rafał Gikiewicz
+2022,Rayo Vallecano,Spain,12,38,11,9,18,39,50,-11,42,1.11,50.2,51.9,-1.7,-0.05,7866,Sergi Guardiola - 8,Stole Dimitrievski
+2022,Elche,Spain,13,38,11,9,18,40,52,-12,42,1.11,36.3,64.8,-28.6,-0.75,15640,Pere Milla - 8,Édgar Badía
+2022,Espanyol,Spain,14,38,10,12,16,40,53,-13,42,1.11,40.4,57,-16.6,-0.44,17362,Raúl de Tomás - 17,Diego López
+2022,Angers,France,14,38,10,11,17,44,55,-11,41,1.08,49.6,55.3,-5.7,-0.15,7758,Sofiane Boufal - 8,Danijel Petković
+2022,Empoli,Italy,14,38,10,11,17,50,70,-20,41,1.08,49.4,76.2,-26.8,-0.71,6356,Andrea Pinamonti - 13,Guglielmo Vicario
+2022,Southampton,England,15,38,9,13,16,43,67,-24,40,1.05,49.9,63.3,-13.4,-0.35,30134,James Ward-Prowse - 10,Fraser Forster
+2022,Getafe,Spain,15,38,8,15,15,33,41,-8,39,1.03,33.4,42.2,-8.8,-0.23,8702,Enes Ünal - 16,David Soria
+2022,Cádiz,Spain,17,38,8,15,15,35,51,-16,39,1.03,45.1,55,-9.9,-0.26,14055,Anthony Lozano Álvaro Negredo - 7,Jeremías Ledesma
+2022,Everton,England,16,38,11,6,21,43,66,-23,39,1.03,47.5,60.9,-13.4,-0.35,38446,Richarlison - 10,Jordan Pickford
+2022,Mallorca,Spain,16,38,10,9,19,36,63,-27,39,1.03,44,54.3,-10.2,-0.27,12712,Vedat Muriqi Salva Sevilla - 5,Manolo Reina
+2022,Troyes,France,15,38,9,11,18,37,53,-16,38,1,44,55.9,-11.9,-0.31,9491,Xavier Chavalerin Ike Ugbo - 5,Gauthier Gallon
+2022,Granada,Spain,18,38,8,14,16,44,61,-17,38,1,45,64.5,-19.5,-0.51,13710,Jorge Molina - 10,Luís Maximiano
+2022,Leeds United,England,17,38,9,11,18,42,79,-37,38,1,50.4,73.2,-22.8,-0.6,36308,Raphinha - 11,Illan Meslier
+2022,Stuttgart,Germany,15,34,7,12,15,41,59,-18,33,0.97,49.5,61.6,-12,-0.35,27052,Sasa Kalajdzic - 6,Florian Müller
+2022,Hertha BSC,Germany,16,34,9,6,19,37,71,-34,33,0.97,37.2,58.4,-21.1,-0.62,23500,Stevan Jovetić - 6,Alexander Schwolow
+2022,Sampdoria,Italy,15,38,10,6,22,46,63,-17,36,0.95,41.2,62.2,-21,-0.55,9417,Francesco Caputo - 11,Emil Audero
+2022,Lorient,France,16,38,8,12,18,35,63,-28,36,0.95,47.9,57.4,-9.5,-0.25,12738,Terem Moffi - 8,Paul Nardi
+2022,Spezia,Italy,16,38,10,6,22,41,71,-30,36,0.95,42.3,72.2,-29.9,-0.79,6709,Daniele Verde - 8,Ivan Provedel
+2022,Clermont Foot,France,17,38,9,9,20,38,69,-31,36,0.95,49.3,61.3,-12,-0.32,10569,Mohamed Lamine Bayo - 14,Ouparine Djoco
+2022,Burnley,England,18,38,7,14,17,34,53,-19,35,0.92,43.8,63.8,-20,-0.53,19278,Maxwel Cornet - 9,Nick Pope
+2022,Levante,Spain,19,38,8,11,19,51,76,-25,35,0.92,61.2,60.9,0.3,0.01,14961,José Luis Morales - 13,Cárdenas
+2022,Saint-Étienne,France,18,38,7,11,20,42,77,-35,32,0.84,44.5,63.7,-19.2,-0.5,21806,Wahbi Khazri - 10,Paul Bernardoni
+2022,Arminia,Germany,17,34,5,13,16,27,53,-26,28,0.82,32.5,70.6,-38.1,-1.12,16773,Masaya Okugawa - 8,Stefan Ortega
+2022,Metz,France,19,38,6,13,19,35,69,-34,31,0.82,34.1,69.6,-35.5,-0.93,14876,Nicolas de Préville - 5,Alexandre Oukidja
+2022,Alavés,Spain,20,38,8,7,23,31,65,-34,31,0.82,41.1,64.6,-23.4,-0.62,10952,Joselu - 14,Fernando Pacheco
+2022,Bordeaux,France,20,38,6,13,19,52,91,-39,31,0.82,49.4,72.8,-23.4,-0.61,22141,Hwang Ui-jo - 11,Benoît Costil
+2022,Salernitana,Italy,17,38,7,10,21,33,78,-45,31,0.82,42.2,71.2,-29,-0.76,15073,Federico Bonazzoli - 10,Vid Belec
+2022,Cagliari,Italy,18,38,6,12,20,34,68,-34,30,0.79,42.9,64.6,-21.7,-0.57,9718,João Pedro - 13,Alessio Cragno
+2022,Genoa,Italy,19,38,4,16,18,27,60,-33,28,0.74,41.9,58.3,-16.4,-0.43,12326,Mattia Destro - 9,Salvatore Sirigu
+2022,Venezia,Italy,20,38,6,9,23,34,69,-35,27,0.71,40.1,80.9,-40.8,-1.07,6648,Thomas Henry - 9,Niki Mäenpää
+2022,Watford,England,19,38,6,5,27,34,77,-43,23,0.61,44.3,72.6,-28.2,-0.74,20614,Emmanuel Dennis - 10,Ben Foster
+2022,Norwich City,England,20,38,5,7,26,23,84,-61,22,0.58,35.7,82.3,-46.6,-1.23,26836,Teemu Pukki - 11,Tim Krul
+2022,Greuther Fürth,Germany,18,34,3,9,22,28,82,-54,18,0.53,33.7,67.5,-33.8,-0.99,7672,Branimir Hrgota - 9,Sascha Burchert

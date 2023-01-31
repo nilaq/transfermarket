@@ -3,9 +3,10 @@ library(ggplot2)
 library(tidyverse)
 library(dplyr)
 library(lubridate)
+library(stringi)
 
 # read all files in 
-setwd("~/project1")
+# setwd("~/project1")
 folder <- "./transfermarket/"
 csv_files <- list.files(folder, pattern = "*.csv", full.names = TRUE)
 
@@ -21,6 +22,10 @@ rm(df, csv_files, folder, i, var_name)
 # clean player valuations
 player_valuations_clean <- player_valuations %>% 
   mutate(year = year(date)) %>%
+  group_by(player_id, year = year(date)) %>%
+  arrange(player_id, year, abs(as.Date(paste0(year, "-06-30")) - date)) %>%
+  slice_head(n = 1L) %>%
+  ungroup() %>%
   select(-datetime, -dateweek, -current_club_id, -player_club_domestic_competition_id)
 
 # clean players
@@ -28,7 +33,12 @@ players_clean <- players %>%
   select(-country_of_citizenship, -city_of_birth, -market_value_in_eur, -highest_market_value_in_eur,
          -first_name, -last_name, -player_code, -image_url, -url, -current_club_domestic_competition_id) %>%
   mutate(age = trunc((date_of_birth %--% Sys.Date()) / years(1))) %>%
-  rename(club_id = current_club_id)
+  rename(club_id = current_club_id) %>%
+  mutate(name = stri_trans_general(name, "Latin-ASCII"))
+
+# clean player_performance
+player_performance_clean <- player_performance %>%
+  mutate(name = stri_trans_general(name, "Latin-ASCII"))
 
 # clean clubs
 clubs_clean <- clubs %>% 
@@ -44,22 +54,24 @@ goals_per_season <- game_events %>%
   group_by(player_id, year) %>%
   summarise(goals = n())
 
-
 ## Join all tables together into one df
 df_raw <- player_valuations_clean %>%
   left_join(players_clean, by='player_id') %>%
   left_join(clubs_clean, by='club_id') %>%
   mutate(prev_year = year - 1) %>%
-  left_join(goals_per_season, by=c('prev_year' = 'year', 'player_id' = 'player_id')) %>%
-  select(-prev_year) %>%
-  rename(goals_prev_season = goals)
+  # left_join(goals_per_season, by=c('prev_year' = 'year', 'player_id' = 'player_id')) %>%
+  mutate(birthyear = year(date_of_birth)) %>%
+  left_join(player_performance_clean, by=c('name' = 'name', 'year' = 'Year', 'birthyear' = 'birthyear')) %>%
+  select(-prev_year)
+  # rename(goals_prev_season = goals)
 
 ## Restrict Scope of data set
 df <- df_raw %>%
-  filter(year(date) >= 2010) %>%
-  filter(domestic_competition_id %in% (competitions %>%
-           filter(sub_type == 'first_tier') %>%
-           filter(country_name %in% c('Germany', 'Spain', 'France', 'England', 'Italy')))$competition_id)
+  filter(year(date) >= 2018) %>%
+  filter(!is.na(.$minutes_played))
+
+## Check which players from performance data are not correctly linked with transfermarkt data
+player_performance_not_in_df <- anti_join(player_performance_clean, df)
 
 ## create subset for top_transfers
 top_transfers <- df %>%
@@ -68,9 +80,8 @@ top_transfers <- df %>%
 ggplot(top_transfers, aes(x=factor(year), y=market_value_in_eur)) +
   geom_boxplot()
 
-ggplot(df, aes(x=goals_prev_season, y=market_value_in_eur)) + 
+ggplot(df, aes(x=shots, y=market_value_in_eur)) + 
   geom_point() + 
-  facet_wrap(~position) +
   geom_smooth(method='lm')
   
 
