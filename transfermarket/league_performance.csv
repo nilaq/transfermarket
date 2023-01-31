@@ -1,4 +1,4 @@
-﻿,Squad,Country,LgRk,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,xG,xGA,xGD,xGD/90,Attendance,Top Team Scorer,Goalkeeper
+﻿Year,Team,League,League Rank,Matches Played,Wins,Draws,Losses,Goals For,Goals Against,Goal Difference,Points,Points per match,Exp. Goals,Exp. Goals Against,Exp. Goal Difference,Exp. Goal Difference/90 min,Attendance,Top Team Scorer,Goalkeeper
 2018,Manchester City,eng ENG,1,38,32,4,2,106,27,79,100,2.63,78.6,23.8,54.8,1.44,54070,Sergio Agüero - 21,Ederson
 2018,Juventus,it ITA,1,38,30,5,3,86,24,62,95,2.5,55.3,27.4,27.9,0.73,39316,Paulo Dybala - 22,Gianluigi Buffon
 2018,Bayern Munich,de GER,1,34,27,3,4,92,28,64,84,2.47,75.8,31.7,44.1,1.3,75000,Robert Lewandowski - 29,Sven Ulreich
