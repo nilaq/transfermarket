@@ -101,11 +101,8 @@ df_raw <- player_valuations_clean %>%
 
 ## Restrict Scope of data set
 df <- df_raw %>%
-  filter(domestic_competition_id %in% (competitions %>%
-           filter(sub_type == 'first_tier') %>%
-           filter(country_name %in% c('Germany', 'Spain', 'France', 'England', 'Italy')))$competition_id) %>%
   filter(year >= 2018) %>%
-  filter(!is.na(minutes_played)) %>%
+  filter(minutes_played >= 90) %>%
   filter(position != 'Goalkeeper')
 
 ## Check which players from performance data are not correctly linked with transfermarkt data

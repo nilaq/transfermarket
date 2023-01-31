@@ -47,3 +47,11 @@ ggplot(df, aes(x=factor(position), y=market_value_in_eur)) +
   scale_y_log10() +
   ggtitle('Market Value Distribution by position')
 
+ggplot(df, aes(x=age, y=market_value_in_eur)) +
+  geom_point() +
+  geom_smooth(method='lm') +
+  facet_wrap(~position) + 
+  scale_y_log10()
+  
+  
+
