@@ -27,7 +27,7 @@ table(df$season, df$league)
 
 
 # first plots
-theme_set(theme_light())
+theme_set(theme_grey())
 
 ggplot(df, aes(x=goals, y=market_value_in_eur)) + 
   geom_point() + 
@@ -51,15 +51,18 @@ ggplot(df, aes(x=factor(position), y=market_value_in_eur)) +
   ggtitle('Market Value Distribution by position')
 
 ggplot(df, aes(x=age, y=market_value_in_eur)) +
-  geom_point() +
-  geom_smooth() +
+  geom_point(shape=1) +
+  geom_smooth(method='lm', se=F) +
   facet_wrap(~position) + 
-  scale_y_log10()
+  #scale_y_log10() +
+  ggtitle('Market value depending on age and position of the players') +
+  xlab('Age') + ylab('Market valuation (in €), log scale') + theme_grey()
+  
   
 df_raw %>%
   group_by(player_id) %>%
-  mutate(mkt_value_lag = lag(market_value_in_eur)) %>%
-  ggplot(aes(x=mkt_value_lag, y=market_value_in_eur)) + geom_point(shape=1) + geom_smooth(method = 'lm') + scale_x_log10() + scale_y_log10() + geom_abline()
+  mutate(mkt_value_lag = lag(market_value_in_eur), diff = mkt_value_lag - market_value_in_eur) %>%
+  ggplot(aes(x=market_value_in_eur, y=diff)) + geom_point(shape=1) + geom_smooth(method = 'lm') + scale_x_log10() +geom_abline(slope = 0)
 
 df %>%
   group_by(player_id) %>%
