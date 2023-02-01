@@ -49,11 +49,11 @@ player_performance_metadata <- player_performance %>%
   filter(!is.na(player_id)) %>%
   group_by(player_id) %>%
   mutate(transfer_between_season = ifelse(!is.na(lag(team)) & team != lag(team), T, F)) %>%
-  mutate(transfer = transfer_between_season | transfer_during_season) %>%
+  mutate(transfer = as.numeric(transfer_between_season | transfer_during_season)) %>%
   select(-transfer_between_season, -transfer_during_season) %>%
   ungroup() %>%
   left_join(league_performance %>% select(Year, Team, 'League Rank'), by = c('Year', 'team' = 'Team')) %>%
-  mutate(plays_for_top_team = !is.na(.$'League Rank') & .$'League Rank' <= 5) %>%
+  mutate(plays_for_top_team = as.numeric(!is.na(.$'League Rank') & .$'League Rank' <= 5)) %>%
   select(-'League Rank')
 
 
