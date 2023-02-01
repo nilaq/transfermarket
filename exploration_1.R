@@ -1,8 +1,8 @@
 library(tibble)
 library(readr)
-#install.packages('psych')
+library(dplyr)
 library(psych)
-# install.packages('stargazer')
+library(ggplot2)
 library(stargazer)
 
 # load data set
@@ -75,3 +75,20 @@ df %>%
   arrange(season) %>%
   select(market_value_in_eur, date_valuation, season)
 
+df_num <- df %>%
+  select_if(is.numeric) %>%
+  select(market_value_in_eur, plays_for_top_team, everything())
+
+cor_table <- cor(df_num, use = "pairwise.complete.obs")[,1:2] %>%
+  as.data.frame() %>%
+  round(.,3) %>%
+  rownames_to_column("Variable") %>%
+  filter(Variable %in% c("market_value_in_eur", "plays_for_top_team", "height_in_cm", "age", 
+                          "minutes_played", "goals", "assists", "yellow_cards", "red_cards", 
+                          "shots", "shots_on_target", "completed_passes", "goal_creating_action", 
+                          "tackles", "touches", "dribbles_success", "fouls", "aerial_duels_won", 
+                          "aerial_duels_lost"))
+
+stargazer(cor_table, summary = FALSE, title = "Correlations for chosen response variables")
+           
+  
