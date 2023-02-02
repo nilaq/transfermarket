@@ -17,10 +17,13 @@ test_data <- df_raw %>%
 
 # create summary table
 summ <- df %>%
-  select(market_value_in_eur, age, height_in_cm, minutes_played, goals, penalty_goals, assists, completed_passes, completed_passes_pct,
-         dribbles_attempts, dribbles_success, tackles, interceptions, clearances, offside, fouls, yellow_cards, red_cards)
+  select(market_value_in_eur, plays_for_top_team, height_in_cm, age, 
+         minutes_played, goals, assists, yellow_cards, red_cards, 
+         shots, shots_on_target, completed_passes, completed_passes_pct, goal_creating_action, 
+         tackles, touches, dribbles_attempts, dribbles_success, fouls, transfer, penalty_goals,
+         clearances, interceptions, offside)
 
-stargazer(as.data.frame(summ), median = T, title = 'Summary Statistics', omit.stat = 'N')
+stargazer(as.data.frame(summ), median = T, title = 'Descriptive Statistics', omit.stat = 'N')
 
 # observations per year per league
 table(df$season, df$league)
@@ -73,19 +76,22 @@ df %>%
   select(market_value_in_eur, date_valuation, season)
 
 df_num <- df %>%
-  select_if(is.numeric) %>%
-  select(market_value_in_eur, plays_for_top_team, everything())
+  select_if(is.numeric)
 
-cor_table <- cor(df_num, use = "pairwise.complete.obs")[,1:2] %>%
+cor_table <- df_num %>%
+  select(market_value_in_eur, plays_for_top_team, height_in_cm, age, 
+         minutes_played, goals, assists, yellow_cards, red_cards, 
+         shots, shots_on_target, completed_passes, goal_creating_action, 
+         tackles, touches, dribbles_success, fouls, transfer, penalty_goals,
+         clearances, offside) %>%
+  cor(., use = "pairwise.complete.obs") %>%
   as.data.frame() %>%
-  round(.,3) %>%
-  rownames_to_column("Variable") %>%
-  filter(Variable %in% c("market_value_in_eur", "plays_for_top_team", "height_in_cm", "age", 
-                          "minutes_played", "goals", "assists", "yellow_cards", "red_cards", 
-                          "shots", "shots_on_target", "completed_passes", "goal_creating_action", 
-                          "tackles", "touches", "dribbles_success", "fouls", "aerial_duels_won", 
-                          "aerial_duels_lost"))
+  round(.,5)
 
-stargazer(cor_table, summary = FALSE, title = "Correlations for chosen response variables")
+  cor_table[upper.tri(cor_table, diag = FALSE)] <- NA
+  colnames(cor_table)[1:21] <- paste0("(", 1:21, ")")
+  rownames(cor_table) <- paste0("(", 1:nrow(cor_table), ") ", rownames(cor_table))
+
+stargazer(cor_table, summary = FALSE, font.size = "footnotesize", digits = 2, title = "Correlation matrix for several variables")
            
   
