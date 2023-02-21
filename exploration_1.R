@@ -7,14 +7,17 @@ library(stargazer)
 library(knitr)
 
 # load data set
-df_raw <- read_csv("df.csv") %>% select(-...1) %>% arrange(season)
+df_raw <- read_csv("df_raw.csv") %>% select(-...1) %>% arrange(season)
 
 # split data set into test and training data set
 set.seed(123)
-df <- df_raw %>%
-  sample_frac(0.8)
 test_data <- df_raw %>%
-  anti_join(df)
+  filter(season == 2022)
+df <- df_raw %>%
+  anti_join(test_data)
+
+write.csv(df, "df.csv")
+write.csv(test_data, "test_data.csv")
 
 # create summary table
 summ <- df %>%

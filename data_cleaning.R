@@ -25,7 +25,11 @@ player_valuations_clean <- player_valuations %>%
   group_by(player_id, year) %>%
   arrange(player_id, year, abs(as.Date(paste0(year, "-06-30")) - date)) %>%
   slice_head(n = 1L) %>%
+  group_by(player_id) %>%
+  arrange(year) %>%
+  mutate(change_in_market_value = market_value_in_eur - lag(market_value_in_eur)) %>%
   ungroup() %>%
+  mutate(change_in_market_value = ifelse(is.na(change_in_market_value), market_value_in_eur, change_in_market_value)) %>%
   select(-datetime, -dateweek, -current_club_id, -player_club_domestic_competition_id) %>%
   rename(date_valuation = date)
 
@@ -126,7 +130,7 @@ player_performance_not_in_df <- anti_join(player_performance_clean, player_valua
   summarise() %>%
   left_join(players_clean %>% select(player_id, name), by = 'player_id')
 
-write.csv(df, "df.csv")
+write.csv(df, "df_raw.csv")
 
   
 
