@@ -4,6 +4,7 @@ library(dplyr)
 library(psych)
 library(ggplot2)
 library(stargazer)
+library(knitr)
 
 # load data set
 df_raw <- read_csv("df.csv") %>% select(-...1) %>% arrange(season)
@@ -46,7 +47,9 @@ ggplot(df, aes(x=factor(season), y=market_value_in_eur)) +
 ggplot(df, aes(x=factor(league), y=market_value_in_eur)) +
   geom_boxplot() + 
   scale_y_log10() +
-  ggtitle('Market Value Distribution by league')
+  ggtitle('Market Value Distribution by league') +
+  xlab("League") +
+  ylab('Market valuation (in €), log scale')
 
 ggplot(df, aes(x=factor(position), y=market_value_in_eur)) +
   geom_boxplot() + 
@@ -97,4 +100,18 @@ cor_table <- df_num %>%
 
 stargazer(cor_table, summary = FALSE, font.size = "footnotesize", digits = 2, title = "Correlation matrix for several variables")
            
-  
+
+colnames_df <- colnames(df)
+
+# Split the column names into 3 equal parts
+colnames_split <- split(colnames_df, ceiling(seq_along(colnames_df)/(33)))
+
+colnames_df2 <- as.data.frame(do.call(cbind, colnames_split))
+
+# Print the column names in a LaTeX table with 3 columns using kable()
+kable(colnames_df2, "latex", caption = "Column names of the tibble", align = c("l", "l", "l"))
+
+
+df %>%
+  ggplot(aes(x=factor(month(date_of_birth)))) + geom_histogram()
+
