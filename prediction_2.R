@@ -40,21 +40,24 @@ df_clean <- df_full_reg %>%
 
 # don't know how best to deal with _per_90 stats (assists, goals)
 
+# Model 2: Based on the most basic stats
 df_simple <- select(df, c("change_in_market_value", "height_in_cm", "age", "goals", "assists",
                          "tackles", "shots", "passes", "minutes_played", "yellow_cards"))
 
-pairs <- ggpairs(df_basis)
-
-df_basis_90s <- select(df, c("change_in_market_value", "height_in_cm", "age", "goals_per_90", "assists_per_90",
-                             "tackles", "shots", "passes", "minutes_played", "yellow_cards")) %>%
-  mutate(tackles = tackles / (minutes_played / 90), shots = shots / (minutes_played / 90),
-         passes = passes / (minutes_played / 90), yellow_cards = yellow_cards / (minutes_played / 90)) %>%
-  rename(tackles = tackles_per_90, shots = shots_per_90, passes = passes_per_90, yellow_cards = yellows_per_90)
-
-pairs_90s <- ggpairs(df_basis_90s)
-
 model_simple <- lm(change_in_market_value ~ ., data = df_simple)
 
-model3 <- lm(change_in_market_value ~ .:., data = df_clean)
+# create ggpairs plot for data exploration
+pairs <- ggpairs(df_simple)
 
-# thoughts: should we normalize height to get a coefficient that is better interpretable
+# Model 3: Based on the simple model, calculate all performance stats on a "per 90 min" basis
+df_simple_90s <- df_simple %>%
+  mutate(goals = goals / (minutes_played / 90), assists = assists / (minutes_played / 90), 
+         tackles = tackles / (minutes_played / 90), shots = shots / (minutes_played / 90), 
+         passes = passes / (minutes_played / 90), yellow_cards = yellow_cards / (minutes_played / 90)) %>%
+  rename(goals_per_90 = goals, assists_per_90 = assists, tackles_per_90 = tackles, shots_per_90 = shots, 
+         passes_per_90 = passes, yellows_per_90 = yellow_cards)
+
+model3 <- lm(change_in_market_value ~ ., data = df_simple_90s)
+
+# create ggpairs plot again
+pairs_90s <- ggpairs(df_simple_90s)
