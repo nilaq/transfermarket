@@ -114,13 +114,61 @@ test <- read_csv("test_data.csv") %>% select(-...1) %>% arrange(season) %>% sele
   
 test_omit <- na.omit(test)
 
-test_rmse <- sqrt(mean((test_omit$change_in_market_value - predict(model5, test_omit))^2))
+#### The following is the relevant code for Project 3 report
 
+# Prediction on the test set for the regression model
+test_rmse <- sqrt(mean((test_omit$change_in_market_value - predict(model5, test_omit))^2))
+## looking at differences in variance across the sets
+sqrt(var(df$change_in_market_value))
+sqrt(var(test$change_in_market_value))
+
+# Inference
+## Regression output for the chosen model on the training set
+summary(model5)
+stargazer(model5, summary = FALSE, font.size = "footnotesize", digits = 0, title = "Regression Coefficient estimates for best model on training set")
+
+## BONFERRONI
+# Function to count variables significant at certain level of alpha
+significance_count = function(a) {
+  # Extract the p-values
+  pvalues <- summary(model5)$coef[, "Pr(>|t|)"]
+  
+  # Filter the output
+  significant_vars <- names(pvalues[pvalues <= a])
+  
+  return(significant_vars)
+}
+
+# Now define Bonferroni-adjusted significance level
+bonferroni_alpha <- 0.05/43
+
+alpha_005 <- significance_count(0.05)
+alpha_b <- significance_count(bonferroni_alpha)
+
+# Define the set difference of alpha_005 and alpha_b
+alpha_diff <- alpha_005[!(alpha_005 %in% alpha_b)]
+
+# Print the result
+print(alpha_diff)
+
+## Benjamini-Hochberg
+# Extract p-values
+pvalues <- summary(model5)$coef[, "Pr(>|t|)"]
+sorted_pvalues <- sort(pvalues)
+
+# Find the largest j such that q_j <= 0.05*j/43
+j <- 0
+for (i in 1:length(sorted_pvalues)) {
+  if (sorted_pvalues[i] <= 0.05*i/(43*log(43))) {
+    j <- i
+  }
+}
+
+
+## Fitting the chosen model on the test data
 model_test <- lm(change_in_market_value ~ . - age + log(age) - tackles_interceptions + log(tackles_interceptions + 0.1) 
                  - passes + log(passes) - goals + sqrt(goals)
                  + goals:position + passes:position + age:position + goals:age + assists:age + goal_creating_action:age,
                  data = test_omit)
 
-
-sqrt(var(df$change_in_market_value))
-sqrt(var(test$change_in_market_value))
+summary(model_test)
