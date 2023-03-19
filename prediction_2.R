@@ -32,7 +32,7 @@ cor_table <- df %>%
   select_if(is.numeric) %>%
   cor(., use = "pairwise.complete.obs") %>%
   as.data.frame() %>%
-  round(.,5) %>%
+  round(.,5)
   
 df_clean <- df_full_reg %>%
   mutate(aerial_success_pct = aerial_duels_won/(aerial_duels_won + aerial_duels_lost)) %>%

@@ -136,3 +136,8 @@ ggplot(metrics_long, aes(x=k, y=value)) +
   geom_line(aes(color=metric)) +
   ggtitle("Accuracy, Sensitivity and Specificity for different K for KNN at threshold 0.25") +
   ylab("Value") + xlab("K") 
+
+
+
+
+
